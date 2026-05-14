@@ -1,0 +1,591 @@
+- generic [active] [ref=e1]:
+  - button "Skip to main content" [ref=e2]
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#__next"
+    - link "Skip to footer" [ref=e5] [cursor=pointer]:
+      - /url: "#GlobalFooter"
+  - generic [ref=e9]:
+    - link "Glassdoor Home" [ref=e11] [cursor=pointer]:
+      - /url: /index.htm
+      - img [ref=e13]
+    - button "Navigation Menu" [ref=e16] [cursor=pointer]:
+      - img [ref=e17]
+    - button "lottie-animation-container Search" [ref=e22] [cursor=pointer]:
+      - generic [ref=e24]:
+        - generic:
+          - img "lottie-animation-container":
+            - generic:
+              - img
+        - img [ref=e36]
+      - generic [ref=e38]: Search
+    - button "sign in" [ref=e41]:
+      - generic: Sign In
+  - generic [ref=e42]:
+    - form [ref=e45]:
+      - generic [ref=e47]:
+        - img "Search" [ref=e49]
+        - combobox "Find your perfect job" [ref=e50]
+      - generic [ref=e52]:
+        - img "Location" [ref=e54]
+        - combobox "City, state, zipcode, or \"remote\"" [ref=e55]
+      - button "Search" [ref=e57]
+    - generic [ref=e59]:
+      - generic [ref=e60]:
+        - generic [ref=e61]:
+          - img [ref=e62]
+          - generic [ref=e65]:
+            - heading "Are you open to new opportunities?" [level=2] [ref=e66]
+            - generic [ref=e67]: Upload your resume to increase your chances of getting noticed.
+            - button "Upload resume" [ref=e69] [cursor=pointer]
+          - button [ref=e72] [cursor=pointer]:
+            - img
+        - generic [ref=e73]:
+          - generic [ref=e76]:
+            - generic [ref=e77]:
+              - banner [ref=e78]:
+                - generic [ref=e79]:
+                  - generic [ref=e80]:
+                    - link "KBR Logo KBR 4" [ref=e81] [cursor=pointer]:
+                      - /url: /Overview/Working-at-KBR-EI_IE18604.11,14.htm
+                      - img "KBR Logo" [ref=e84]
+                      - generic [ref=e86]:
+                        - heading "KBR" [level=4] [ref=e88]
+                        - meter [ref=e89]:
+                          - text: "4.0"
+                          - img [ref=e90]
+                    - heading "National Security Solutions (NSS) Internship – AI/ML Intern" [level=1] [ref=e93]
+                  - button "More options" [ref=e97] [cursor=pointer]:
+                    - img [ref=e98]
+                - generic [ref=e100]:
+                  - generic [ref=e101]:
+                    - img "Best Places to Work" [ref=e104]:
+                      - img [ref=e105]
+                      - generic [ref=e107]: Best Places to Work
+                    - generic [ref=e108]: Chantilly, VA
+                  - generic [ref=e110]: $98K - $180K (Glassdoor est.)
+                - generic [ref=e111]:
+                  - button "Apply on employer site" [ref=e114]:
+                    - generic:
+                      - generic: Apply on employer site
+                  - button "Save" [ref=e115]:
+                    - generic:
+                      - img
+              - generic [ref=e117]:
+                - button "Save" [ref=e118]:
+                  - generic:
+                    - img
+                - button "Apply on employer site" [ref=e120]:
+                  - generic:
+                    - generic: Apply on employer site
+            - generic [ref=e122]:
+              - generic [ref=e123]: Is your resume a good match?
+              - generic [ref=e124]: Use AI to find out how well the skills on your resume fit this job description.
+              - button "Upload your resume" [ref=e128]:
+                - generic:
+                  - generic:
+                    - img
+                    - text: Upload your resume
+            - generic [ref=e129]:
+              - generic [ref=e130]:
+                - generic [ref=e133]:
+                  - generic [ref=e134]:
+                    - paragraph
+                    - generic [ref=e135]:
+                      - paragraph [ref=e136]:
+                        - generic [ref=e137]: Who We Are
+                      - paragraph [ref=e138]:
+                        - generic [ref=e139]: KBR Mission Technical Solutions
+                        - text: delivers full life cycle professional and technical solutions that improve operational readiness and drive innovation. Our solutions help ensure mission success on land, air, sea, space and cyberspace for the Department of Defense, Intelligence Community, NASA and other federal agencies. KBR’s areas of expertise include engineering, logistics, operations, science, program management, mission IT and cybersecurity. KBR strives to create a safer, more secure and sustainable world by bringing together the best and brightest to deliver technologies and solutions that help our customers accomplish their most critical missions and objectives.
+                      - paragraph
+                      - paragraph [ref=e140]:
+                        - generic [ref=e141]: The Mission Ahead
+                      - paragraph [ref=e142]: This role is with KBR’s Mission Tech Solutions (MTS). At KBR MTS, we don't just envision a world that's safer, more secure, and sustainable - we create it. Our legacy of delivering advanced full life cycle professional and technical solutions is matched only by our commitment to operational readiness and innovation. As stewards of critical missions for the Department of Defense, Intelligence Community, NASA, and other key federal entities, we excel in engineering, logistics, operations, science, program management, mission IT, and cybersecurity. United in our quest for excellence, KBR stands at the vanguard, ready to transform possibilities into impactful realities for a better tomorrow.
+                      - paragraph
+                      - paragraph [ref=e143]:
+                        - generic [ref=e144]: Why Join KBR?
+                      - list [ref=e145]:
+                        - listitem [ref=e146]: Mentorship from experienced subject matter experts
+                        - listitem [ref=e147]: Cutting edge projects, relevant to real world challenges
+                        - listitem [ref=e148]: Work in a collaborative and dynamic team environment
+                        - listitem [ref=e149]: Networking opportunities with other technologists and executives
+                        - listitem [ref=e150]: Competitive pay and great company culture
+                      - paragraph
+                      - paragraph [ref=e151]:
+                        - generic [ref=e152]: As a
+                        - generic [ref=e153]: National Security Solutions –
+                        - generic [ref=e154]: AI/ML Intern
+                        - generic [ref=e155]: ":"
+                      - paragraph
+                      - list [ref=e156]:
+                        - listitem [ref=e157]: Develop and refine machine learning models, experimenting with various architectures and optimization strategies.
+                        - listitem [ref=e158]: Implement clean, modular, and well‑documented code to support data processing, model training, and evaluation workflows.
+                        - listitem [ref=e159]: Collaborate with senior engineers and mentors to translate high‑level research goals into actionable technical tasks.
+                        - listitem [ref=e160]: Perform hands‑on data preparation, including preprocessing, transformation, and quality checks across diverse datasets.
+                        - listitem [ref=e161]: Design and run controlled experiments to compare algorithmic approaches and analyze performance results.
+                        - listitem [ref=e162]: Investigate emerging AI/ML techniques and prototype solutions that can be integrated into existing development pipelines.
+                        - listitem [ref=e163]: Debug, profile, and optimize code to improve model efficiency and overall system performance.
+                        - listitem [ref=e164]: Create visualizations, metrics, and technical summaries to communicate findings and progress to the engineering team.
+                        - listitem [ref=e165]: Work with geospatial datasets, including SAR and EO imagery, to support computer vision and ML experimentation.
+                        - listitem [ref=e166]: Contribute to image-based data processing and analysis efforts that support downstream machine learning development.
+                      - paragraph
+                      - paragraph [ref=e167]: Selected interns for this paid opportunity will be provided with the opportunity to mentor with experienced professionals, gain experience and establish a name for themselves in this high demand career field.
+                      - paragraph
+                      - paragraph [ref=e168]: "Required Skillset:"
+                      - list [ref=e169]:
+                        - listitem [ref=e170]: Currently enrolled and pursuing a Bachelor's, Master’s, or PhD degree in Computer Science, Electrical Engineering, Computer Engineering, Physics, or Applied Math
+                        - listitem [ref=e171]: Strong proficiency in Python and experience with core ML libraries such as NumPy, pandas, scikit‑learn, TensorFlow, or PyTorch.
+                        - listitem [ref=e172]: Solid understanding of machine learning fundamentals, including model training, evaluation, and experimental design.
+                        - listitem [ref=e173]: Ability to preprocess, transform, validate, and manage datasets for training and analysis workflows.
+                        - listitem [ref=e174]: Skilled in writing clean, modular, well‑documented code and debugging or optimizing ML pipelines.
+                        - listitem [ref=e175]: Strong work ethics and interpersonal skills
+                        - listitem [ref=e176]: Strong analytical and problem-solving skills
+                        - listitem [ref=e177]: Excellent written and verbal communication skills
+                      - paragraph
+                      - paragraph [ref=e178]: "Scheduled Weekly Hours: Average 40 hours per week, 10 weeks in duration during the period of Sumer 2026"
+                      - paragraph
+                      - paragraph [ref=e179]: "Requirement:"
+                      - list [ref=e180]:
+                        - listitem [ref=e181]: Must be a US Citizen
+                        - listitem [ref=e182]: Must pass a Security Pre-Screen and have the ability to obtain a security clearance.
+                      - paragraph
+                      - paragraph [ref=e183]:
+                        - text: Belong, Connect and Grow at KBR
+                        - text: At KBR, we are passionate about our people and our Zero Harm culture. These inform all that we do and are at the heart of our commitment to, and ongoing journey toward being a People First company. That commitment is central to our team of team’s philosophy and fosters an environment where everyone can Belong, Connect and Grow. We Deliver – Together.
+                      - paragraph
+                      - paragraph [ref=e184]: KBR is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, disability, sex, sexual orientation, gender identity or expression, age, national origin, veteran status, genetic information, union status and/or beliefs, or any other characteristic protected by federal, state, or local law.
+                    - paragraph
+                  - generic [ref=e185]:
+                    - button "Show more" [ref=e186] [cursor=pointer]:
+                      - generic [ref=e187]: Show more
+                      - img [ref=e188]
+                    - generic [ref=e190] [cursor=pointer]:
+                      - generic [ref=e191]: See company reviews
+                      - img [ref=e192]
+                - button "Is my resume a good match?" [ref=e198]:
+                  - generic:
+                    - generic:
+                      - img
+                      - text: Is my resume a good match?
+              - generic [ref=e199]:
+                - generic [ref=e202]:
+                  - generic [ref=e204]:
+                    - heading "Pay details" [level=2] [ref=e205]
+                    - contentinfo "Chantilly, VA" [ref=e206]:
+                      - generic [ref=e207]:
+                        - generic:
+                          - img
+                        - generic: Chantilly, VA
+                    - generic [ref=e208]: The minimum salary is $98K and the max salary is $180K.
+                  - generic [ref=e209]:
+                    - generic [ref=e210]:
+                      - generic [ref=e211]: $98K – $180K/yr
+                      - generic [ref=e213]: Total pay
+                      - generic [ref=e215]:
+                        - generic [ref=e216]: Glassdoor estimate
+                        - img [ref=e219]
+                    - generic [ref=e222]:
+                      - generic [ref=e223]: $133K
+                      - generic [ref=e224]: Median pay
+                - button "Is this pay right for me?" [ref=e229]:
+                  - generic:
+                    - generic:
+                      - img
+                      - text: Is this pay right for me?
+              - generic [ref=e233]:
+                - generic [ref=e234]:
+                  - heading "Conversations @KBR" [level=2] [ref=e235]
+                  - generic [ref=e236]: Kick off the conversation by asking about salaries, interviews or anything else @KBR.
+                - link "Explore more Bowls" [ref=e247] [cursor=pointer]:
+                  - /url: /Community/search/bowls
+                  - generic [ref=e248]: Explore more Bowls
+                  - img [ref=e249]
+              - generic [ref=e253]:
+                - generic [ref=e254]:
+                  - heading "Working here doesn’t have to be a secret" [level=3] [ref=e255]
+                  - paragraph [ref=e256]: Sign in to browse authentic reviews, anonymous ratings and salary data before you apply.
+                  - button "Sign in" [ref=e258]:
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: Sign in
+                - generic [ref=e261]:
+                  - generic [ref=e262]:
+                    - generic [ref=e263]: "4.0"
+                    - img "4.0 stars out of 5" [ref=e264]:
+                      - status [ref=e265]:
+                        - img [ref=e267]
+                        - img [ref=e270]
+                        - img [ref=e273]
+                        - img [ref=e276]
+                        - generic [ref=e278]:
+                          - img [ref=e279]
+                          - img [ref=e281]
+                  - list "Company Ratings" [ref=e283]:
+                    - listitem [ref=e284]:
+                      - img [ref=e286]:
+                        - generic [ref=e290]: 82 %
+                      - generic [ref=e291]: Recommend to a friend
+                    - listitem [ref=e292]:
+                      - img [ref=e294]:
+                        - generic [ref=e298]: 87 %
+                      - generic [ref=e299]: Approve of CEO
+                    - listitem [ref=e300]:
+                      - img "CEO Stuart J. B. Bradie" [ref=e303]
+                      - generic [ref=e304]:
+                        - generic [ref=e305]: "CEO: Stuart J. B. Bradie"
+                        - generic [ref=e306]: 1,190 Ratings
+          - generic [ref=e308]:
+            - heading "Related pages" [level=3] [ref=e309]
+            - generic [ref=e310]:
+              - link "National Security Solutions (NSS) Internship... jobs in Chantilly, VA" [ref=e312] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Job/jobs.htm?sc.occupationParam=National+Security+Solutions+%28NSS%29+Internship+%E2%80%93+AI%2FML+Intern&sc.locationSeoString=Chantilly&locId=1130353&locT=C
+                - generic [ref=e313]: National Security Solutions (NSS) Internship... jobs in Chantilly, VA
+                - img [ref=e314]
+              - link "Jobs at KBR in Chantilly, VA" [ref=e317] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Jobs/KBR-Jobs-E18604.htm
+                - generic [ref=e318]: Jobs at KBR in Chantilly, VA
+                - img [ref=e319]
+              - link "National Security Solutions (NSS) Internship... salaries in Chantilly, VA" [ref=e322] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Salaries/company-salaries.htm?sc.occupationParam=National+Security+Solutions+%28NSS%29+Internship+%E2%80%93+AI%2FML+Intern&sc.locationSeoString=Chantilly&locId=1130353&locT=C
+                - generic [ref=e323]: National Security Solutions (NSS) Internship... salaries in Chantilly, VA
+                - img [ref=e324]
+              - link "Reviews at KBR" [ref=e327] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Reviews/KBR-Reviews-E18604.htm
+                - generic [ref=e328]: Reviews at KBR
+                - img [ref=e329]
+              - link "Interviews at KBR" [ref=e332] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Interview/KBR-Interview-Questions-E18604.htm
+                - generic [ref=e333]: Interviews at KBR
+                - img [ref=e334]
+              - link "Benefits at KBR" [ref=e337] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Benefits/KBR-US-Benefits-EI_IE18604.0,3_IL.4,6_IN1.htm
+                - generic [ref=e338]: Benefits at KBR
+                - img [ref=e339]
+      - generic [ref=e342]:
+        - generic [ref=e343]:
+          - generic [ref=e344]: More jobs like this one
+          - generic [ref=e345]: Looking for something similar? We've got options.
+        - list "Jobs List" [ref=e347]:
+          - listitem [ref=e348]:
+            - generic [ref=e350] [cursor=pointer]:
+              - generic [ref=e351]:
+                - generic [ref=e352]:
+                  - generic [ref=e353]:
+                    - img "Lockheed Martin Corporation Logo" [ref=e356]
+                    - generic [ref=e358]:
+                      - generic [ref=e359]: Lockheed Martin Corporation
+                      - meter [ref=e360]:
+                        - text: "4.1"
+                        - img [ref=e361]
+                  - link "AI/ML Machine Learning Engineer":
+                    - /url: https://www.glassdoor.com/job-listing/ai-ml-machine-learning-engineer-lockheed-martin-JV_IC1130374_KO0,31_KE32,47.htm?jl=1010109768157
+                  - generic [ref=e363]: Herndon, VA
+                  - generic [ref=e364]: $103K - $136K (Glassdoor est.)
+                  - img "Best Places to Work" [ref=e367]:
+                    - img [ref=e368]
+                    - generic [ref=e370]: Best Places to Work
+                  - link "AI/ML Machine Learning Engineer $103K - $136K (Glassdoor est.) Herndon, VA Lockheed Martin Corporation Logo Lockheed Martin Corporation 4.1":
+                    - /url: /partner/jobListing.htm?pos=101&ao=1136043&s=351&guid=0000019e2514929d88c3326b504bdaca&src=GD_JOB_AD&t=FJ&vt=w&cs=1_dde49de3&cb=1778738566012&jobListingId=1010109768157&jrtk=5-yul1-0-1joih94mfgc0r800-e9d53ab8f6146f70
+                - generic [ref=e371]: 21d
+              - button "Save" [ref=e373]:
+                - generic:
+                  - img
+          - listitem [ref=e374]:
+            - generic [ref=e376] [cursor=pointer]:
+              - generic [ref=e377]:
+                - generic [ref=e378]:
+                  - generic [ref=e379]:
+                    - img "Lockheed Martin Corporation Logo" [ref=e382]
+                    - generic [ref=e384]:
+                      - generic [ref=e385]: Lockheed Martin Corporation
+                      - meter [ref=e386]:
+                        - text: "4.1"
+                        - img [ref=e387]
+                  - link "Senior A/AI Machine Learning Engineer":
+                    - /url: https://www.glassdoor.com/job-listing/senior-a-ai-machine-learning-engineer-lockheed-martin-JV_IC1130374_KO0,37_KE38,53.htm?jl=1010103511573
+                  - generic [ref=e389]: Herndon, VA
+                  - generic [ref=e390]: $134K - $183K (Glassdoor est.)
+                  - img "Best Places to Work" [ref=e393]:
+                    - img [ref=e394]
+                    - generic [ref=e396]: Best Places to Work
+                  - link "Senior A/AI Machine Learning Engineer $134K - $183K (Glassdoor est.) Herndon, VA Lockheed Martin Corporation Logo Lockheed Martin Corporation 4.1":
+                    - /url: /partner/jobListing.htm?pos=102&ao=1136043&s=351&guid=0000019e2514929d88c3326b504bdaca&src=GD_JOB_AD&t=FJ&vt=w&cs=1_503dd381&cb=1778738566012&jobListingId=1010103511573&jrtk=5-yul1-0-1joih94mfgc0r800-72c6dd651f2a50ea
+                - generic [ref=e397]: 27d
+              - button "Save" [ref=e399]:
+                - generic:
+                  - img
+          - listitem [ref=e400]:
+            - generic [ref=e402] [cursor=pointer]:
+              - generic [ref=e403]:
+                - generic [ref=e404]:
+                  - generic [ref=e405]:
+                    - img "Lockheed Martin Corporation Logo" [ref=e408]
+                    - generic [ref=e410]:
+                      - generic [ref=e411]: Lockheed Martin Corporation
+                      - meter [ref=e412]:
+                        - text: "4.1"
+                        - img [ref=e413]
+                  - link "Machine Learning Production & Deployment Engineer":
+                    - /url: https://www.glassdoor.com/job-listing/machine-learning-production-deployment-engineer-lockheed-martin-JV_IC1130381_KO0,47_KE48,63.htm?jl=1010123097995
+                  - generic [ref=e415]: Manassas, VA
+                  - generic [ref=e416]: $80K - $118K (Glassdoor est.)
+                  - img "Best Places to Work" [ref=e419]:
+                    - img [ref=e420]
+                    - generic [ref=e422]: Best Places to Work
+                  - link "Machine Learning Production & Deployment Engineer $80K - $118K (Glassdoor est.) Manassas, VA Lockheed Martin Corporation Logo Lockheed Martin Corporation 4.1":
+                    - /url: /partner/jobListing.htm?pos=103&ao=1136043&s=351&guid=0000019e2514929d88c3326b504bdaca&src=GD_JOB_AD&t=FJ&vt=w&cs=1_a24b2374&cb=1778738566012&jobListingId=1010123097995&jrtk=5-yul1-0-1joih94mfgc0r800-de32ca2e6eff3711
+                - generic [ref=e423]: 9d
+              - button "Save" [ref=e425]:
+                - generic:
+                  - img
+          - listitem [ref=e426]:
+            - generic [ref=e428] [cursor=pointer]:
+              - generic [ref=e429]:
+                - generic [ref=e430]:
+                  - generic [ref=e431]:
+                    - img "Lockheed Martin Corporation Logo" [ref=e434]
+                    - generic [ref=e436]:
+                      - generic [ref=e437]: Lockheed Martin Corporation
+                      - meter [ref=e438]:
+                        - text: "4.1"
+                        - img [ref=e439]
+                  - link "AI/ML Machine Learning Engineer (Level 2-4)":
+                    - /url: https://www.glassdoor.com/job-listing/ai-ml-machine-learning-engineer-level-24-lockheed-martin-JV_IC1130374_KO0,40_KE41,56.htm?jl=1010119259253
+                  - generic [ref=e441]: Herndon, VA
+                  - generic [ref=e442]: $109K - $192K (Employer provided)
+                  - img "Best Places to Work" [ref=e445]:
+                    - img [ref=e446]
+                    - generic [ref=e448]: Best Places to Work
+                  - link "AI/ML Machine Learning Engineer (Level 2-4) $109K - $192K (Employer provided) Herndon, VA Lockheed Martin Corporation Logo Lockheed Martin Corporation 4.1":
+                    - /url: /partner/jobListing.htm?pos=104&ao=1136043&s=351&guid=0000019e2514929d88c3326b504bdaca&src=GD_JOB_AD&t=FJ&vt=w&cs=1_13c03159&cb=1778738566012&jobListingId=1010119259253&jrtk=5-yul1-0-1joih94mfgc0r800-5fa0b7bcc9d83da8
+                - generic [ref=e449]: 13d
+              - button "Save" [ref=e451]:
+                - generic:
+                  - img
+          - listitem [ref=e452]:
+            - generic [ref=e454] [cursor=pointer]:
+              - generic [ref=e455]:
+                - generic [ref=e456]:
+                  - generic [ref=e457]:
+                    - img "Lockheed Martin Corporation Logo" [ref=e460]
+                    - generic [ref=e462]:
+                      - generic [ref=e463]: Lockheed Martin Corporation
+                      - meter [ref=e464]:
+                        - text: "4.1"
+                        - img [ref=e465]
+                  - link "Senior AI/ML Machine Learning Engineer":
+                    - /url: https://www.glassdoor.com/job-listing/senior-ai-ml-machine-learning-engineer-lockheed-martin-JV_IC1130374_KO0,38_KE39,54.htm?jl=1010095879561
+                  - generic [ref=e467]: Herndon, VA
+                  - generic [ref=e468]: $109K - $192K (Employer provided)
+                  - img "Best Places to Work" [ref=e471]:
+                    - img [ref=e472]
+                    - generic [ref=e474]: Best Places to Work
+                  - link "Senior AI/ML Machine Learning Engineer $109K - $192K (Employer provided) Herndon, VA Lockheed Martin Corporation Logo Lockheed Martin Corporation 4.1":
+                    - /url: /partner/jobListing.htm?pos=105&ao=1136043&s=351&guid=0000019e2514929d88c3326b504bdaca&src=GD_JOB_AD&t=FJ&vt=w&cs=1_f949636a&cb=1778738566012&jobListingId=1010095879561&jrtk=5-yul1-0-1joih94mfgc0r800-73b01aeceb3fe5e5
+                - generic [ref=e475]: 30d+
+              - button "Save" [ref=e477]:
+                - generic:
+                  - img
+          - listitem [ref=e478]:
+            - generic [ref=e480] [cursor=pointer]:
+              - generic [ref=e481]:
+                - generic [ref=e482]:
+                  - generic [ref=e483]:
+                    - img "Deloitte Logo" [ref=e486]
+                    - generic [ref=e488]:
+                      - generic [ref=e489]: Deloitte
+                      - meter [ref=e490]:
+                        - text: "3.8"
+                        - img [ref=e491]
+                  - link "GenAI Engineer":
+                    - /url: https://www.glassdoor.com/job-listing/genai-engineer-deloitte-JV_IC1130337_KO0,14_KE15,23.htm?jl=1010116567814
+                  - generic [ref=e493]: Arlington, VA
+                  - generic [ref=e494]: $93K - $141K (Glassdoor est.)
+                  - link "GenAI Engineer $93K - $141K (Glassdoor est.) Arlington, VA Deloitte Logo Deloitte 3.8":
+                    - /url: /partner/jobListing.htm?pos=106&ao=1136043&s=351&guid=0000019e2514929d88c3326b504bdaca&src=GD_JOB_AD&t=FJ&vt=w&cs=1_339ab850&cb=1778738566012&jobListingId=1010116567814&jrtk=5-yul1-0-1joih94mfgc0r800-6311fad25a8ab74f
+                - generic [ref=e495]: 15d
+              - button "Save" [ref=e497]:
+                - generic:
+                  - img
+          - listitem [ref=e498]:
+            - generic [ref=e500] [cursor=pointer]:
+              - generic [ref=e501]:
+                - generic [ref=e502]:
+                  - generic [ref=e503]:
+                    - img "Deloitte Logo" [ref=e506]
+                    - generic [ref=e508]:
+                      - generic [ref=e509]: Deloitte
+                      - meter [ref=e510]:
+                        - text: "3.8"
+                        - img [ref=e511]
+                  - link "Senior GenAI Engineer":
+                    - /url: https://www.glassdoor.com/job-listing/senior-genai-engineer-deloitte-JV_IC1130337_KO0,21_KE22,30.htm?jl=1010116567788
+                  - generic [ref=e513]: Arlington, VA
+                  - generic [ref=e514]: $113K - $162K (Glassdoor est.)
+                  - link "Senior GenAI Engineer $113K - $162K (Glassdoor est.) Arlington, VA Deloitte Logo Deloitte 3.8":
+                    - /url: /partner/jobListing.htm?pos=107&ao=1136043&s=351&guid=0000019e2514929d88c3326b504bdaca&src=GD_JOB_AD&t=FJ&vt=w&cs=1_94a7c942&cb=1778738566012&jobListingId=1010116567788&jrtk=5-yul1-0-1joih94mfgc0r800-f5f5fce3c67fbbe5
+                - generic [ref=e515]: 15d
+              - button "Save" [ref=e517]:
+                - generic:
+                  - img
+          - listitem [ref=e518]:
+            - generic [ref=e520] [cursor=pointer]:
+              - generic [ref=e521]:
+                - generic [ref=e522]:
+                  - generic [ref=e523]:
+                    - img "Deloitte Logo" [ref=e526]
+                    - generic [ref=e528]:
+                      - generic [ref=e529]: Deloitte
+                      - meter [ref=e530]:
+                        - text: "3.8"
+                        - img [ref=e531]
+                  - link "GenAI Solutions Architect - SFL Scientific":
+                    - /url: https://www.glassdoor.com/job-listing/genai-solutions-architect-sfl-scientific-deloitte-JV_IC1158535_KO0,40_KE41,49.htm?jl=1009887569033
+                  - generic [ref=e533]: McLean, VA
+                  - generic [ref=e534]: $108K - $198K (Employer provided)
+                  - link "GenAI Solutions Architect - SFL Scientific $108K - $198K (Employer provided) McLean, VA Deloitte Logo Deloitte 3.8":
+                    - /url: /partner/jobListing.htm?pos=108&ao=1136043&s=351&guid=0000019e2514929d88c3326b504bdaca&src=GD_JOB_AD&t=FJ&vt=w&cs=1_91dc160e&cb=1778738566012&jobListingId=1009887569033&jrtk=5-yul1-0-1joih94mfgc0r800-36dcbd59b5f65383
+                - generic [ref=e535]: 30d+
+              - button "Save" [ref=e537]:
+                - generic:
+                  - img
+        - link "See more jobs" [ref=e540] [cursor=pointer]:
+          - /url: /Job/chantilly-machine-learning-engineer-jobs-SRCH_IL.0,9_IC1130353_KO10,35.htm
+          - generic [ref=e541]: See more jobs
+          - img [ref=e542]
+  - contentinfo [ref=e545]:
+    - separator [ref=e546]
+    - generic [ref=e547]:
+      - img [ref=e549]
+      - generic [ref=e551]:
+        - generic [ref=e552]:
+          - heading "Glassdoor" [level=3] [ref=e553]
+          - list "Glassdoor" [ref=e554]:
+            - listitem [ref=e555]:
+              - link "About / Press" [ref=e556] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/about/
+            - listitem [ref=e557]:
+              - link "Awards" [ref=e558] [cursor=pointer]:
+                - /url: /Award/index.htm
+            - listitem [ref=e559]:
+              - link "Blog" [ref=e560] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=e561]:
+              - link "Research" [ref=e562] [cursor=pointer]:
+                - /url: /research/
+            - listitem [ref=e563]:
+              - link "Contact Us" [ref=e564] [cursor=pointer]:
+                - /url: https://help.glassdoor.com/ContactUs/en_US/
+            - listitem [ref=e565]:
+              - link "Guides" [ref=e566] [cursor=pointer]:
+                - /url: /blog/guides/
+        - generic [ref=e567]:
+          - heading "Employers" [level=3] [ref=e568]
+          - list "Employers" [ref=e569]:
+            - listitem [ref=e570]:
+              - link "Free Employer Account" [ref=e571] [cursor=pointer]:
+                - /url: /employers/sign-up/?src=gdfoot
+            - listitem [ref=e572]:
+              - link "Employer Center" [ref=e573] [cursor=pointer]:
+                - /url: /employers/ec/index.htm
+            - listitem [ref=e574]:
+              - link "Employers Blog" [ref=e575] [cursor=pointer]:
+                - /url: /employers/blog
+        - generic [ref=e576]:
+          - heading "Information" [level=3] [ref=e577]
+          - list "Information" [ref=e578]:
+            - listitem [ref=e579]:
+              - link "Help" [ref=e580] [cursor=pointer]:
+                - /url: https://help.glassdoor.com
+            - listitem [ref=e581]:
+              - link "Guidelines" [ref=e582] [cursor=pointer]:
+                - /url: https://help.glassdoor.com/article/Community-Guidelines/en_US
+            - listitem [ref=e583]:
+              - link "Terms of Use" [ref=e584] [cursor=pointer]:
+                - /url: /about/terms/
+            - listitem [ref=e585]:
+              - link "Privacy & Ad Choices" [ref=e586] [cursor=pointer]:
+                - /url: https://hrtechprivacy.com/brands/glassdoor#privacypolicy
+            - listitem [ref=e587]:
+              - link "Do Not Sell Or Share My Information" [ref=e588] [cursor=pointer]:
+                - /url: /about/doNotSell.htm
+            - listitem [ref=e589]:
+              - link "Cookie Consent Tool" [ref=e590] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e591]:
+              - link "Security" [ref=e592] [cursor=pointer]:
+                - /url: /about/security
+        - generic [ref=e593]:
+          - heading "Work With Us" [level=3] [ref=e594]
+          - list "Work With Us" [ref=e595]:
+            - listitem [ref=e596]:
+              - link "Advertisers" [ref=e597] [cursor=pointer]:
+                - /url: /post-job/
+            - listitem [ref=e598]:
+              - link "Careers" [ref=e599] [cursor=pointer]:
+                - /url: /Jobs/Glassdoor-Jobs-E100431.htm
+    - generic [ref=e600]:
+      - generic [ref=e601]:
+        - generic [ref=e602]: Download the App
+        - list [ref=e603]:
+          - listitem [ref=e604]:
+            - link "Download Glassdoor app from android" [ref=e605] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.glassdoor.app&hl=en&gl=us
+              - img [ref=e606]
+          - listitem [ref=e608]:
+            - link "Download Glassdoor app from apple" [ref=e609] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/glassdoor-jobs-careers/id589698942
+              - img [ref=e610]
+      - list [ref=e612]:
+        - listitem [ref=e613]:
+          - link "opens glassdoor link" [ref=e614] [cursor=pointer]:
+            - /url: /glassdoor
+            - img [ref=e615]
+        - listitem [ref=e618]:
+          - link "opens linkedin link in new window" [ref=e619] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/glassdoor
+            - img [ref=e620]
+        - listitem [ref=e623]:
+          - link "opens youtube link in new window" [ref=e624] [cursor=pointer]:
+            - /url: https://youtube.com/Glassdoor
+            - img [ref=e625]
+        - listitem [ref=e628]:
+          - link "opens instagram link in new window" [ref=e629] [cursor=pointer]:
+            - /url: https://instagram.com/glassdoor
+            - img [ref=e630]
+        - listitem [ref=e634]:
+          - link "opens tiktok link in new window" [ref=e635] [cursor=pointer]:
+            - /url: https://tiktok.com/@glassdoor
+            - img [ref=e636]
+      - generic [ref=e640]:
+        - combobox "Select your country" [ref=e641]:
+          - generic:
+            - generic: United States
+          - img [ref=e643]
+        - combobox [ref=e645]
+    - separator [ref=e646]
+    - generic [ref=e647]:
+      - list [ref=e648]:
+        - listitem [ref=e649]: "Browse by:"
+        - listitem [ref=e650]:
+          - link "Companies" [ref=e651] [cursor=pointer]:
+            - /url: /sitedirectory/company-jobs.htm
+          - text: ","
+        - listitem [ref=e652]:
+          - link "Jobs" [ref=e653] [cursor=pointer]:
+            - /url: /sitedirectory/title-jobs.htm
+          - text: ","
+        - listitem [ref=e654]:
+          - link "Locations" [ref=e655] [cursor=pointer]:
+            - /url: /sitedirectory/city-jobs.htm
+          - text: ","
+        - listitem [ref=e656]:
+          - link "Communities" [ref=e657] [cursor=pointer]:
+            - /url: /sitedirectory/communities.htm
+          - text: ","
+        - listitem [ref=e658]:
+          - link "Recent Posts" [ref=e659] [cursor=pointer]:
+            - /url: /sitedirectory/recent-posts.htm
+      - paragraph [ref=e661]: Copyright © 2008-2026. Glassdoor LLC. "Glassdoor," "Worklife Pro," "Bowls," and logo are proprietary trademarks of Glassdoor LLC.
+  - alert [ref=e662]

@@ -1,0 +1,17 @@
+{
+  "mcpServers": {
+    "filesystem": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\tahaj\\AppData\\Roaming\\npm\\node_modules\\@modelcontextprotocol\\server-filesystem\\dist\\index.js",
+        "C:\\Users\\tahaj\\aijobhunter"
+      ]
+    },
+    "playwright": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\tahaj\\AppData\\Roaming\\npm\\node_modules\\@playwright\\mcp\\cli.js"
+      ]
+    }
+  }
+}

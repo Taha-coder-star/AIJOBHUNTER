@@ -1,0 +1,70 @@
+[      60ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[     167ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[     275ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[     384ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    2344ms] [LOG] %c EvalError
+    at nl (https://client.protechts.net/PXdOjV695v/main.min.js:2:68728)
+    at po (https://client.protechts.net/PXdOjV695v/main.min.js:2:72590)
+    at IE (https://client.protechts.net/PXdOjV695v/main.min.js:2:222678)
+    at IC (https://client.protechts.net/PXdOjV695v/main.min.js:2:222295)
+    at https://client.protechts.net/PXdOjV695v/main.min.js:2:224023
+    at https://client.protechts.net/PXdOjV695v/main.min.js:2:224029
+    at https://client.protechts.net/PXdOjV695v/main.min.js:2:224494 @ https://client.protechts.net/PXdOjV695v/main.min.js:1
+[    2379ms] [LOG] %c EvalError
+    at nl (https://client.protechts.net/PXdOjV695v/main.min.js:2:68728)
+    at po (https://client.protechts.net/PXdOjV695v/main.min.js:2:72590)
+    at IE (https://client.protechts.net/PXdOjV695v/main.min.js:2:222678)
+    at IC (https://client.protechts.net/PXdOjV695v/main.min.js:2:222295)
+    at https://client.protechts.net/PXdOjV695v/main.min.js:2:224023
+    at https://client.protechts.net/PXdOjV695v/main.min.js:2:224029
+    at https://client.protechts.net/PXdOjV695v/main.min.js:2:224494 @ https://client.protechts.net/PXdOjV695v/main.min.js:1
+[    2584ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    2859ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    3121ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    3280ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    3529ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    3733ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    4026ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    4149ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    4259ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    4502ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    4607ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    4784ms] [LOG] visitor.publishDestinations() result: Attempted to attach and load the destination publishing iframe through this API call. Result: The destination publishing iframe was attached and loaded successfully. @ https://platform.linkedin.com/litms/utag/voyager-web-jobs/utag.js?cb=1778738400000:7
+[    4893ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    4995ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5089ms] TypeError: Cannot read properties of null (reading 'entityUrn')
+    at https://static.licdn.com/aero-v1/sc/h/4xa7e8s49tfeuzxgra3dvujm1:76447:67
+    at https://static.licdn.com/aero-v1/sc/h/4xa7e8s49tfeuzxgra3dvujm1:76449:106
+    at Proxy.forEach (https://static.licdn.com/aero-v1/sc/h/6xit43scc04ns3vx47p7zv81u:1951:3)
+    at https://static.licdn.com/aero-v1/sc/h/4xa7e8s49tfeuzxgra3dvujm1:76442:96
+    at _ (https://static.licdn.com/aero-v1/sc/h/6xit43scc04ns3vx47p7zv81u:7182:12)
+    at y (https://static.licdn.com/aero-v1/sc/h/6xit43scc04ns3vx47p7zv81u:7181:3)
+    at invokeWithOnError (https://static.licdn.com/aero-v1/sc/h/6xit43scc04ns3vx47p7zv81u:6105:199)
+    at h.flush (https://static.licdn.com/aero-v1/sc/h/6xit43scc04ns3vx47p7zv81u:6089:20)
+    at p.flush (https://static.licdn.com/aero-v1/sc/h/6xit43scc04ns3vx47p7zv81u:6117:52)
+    at B._end (https://static.licdn.com/aero-v1/sc/h/6xit43scc04ns3vx47p7zv81u:6219:9)
+    at B._boundAutorunEnd (https://static.licdn.com/aero-v1/sc/h/6xit43scc04ns3vx47p7zv81u:6155:6)
+[    5099ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5215ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5317ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5420ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5523ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5632ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5740ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5848ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    5959ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    6060ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    6162ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    6271ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    6373ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    6488ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    6598ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    6706ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    6812ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    6924ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    7033ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    7140ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    7248ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    7358ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    7467ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0
+[    7576ms] [ERROR] Failed to load resource: net::ERR_FAILED @ chrome-extension://invalid/:0

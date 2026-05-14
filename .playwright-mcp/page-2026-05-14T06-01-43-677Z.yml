@@ -1,0 +1,1132 @@
+- generic [active] [ref=e1]:
+  - button "Skip to main content" [ref=e2]
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#__next"
+    - link "Skip to footer" [ref=e5] [cursor=pointer]:
+      - /url: "#GlobalFooter"
+  - generic [ref=e9]:
+    - link "Glassdoor Home" [ref=e11] [cursor=pointer]:
+      - /url: /index.htm
+      - img [ref=e13]
+    - button "Navigation Menu" [ref=e16] [cursor=pointer]:
+      - img [ref=e17]
+    - button "lottie-animation-container Search" [ref=e22] [cursor=pointer]:
+      - generic [ref=e24]:
+        - generic:
+          - img "lottie-animation-container":
+            - generic:
+              - img
+        - img [ref=e36]
+      - generic [ref=e38]: Search
+    - button "sign in" [ref=e41]:
+      - generic: Sign In
+  - generic [ref=e42]:
+    - form [ref=e45]:
+      - generic [ref=e47]:
+        - img "Search" [ref=e49]
+        - combobox "Find your perfect job" [ref=e50]: machine learning intern
+      - generic [ref=e52]:
+        - img "Location" [ref=e54]
+        - combobox "City, state, zipcode, or \"remote\"" [ref=e55]: United States
+      - button "Open filter menu" [ref=e58] [cursor=pointer]:
+        - img [ref=e59]
+      - button "Search" [ref=e62]
+    - navigation [ref=e64]:
+      - generic [ref=e65]:
+        - tablist [ref=e70]:
+          - link "For You" [ref=e74] [cursor=pointer]:
+            - /url: /Job/index.htm?prevPage=serp
+            - img [ref=e75]
+            - generic [ref=e79]: For You
+          - link "Search" [ref=e83] [cursor=pointer]:
+            - /url: /Job/jobs-SRCH_IN1.htm
+            - generic [ref=e84]: Search
+        - button "Create job alert" [ref=e89]:
+          - generic:
+            - generic:
+              - img
+              - generic: Create job alert
+    - generic [ref=e90]:
+      - generic [ref=e91]:
+        - button "Easy Apply only" [ref=e92] [cursor=pointer]
+        - button "Remote only" [ref=e93] [cursor=pointer]
+        - generic [ref=e95] [cursor=pointer]:
+          - button "Company rating" [ref=e96]
+          - button [ref=e97]:
+            - img [ref=e98]
+        - generic [ref=e101] [cursor=pointer]:
+          - button "Date posted" [ref=e102]
+          - button [ref=e103]:
+            - img [ref=e104]
+        - generic [ref=e107] [cursor=pointer]:
+          - button "Salary range" [ref=e108]
+          - button [ref=e109]:
+            - img [ref=e111]
+      - generic [ref=e112]:
+        - generic [ref=e113]:
+          - generic [ref=e114]:
+            - img [ref=e115]
+            - generic [ref=e118]:
+              - heading "Are you open to new opportunities?" [level=2] [ref=e119]
+              - generic [ref=e120]: Upload your resume to increase your chances of getting noticed.
+              - button "Upload resume" [ref=e122] [cursor=pointer]
+            - button [ref=e125] [cursor=pointer]:
+              - img
+          - generic [ref=e126]:
+            - heading "926 Machine learning intern jobs in United States" [level=1] [ref=e129]
+            - generic [ref=e131] [cursor=pointer]:
+              - button "Most relevant" [ref=e132]
+              - button [ref=e133]:
+                - img [ref=e134]
+          - generic [ref=e136]:
+            - list "Jobs List" [ref=e137]:
+              - listitem [ref=e138]:
+                - generic [ref=e140] [cursor=pointer]:
+                  - generic [ref=e141]:
+                    - generic [ref=e142]:
+                      - generic [ref=e143]:
+                        - img "Oakland University Logo" [ref=e146]
+                        - generic [ref=e148]:
+                          - generic [ref=e149]: Oakland University
+                          - meter [ref=e150]:
+                            - text: "3.8"
+                            - img [ref=e151]
+                      - link "Research Intern":
+                        - /url: https://www.glassdoor.com/job-listing/research-intern-oakland-university-JV_IC1134721_KO0,15_KE16,34.htm?jl=1010036914696
+                      - generic [ref=e153]: Rochester, MI
+                      - generic [ref=e154]: $20.00 Per Hour (Employer provided)
+                      - generic [ref=e155]:
+                        - generic [ref=e156]: Currently enrolled in an undergraduate or graduate program in Computer Science, Computer Engineering, Software Engineering, or a closely related field.&hellip;
+                        - generic [ref=e157]: "Skills: Scientific research, Distributed systems, Software development, Software testing, Cloud computing"
+                      - link "Research Intern $20.00 Per Hour (Employer provided) Rochester, MI Oakland University Logo Oakland University 3.8":
+                        - /url: /partner/jobListing.htm?pos=101&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_e44547e2&cb=1778738493742&jobListingId=1010036914696&jrtk=5-yul1-0-1joih6u0d2k06000-51bdaefca074841b
+                      - button "Discover more" [ref=e159]:
+                        - generic [ref=e160]: Discover more
+                        - img [ref=e161]
+                    - generic [ref=e163]: 30d+
+                  - button "Save" [ref=e165]:
+                    - generic:
+                      - img
+              - listitem [ref=e166]:
+                - generic [ref=e168] [cursor=pointer]:
+                  - generic [ref=e169]:
+                    - generic [ref=e170]:
+                      - generic [ref=e171]:
+                        - img "Alibaba Group Logo" [ref=e174]
+                        - generic [ref=e176]:
+                          - generic [ref=e177]: Alibaba Group
+                          - meter [ref=e178]:
+                            - text: "3.7"
+                            - img [ref=e179]
+                      - link "Alibaba.com-Accio-Research Intern-Sunnyvale":
+                        - /url: https://www.glassdoor.com/job-listing/alibaba-com-accio-research-intern-sunnyvale-alibaba-group-JV_IC1147442_KO0,43_KE44,57.htm?jl=1009963618634
+                      - generic [ref=e181]: Sunnyvale, CA
+                      - generic [ref=e182]: $105K - $197K (Glassdoor est.)
+                      - generic [ref=e183]:
+                        - generic [ref=e184]: Ability to implement and verify state-of-the-art NLP or Computer Vision algorithms. Deliver full projects by defining the data structure, framework, design, and…&hellip;
+                        - generic [ref=e185]: "Skills: Statistics, Computer vision, Data structures, Statistical analysis, Math"
+                      - link "Alibaba.com-Accio-Research Intern-Sunnyvale $105K - $197K (Glassdoor est.) Sunnyvale, CA Alibaba Group Logo Alibaba Group 3.7":
+                        - /url: /partner/jobListing.htm?pos=102&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_f16fc00f&cb=1778738493743&jobListingId=1009963618634&jrtk=5-yul1-0-1joih6u0d2k06000-a947dfeaaa1d67fc
+                      - button "Discover more" [ref=e187]:
+                        - generic [ref=e188]: Discover more
+                        - img [ref=e189]
+                    - generic [ref=e191]: 30d+
+                  - button "Save" [ref=e193]:
+                    - generic:
+                      - img
+              - listitem [ref=e194]:
+                - generic [ref=e196] [cursor=pointer]:
+                  - generic [ref=e197]:
+                    - generic [ref=e198]:
+                      - generic [ref=e199]:
+                        - img "Tesla Logo" [ref=e202]
+                        - generic [ref=e204]:
+                          - generic [ref=e205]: Tesla
+                          - meter [ref=e206]:
+                            - text: "3.5"
+                            - img [ref=e207]
+                      - link "AI Engineering Intern, Summer 2026":
+                        - /url: https://www.glassdoor.com/job-listing/ai-engineering-intern-summer-2026-tesla-JV_IC1147434_KO0,33_KE34,39.htm?jl=1009998835636
+                      - generic [ref=e209]: Palo Alto, CA
+                      - generic [ref=e210]: $100K - $150K (Employer provided)
+                      - generic [ref=e211]:
+                        - generic [ref=e212]: Leverage millions of miles of driving data and interventions to build a robust and scalable end-to-end learning based self-driving system.&hellip;
+                        - generic [ref=e213]: "Skills: TensorFlow, Computer vision, Research, Scalability, Data collection"
+                      - link "AI Engineering Intern, Summer 2026 $100K - $150K (Employer provided) Palo Alto, CA Tesla Logo Tesla 3.5":
+                        - /url: /partner/jobListing.htm?pos=103&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_a1ba7c1c&cb=1778738493743&jobListingId=1009998835636&jrtk=5-yul1-0-1joih6u0d2k06000-4d312c376fb13d48
+                      - button "Discover more" [ref=e215]:
+                        - generic [ref=e216]: Discover more
+                        - img [ref=e217]
+                    - generic [ref=e219]: 30d+
+                  - button "Save" [ref=e221]:
+                    - generic:
+                      - img
+              - listitem [ref=e222]:
+                - generic [ref=e224] [cursor=pointer]:
+                  - generic [ref=e225]:
+                    - generic [ref=e226]:
+                      - generic [ref=e227]:
+                        - img "Tesla Logo" [ref=e230]
+                        - generic [ref=e232]:
+                          - generic [ref=e233]: Tesla
+                          - meter [ref=e234]:
+                            - text: "3.5"
+                            - img [ref=e235]
+                      - link "Internship, Applied AI Engineer, AI Hardware (Summer 2026)":
+                        - /url: https://www.glassdoor.com/job-listing/internship-applied-ai-engineer-ai-hardware-summer-2026-tesla-JV_IC1147434_KO0,54_KE55,60.htm?jl=1010036956573
+                      - generic [ref=e237]: Palo Alto, CA
+                      - generic [ref=e238]: $50.00 - $70.00 Per Hour (Employer provided)
+                      - generic [ref=e239]:
+                        - generic [ref=e240]: Oversee the setup, configuration, and performance tuning of EDA tools for digital, analog, and mixed-signal design, including simulation (e.g., SPICE, Verilog…&hellip;
+                        - generic [ref=e241]: "Skills: TensorFlow, Performance tuning, Electrical engineering, Analysis skills, Perl"
+                      - link "Internship, Applied AI Engineer, AI Hardware (Summer 2026) $50.00 - $70.00 Per Hour (Employer provided) Palo Alto, CA Tesla Logo Tesla 3.5":
+                        - /url: /partner/jobListing.htm?pos=104&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_4ddf2459&cb=1778738493743&jobListingId=1010036956573&jrtk=5-yul1-0-1joih6u0d2k06000-1ee63a7e2940d338
+                      - button "Discover more" [ref=e243]:
+                        - generic [ref=e244]: Discover more
+                        - img [ref=e245]
+                    - generic [ref=e247]: 30d+
+                  - button "Save" [ref=e249]:
+                    - generic:
+                      - img
+              - listitem [ref=e250]:
+                - generic [ref=e252] [cursor=pointer]:
+                  - generic [ref=e253]:
+                    - generic [ref=e254]:
+                      - generic [ref=e255]:
+                        - img "Tesla Logo" [ref=e258]
+                        - generic [ref=e260]:
+                          - generic [ref=e261]: Tesla
+                          - meter [ref=e262]:
+                            - text: "3.5"
+                            - img [ref=e263]
+                      - link "Internship, Software Engineer, AI Inference (Summer 2026)":
+                        - /url: https://www.glassdoor.com/job-listing/internship-software-engineer-ai-inference-summer-2026-tesla-JV_IC1147434_KO0,53_KE54,59.htm?jl=1010038555845
+                      - generic [ref=e265]: Palo Alto, CA
+                      - generic [ref=e266]: $100K - $150K (Employer provided)
+                      - generic [ref=e267]:
+                        - generic [ref=e268]: Pursuing a degree in Computer Science, Computer Engineering, or relevant field of study with a graduation date between December 2026 – August 2027.&hellip;
+                        - generic [ref=e269]: "Skills: Software deployment, C, AI"
+                      - link "Internship, Software Engineer, AI Inference (Summer 2026) $100K - $150K (Employer provided) Palo Alto, CA Tesla Logo Tesla 3.5":
+                        - /url: /partner/jobListing.htm?pos=105&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_5fe11938&cb=1778738493743&jobListingId=1010038555845&jrtk=5-yul1-0-1joih6u0d2k06000-3776fe4755ba85cb
+                      - button "Discover more" [ref=e271]:
+                        - generic [ref=e272]: Discover more
+                        - img [ref=e273]
+                    - generic [ref=e275]: 30d+
+                  - button "Save" [ref=e277]:
+                    - generic:
+                      - img
+              - listitem [ref=e278]:
+                - generic [ref=e280] [cursor=pointer]:
+                  - generic [ref=e281]:
+                    - generic [ref=e282]:
+                      - generic [ref=e283]:
+                        - img "KPMG Logo" [ref=e286]
+                        - generic [ref=e288]:
+                          - generic [ref=e289]: KPMG
+                          - meter [ref=e290]:
+                            - text: "3.7"
+                            - img [ref=e291]
+                      - link "Advisory Seasonal Intern, Federal Technology Enablement - PhD Data Science/Data Engineer | McLean Summer 2026":
+                        - /url: https://www.glassdoor.com/job-listing/advisory-seasonal-intern-federal-technology-enablement-phd-data-science-data-engineer-mclean-summer-2026-kpmg-JV_IC1158535_KO0,104_KE105,109.htm?jl=1010122735881
+                      - generic [ref=e293]: McLean, VA
+                      - generic [ref=e294]:
+                        - generic [ref=e295]: Clearly communicate mathematical formulations, algorithmic trade-offs and research findings to both technical collaborators and non-technical business…&hellip;
+                        - generic [ref=e296]: "Skills: Power BI, Azure, Google Cloud Platform, Tableau, SQL"
+                      - link "Advisory Seasonal Intern, Federal Technology Enablement - PhD Data Science/Data Engineer | McLean Summer 2026 McLean, VA KPMG Logo KPMG 3.7":
+                        - /url: /partner/jobListing.htm?pos=106&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_42acb61b&cb=1778738493743&jobListingId=1010122735881&jrtk=5-yul1-0-1joih6u0d2k06000-f8ad7cbd88277221
+                      - button "Discover more" [ref=e298]:
+                        - generic [ref=e299]: Discover more
+                        - img [ref=e300]
+                    - generic [ref=e302]: 9d
+                  - button "Save" [ref=e304]:
+                    - generic:
+                      - img
+              - listitem [ref=e305]:
+                - generic [ref=e307] [cursor=pointer]:
+                  - generic [ref=e308]:
+                    - generic [ref=e309]:
+                      - generic [ref=e310]:
+                        - img "Arizona State University Logo" [ref=e313]
+                        - generic [ref=e315]:
+                          - generic [ref=e316]: Arizona State University
+                          - meter [ref=e317]:
+                            - text: "4.2"
+                            - img [ref=e318]
+                      - link "Director of Vivarium Operations":
+                        - /url: https://www.glassdoor.com/job-listing/director-of-vivarium-operations-arizona-state-university-JV_IC1133917_KO0,31_KE32,56.htm?jl=1010121413687
+                      - generic [ref=e320]: Tempe, AZ
+                      - generic [ref=e321]: $140K (Employer provided)
+                      - generic [ref=e322]:
+                        - generic [ref=e323]: Coordinates with the governance board to assess core user needs and emerging research interests, and to execute strategies to optimize service delivery and…&hellip;
+                        - generic [ref=e324]: "Skills: Succession planning, Renovation, Operations management, Supervising experience, Team management"
+                      - link "Director of Vivarium Operations $140K (Employer provided) Tempe, AZ Arizona State University Logo Arizona State University 4.2":
+                        - /url: /partner/jobListing.htm?pos=107&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_d340e68f&cb=1778738493744&jobListingId=1010121413687&jrtk=5-yul1-0-1joih6u0d2k06000-c6cb1bd8b8a29c80
+                      - button "Discover more" [ref=e326]:
+                        - generic [ref=e327]: Discover more
+                        - img [ref=e328]
+                    - generic [ref=e330]: 12d
+                  - button "Save" [ref=e332]:
+                    - generic:
+                      - img
+              - listitem [ref=e333]:
+                - generic [ref=e335] [cursor=pointer]:
+                  - generic [ref=e336]:
+                    - generic [ref=e337]:
+                      - generic [ref=e338]:
+                        - img "Arizona State University Logo" [ref=e341]
+                        - generic [ref=e343]:
+                          - generic [ref=e344]: Arizona State University
+                          - meter [ref=e345]:
+                            - text: "4.2"
+                            - img [ref=e346]
+                      - link "Lead Website Development Engineer":
+                        - /url: https://www.glassdoor.com/job-listing/lead-website-development-engineer-arizona-state-university-JV_IC1133897_KO0,33_KE34,58.htm?jl=1010126653384
+                      - generic [ref=e348]: Mesa, AZ
+                      - generic [ref=e349]: $94K - $100K (Employer provided)
+                      - generic [ref=e350]:
+                        - generic [ref=e351]: This role collaborates with the marketing and communications, UX, and engineering teams, researchers, stakeholders, and the Office of Project Management &…&hellip;
+                        - generic [ref=e352]: "Skills: Jira, Drupal, CSS, WordPress, Web development"
+                      - link "Lead Website Development Engineer $94K - $100K (Employer provided) Mesa, AZ Arizona State University Logo Arizona State University 4.2":
+                        - /url: /partner/jobListing.htm?pos=108&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_c1149ff7&cb=1778738493744&jobListingId=1010126653384&jrtk=5-yul1-0-1joih6u0d2k06000-50735fb06550ed8d
+                      - button "Discover more" [ref=e354]:
+                        - generic [ref=e355]: Discover more
+                        - img [ref=e356]
+                    - generic [ref=e358]: 6d
+                  - button "Save" [ref=e360]:
+                    - generic:
+                      - img
+              - listitem [ref=e361]:
+                - generic [ref=e363] [cursor=pointer]:
+                  - generic [ref=e364]:
+                    - generic [ref=e365]:
+                      - generic [ref=e366]:
+                        - img "Tesla Logo" [ref=e369]
+                        - generic [ref=e371]:
+                          - generic [ref=e372]: Tesla
+                          - meter [ref=e373]:
+                            - text: "3.5"
+                            - img [ref=e374]
+                      - link "Internship, Fullstack Software Engineer, Machine Learning Platform, AI Infrastructure (Fall 2026)":
+                        - /url: https://www.glassdoor.com/job-listing/internship-fullstack-software-engineer-machine-learning-platform-ai-infrastructure-fall-2026-tesla-JV_IC1147434_KO0,92_KE93,98.htm?jl=1010123297219
+                      - generic [ref=e376]: Palo Alto, CA
+                      - generic [ref=e377]: $125K (Employer provided)
+                      - generic [ref=e378]:
+                        - generic [ref=e379]: Architect and implement scalable, user-friendly tools for AI workflows to track and visualize the lifecycle of machine learning experiments and models.&hellip;
+                        - generic [ref=e380]: "Skills: Kubernetes, Computer vision, Relational databases, Machine learning, Django"
+                      - link "Internship, Fullstack Software Engineer, Machine Learning Platform, AI Infrastructure (Fall 2026) $125K (Employer provided) Palo Alto, CA Tesla Logo Tesla 3.5":
+                        - /url: /partner/jobListing.htm?pos=109&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_34e5bf91&cb=1778738493745&jobListingId=1010123297219&jrtk=5-yul1-0-1joih6u0d2k06000-c7a8e0fade55d04a
+                      - button "Discover more" [ref=e382]:
+                        - generic [ref=e383]: Discover more
+                        - img [ref=e384]
+                    - generic [ref=e386]: 9d
+                  - button "Save" [ref=e388]:
+                    - generic:
+                      - img
+              - listitem [ref=e389]:
+                - generic [ref=e391] [cursor=pointer]:
+                  - generic [ref=e392]:
+                    - generic [ref=e393]:
+                      - generic [ref=e394]:
+                        - img "Tesla Logo" [ref=e397]
+                        - generic [ref=e399]:
+                          - generic [ref=e400]: Tesla
+                          - meter [ref=e401]:
+                            - text: "3.5"
+                            - img [ref=e402]
+                      - link "Internship, Fullstack Engineer, AI Tooling (Fall 2026)":
+                        - /url: https://www.glassdoor.com/job-listing/internship-fullstack-engineer-ai-tooling-fall-2026-tesla-JV_IC1147434_KO0,50_KE51,56.htm?jl=1010123297208
+                      - generic [ref=e404]: Palo Alto, CA
+                      - generic [ref=e405]: $125K (Employer provided)
+                      - generic [ref=e406]:
+                        - generic [ref=e407]: Currently pursuing a degree in Computer Science, Computer Engineering, or relevant field of study with a graduation date between December 2026 - April 2027.&hellip;
+                        - generic [ref=e408]: "Skills: Kubernetes, Computer vision, Tooling, Machine learning, Root cause analysis"
+                      - link "Internship, Fullstack Engineer, AI Tooling (Fall 2026) $125K (Employer provided) Palo Alto, CA Tesla Logo Tesla 3.5":
+                        - /url: /partner/jobListing.htm?pos=110&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_fee7f6d9&cb=1778738493744&jobListingId=1010123297208&jrtk=5-yul1-0-1joih6u0d2k06000-395706a56ba70454
+                      - button "Discover more" [ref=e410]:
+                        - generic [ref=e411]: Discover more
+                        - img [ref=e412]
+                    - generic [ref=e414]: 9d
+                  - button "Save" [ref=e416]:
+                    - generic:
+                      - img
+              - listitem [ref=e417]:
+                - generic [ref=e419] [cursor=pointer]:
+                  - generic [ref=e420]:
+                    - generic [ref=e421]:
+                      - generic [ref=e422]:
+                        - img "Tesla Logo" [ref=e425]
+                        - generic [ref=e427]:
+                          - generic [ref=e428]: Tesla
+                          - meter [ref=e429]:
+                            - text: "3.5"
+                            - img [ref=e430]
+                      - link "Internship, Software Compiler Engineer, AI Inference (Summer 2026)":
+                        - /url: https://www.glassdoor.com/job-listing/internship-software-compiler-engineer-ai-inference-summer-2026-tesla-JV_IC1147434_KO0,62_KE63,68.htm?jl=1010038555875
+                      - generic [ref=e432]: Palo Alto, CA
+                      - generic [ref=e433]: $100K - $150K (Employer provided)
+                      - generic [ref=e434]:
+                        - generic [ref=e435]: Pursuing a degree in Computer Science, Computer Engineering, or relevant field of study with a graduation date between December 2026 - August 2027.&hellip;
+                        - generic [ref=e436]: "Skills: C++, Algorithm design, AI, Python, Debugging"
+                      - link "Internship, Software Compiler Engineer, AI Inference (Summer 2026) $100K - $150K (Employer provided) Palo Alto, CA Tesla Logo Tesla 3.5":
+                        - /url: /partner/jobListing.htm?pos=111&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_f9f82034&cb=1778738493745&jobListingId=1010038555875&jrtk=5-yul1-0-1joih6u0d2k06000-125849e0b4d1235d
+                      - button "Discover more" [ref=e438]:
+                        - generic [ref=e439]: Discover more
+                        - img [ref=e440]
+                    - generic [ref=e442]: 30d+
+                  - button "Save" [ref=e444]:
+                    - generic:
+                      - img
+              - listitem [ref=e445]:
+                - generic [ref=e447] [cursor=pointer]:
+                  - generic [ref=e448]:
+                    - generic [ref=e449]:
+                      - generic [ref=e450]:
+                        - img "Tesla Logo" [ref=e453]
+                        - generic [ref=e455]:
+                          - generic [ref=e456]: Tesla
+                          - meter [ref=e457]:
+                            - text: "3.5"
+                            - img [ref=e458]
+                      - link "Internship, Reinforcement Learning Engineer, Optimus (Summer 2026)":
+                        - /url: https://www.glassdoor.com/job-listing/internship-reinforcement-learning-engineer-optimus-summer-2026-tesla-JV_IC1147434_KO0,62_KE63,68.htm?jl=1009996640005
+                      - generic [ref=e460]: Palo Alto, CA
+                      - generic [ref=e461]: $100K - $150K (Employer provided)
+                      - generic [ref=e462]:
+                        - generic [ref=e463]: Currently pursuing an advanced degree in Computer Science, Robotics, Machine Learning, or a related field with a gradation date between 2025 - 2026.&hellip;
+                        - generic [ref=e464]: "Skills: Computer skills, Sensors"
+                      - link "Internship, Reinforcement Learning Engineer, Optimus (Summer 2026) $100K - $150K (Employer provided) Palo Alto, CA Tesla Logo Tesla 3.5":
+                        - /url: /partner/jobListing.htm?pos=112&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_0e9aa79e&cb=1778738493745&jobListingId=1009996640005&jrtk=5-yul1-0-1joih6u0d2k06000-ac868aa54d4ea041
+                      - button "Discover more" [ref=e466]:
+                        - generic [ref=e467]: Discover more
+                        - img [ref=e468]
+                    - generic [ref=e470]: 30d+
+                  - button "Save" [ref=e472]:
+                    - generic:
+                      - img
+              - listitem [ref=e473]:
+                - generic [ref=e475] [cursor=pointer]:
+                  - generic [ref=e476]:
+                    - generic [ref=e477]:
+                      - generic [ref=e478]:
+                        - img "Tesla Logo" [ref=e481]
+                        - generic [ref=e483]:
+                          - generic [ref=e484]: Tesla
+                          - meter [ref=e485]:
+                            - text: "3.5"
+                            - img [ref=e486]
+                      - link "Internship, AI Performance Engineer, Performance Optimization (Summer 2026)":
+                        - /url: https://www.glassdoor.com/job-listing/internship-ai-performance-engineer-performance-optimization-summer-2026-tesla-JV_IC1147434_KO0,71_KE72,77.htm?jl=1010043963560
+                      - generic [ref=e488]: Palo Alto, CA
+                      - generic [ref=e489]: $100K - $150K (Employer provided)
+                      - generic [ref=e490]:
+                        - generic [ref=e491]: You'll develop optimized kernels using our MLIR-based compiler stack to achieve real-time latency for self-driving and humanoid robots.&hellip;
+                        - generic [ref=e492]: "Skills: Performance tuning, Analysis skills, Distributed systems, AI, Multithreading"
+                      - link "Internship, AI Performance Engineer, Performance Optimization (Summer 2026) $100K - $150K (Employer provided) Palo Alto, CA Tesla Logo Tesla 3.5":
+                        - /url: /partner/jobListing.htm?pos=113&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_3cf9f537&cb=1778738493745&jobListingId=1010043963560&jrtk=5-yul1-0-1joih6u0d2k06000-8ce700aa5d8b6518
+                      - button "Discover more" [ref=e494]:
+                        - generic [ref=e495]: Discover more
+                        - img [ref=e496]
+                    - generic [ref=e498]: 30d+
+                  - button "Save" [ref=e500]:
+                    - generic:
+                      - img
+              - listitem [ref=e501]:
+                - generic [ref=e503] [cursor=pointer]:
+                  - generic [ref=e504]:
+                    - generic [ref=e505]:
+                      - generic [ref=e506]:
+                        - img "Tesla Logo" [ref=e509]
+                        - generic [ref=e511]:
+                          - generic [ref=e512]: Tesla
+                          - meter [ref=e513]:
+                            - text: "3.5"
+                            - img [ref=e514]
+                      - link "Sr. Embedded Firmware Development Engineer":
+                        - /url: https://www.glassdoor.com/job-listing/sr-embedded-firmware-development-engineer-tesla-JV_IC1147434_KO0,41_KE42,47.htm?jl=1009876938357
+                      - generic [ref=e516]: Palo Alto, CA
+                      - generic [ref=e517]: $140K - $300K (Employer provided)
+                      - generic [ref=e518]:
+                        - generic [ref=e519]: Bachelor’s Degree in Computer or Electrical Engineering or related field or equivalent experience. Collaborate with a broad range of cross-functional teams…&hellip;
+                        - generic [ref=e520]: "Skills: MATLAB, Signal processing, Writing skills, Firmware, System design"
+                      - link "Sr. Embedded Firmware Development Engineer $140K - $300K (Employer provided) Palo Alto, CA Tesla Logo Tesla 3.5":
+                        - /url: /partner/jobListing.htm?pos=114&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_1eafa57c&cb=1778738493747&jobListingId=1009876938357&jrtk=5-yul1-0-1joih6u0d2k06000-7b11ce5dfd96fd2c
+                      - button "Discover more" [ref=e522]:
+                        - generic [ref=e523]: Discover more
+                        - img [ref=e524]
+                    - generic [ref=e526]: 30d+
+                  - button "Save" [ref=e528]:
+                    - generic:
+                      - img
+              - listitem [ref=e529]:
+                - generic [ref=e531] [cursor=pointer]:
+                  - generic [ref=e532]:
+                    - generic [ref=e533]:
+                      - generic [ref=e534]:
+                        - img "Booz Allen Hamilton Logo" [ref=e537]
+                        - generic [ref=e539]:
+                          - generic [ref=e540]: Booz Allen Hamilton
+                          - meter [ref=e541]:
+                            - text: "3.9"
+                            - img [ref=e542]
+                      - link "University, Applied AI Software Developer Intern":
+                        - /url: https://www.glassdoor.com/job-listing/university-applied-ai-software-developer-intern-booz-allen-hamilton-JV_IC1158535_KO0,47_KE48,67.htm?jl=1010080394975
+                      - generic [ref=e544]: McLean, VA
+                      - generic [ref=e545]: $55K - $126K (Employer provided)
+                      - img "Best Places to Work" [ref=e548]:
+                        - img [ref=e549]
+                        - generic [ref=e551]: Best Places to Work
+                      - generic [ref=e552]:
+                        - generic [ref=e553]: As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is…&hellip;
+                        - generic [ref=e554]: "Skills: Computer science, Microsoft Excel, Microsoft Outlook, Go, NoSQL"
+                      - link "University, Applied AI Software Developer Intern $55K - $126K (Employer provided) McLean, VA Booz Allen Hamilton Logo Booz Allen Hamilton 3.9":
+                        - /url: /partner/jobListing.htm?pos=115&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_fde71e8f&cb=1778738493745&jobListingId=1010080394975&jrtk=5-yul1-0-1joih6u0d2k06000-f2512598dd9a7495
+                      - button "Discover more" [ref=e556]:
+                        - generic [ref=e557]: Discover more
+                        - img [ref=e558]
+                    - generic [ref=e560]: 30d+
+                  - button "Save" [ref=e562]:
+                    - generic:
+                      - img
+              - listitem [ref=e563]:
+                - generic [ref=e565] [cursor=pointer]:
+                  - generic [ref=e566]:
+                    - generic [ref=e567]:
+                      - generic [ref=e568]:
+                        - img "Booz Allen Hamilton Logo" [ref=e571]
+                        - generic [ref=e573]:
+                          - generic [ref=e574]: Booz Allen Hamilton
+                          - meter [ref=e575]:
+                            - text: "3.9"
+                            - img [ref=e576]
+                      - link "University, Data Engineering Intern":
+                        - /url: https://www.glassdoor.com/job-listing/university-data-engineering-intern-booz-allen-hamilton-JV_IC1144637_KO0,34_KE35,54.htm?jl=1010043980787
+                      - generic [ref=e578]: Crane, IN
+                      - generic [ref=e579]: $48K - $98K (Employer provided)
+                      - img "Best Places to Work" [ref=e582]:
+                        - img [ref=e583]
+                        - generic [ref=e585]: Best Places to Work
+                      - generic [ref=e586]:
+                        - generic [ref=e587]: Ability to be articulate, organized, and professional when engaging with technical and non-technical stakeholders. Ability to obtain a Secret clearance.&hellip;
+                        - generic [ref=e588]: "Skills: Spark, Process improvement, Analysis skills, Organizational skills, Scalability"
+                      - link "University, Data Engineering Intern $48K - $98K (Employer provided) Crane, IN Booz Allen Hamilton Logo Booz Allen Hamilton 3.9":
+                        - /url: /partner/jobListing.htm?pos=116&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_d0ef413a&cb=1778738493746&jobListingId=1010043980787&jrtk=5-yul1-0-1joih6u0d2k06000-48467ec98d7b3a74
+                      - button "Discover more" [ref=e590]:
+                        - generic [ref=e591]: Discover more
+                        - img [ref=e592]
+                    - generic [ref=e594]: 30d+
+                  - button "Save" [ref=e596]:
+                    - generic:
+                      - img
+              - listitem [ref=e597]:
+                - generic [ref=e599] [cursor=pointer]:
+                  - generic [ref=e600]:
+                    - generic [ref=e601]:
+                      - generic [ref=e602]:
+                        - img "Booz Allen Hamilton Logo" [ref=e605]
+                        - generic [ref=e607]:
+                          - generic [ref=e608]: Booz Allen Hamilton
+                          - meter [ref=e609]:
+                            - text: "3.9"
+                            - img [ref=e610]
+                      - link "University, Applied AI Intern":
+                        - /url: https://www.glassdoor.com/job-listing/university-applied-ai-intern-booz-allen-hamilton-JV_KO0,28_KE29,48.htm?jl=1010080394962
+                      - generic [ref=e612]: United States
+                      - generic [ref=e613]: $69K - $158K (Employer provided)
+                      - img "Best Places to Work" [ref=e616]:
+                        - img [ref=e617]
+                        - generic [ref=e619]: Best Places to Work
+                      - generic [ref=e620]:
+                        - generic [ref=e621]: This role is more than just coding—you’ll collaborate with multidisciplinary teams to explore emerging AI technologies, evaluate integration approaches, and…&hellip;
+                        - generic [ref=e622]: "Skills: Microsoft Excel, Microsoft Outlook, Go, NoSQL, Java"
+                      - link "University, Applied AI Intern $69K - $158K (Employer provided) United States Booz Allen Hamilton Logo Booz Allen Hamilton 3.9":
+                        - /url: /partner/jobListing.htm?pos=117&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_dc8b2cc2&cb=1778738493746&jobListingId=1010080394962&jrtk=5-yul1-0-1joih6u0d2k06000-127087c9a3066bcd
+                      - button "Discover more" [ref=e624]:
+                        - generic [ref=e625]: Discover more
+                        - img [ref=e626]
+                    - generic [ref=e628]: 30d+
+                  - button "Save" [ref=e630]:
+                    - generic:
+                      - img
+              - listitem [ref=e631]:
+                - generic [ref=e633] [cursor=pointer]:
+                  - generic [ref=e634]:
+                    - generic [ref=e635]:
+                      - generic [ref=e636]:
+                        - img "Booz Allen Hamilton Logo" [ref=e639]
+                        - generic [ref=e641]:
+                          - generic [ref=e642]: Booz Allen Hamilton
+                          - meter [ref=e643]:
+                            - text: "3.9"
+                            - img [ref=e644]
+                      - link "AIOps Engineer Intern":
+                        - /url: https://www.glassdoor.com/job-listing/aiops-engineer-intern-booz-allen-hamilton-JV_IC1154599_KO0,21_KE22,41.htm?jl=1010099423692
+                      - generic [ref=e646]: Lexington, MA
+                      - generic [ref=e647]: $53K - $108K (Employer provided)
+                      - img "Best Places to Work" [ref=e650]:
+                        - img [ref=e651]
+                        - generic [ref=e653]: Best Places to Work
+                      - generic [ref=e654]:
+                        - generic [ref=e655]: Experience with observability tools, operational analytics, or AI‑enabled monitoring solutions such as Splunk, Dynatrace, and custom agents.&hellip;
+                        - generic [ref=e656]: "Skills: Azure, Kubernetes, DevOps, AWS, Splunk"
+                      - link "AIOps Engineer Intern $53K - $108K (Employer provided) Lexington, MA Booz Allen Hamilton Logo Booz Allen Hamilton 3.9":
+                        - /url: /partner/jobListing.htm?pos=118&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_6e94108a&cb=1778738493746&jobListingId=1010099423692&jrtk=5-yul1-0-1joih6u0d2k06000-a6e6ba00ff0bca73
+                      - button "Discover more" [ref=e658]:
+                        - generic [ref=e659]: Discover more
+                        - img [ref=e660]
+                    - generic [ref=e662]: 30d
+                  - button "Save" [ref=e664]:
+                    - generic:
+                      - img
+              - listitem [ref=e665]:
+                - generic [ref=e667] [cursor=pointer]:
+                  - generic [ref=e668]:
+                    - generic [ref=e669]:
+                      - generic [ref=e670]:
+                        - img "Booz Allen Hamilton Logo" [ref=e673]
+                        - generic [ref=e675]:
+                          - generic [ref=e676]: Booz Allen Hamilton
+                          - meter [ref=e677]:
+                            - text: "3.9"
+                            - img [ref=e678]
+                      - link "Cyber Intern":
+                        - /url: https://www.glassdoor.com/job-listing/cyber-intern-booz-allen-hamilton-JV_IC1140494_KO0,12_KE13,32.htm?jl=1010128160456
+                      - generic [ref=e680]: San Antonio, TX
+                      - generic [ref=e681]: $53K - $108K (Employer provided)
+                      - img "Best Places to Work" [ref=e684]:
+                        - img [ref=e685]
+                        - generic [ref=e687]: Best Places to Work
+                      - generic [ref=e688]:
+                        - generic [ref=e689]: As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is…&hellip;
+                        - generic [ref=e690]: "Skills: Statistics, Microsoft Excel, Business intelligence, Project planning, Research"
+                      - link "Cyber Intern $53K - $108K (Employer provided) San Antonio, TX Booz Allen Hamilton Logo Booz Allen Hamilton 3.9":
+                        - /url: /partner/jobListing.htm?pos=119&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_c507b5e1&cb=1778738493746&jobListingId=1010128160456&jrtk=5-yul1-0-1joih6u0d2k06000-d757b12569ef7d7f
+                      - button "Discover more" [ref=e692]:
+                        - generic [ref=e693]: Discover more
+                        - img [ref=e694]
+                    - generic [ref=e696]: 5d
+                  - button "Save" [ref=e698]:
+                    - generic:
+                      - img
+              - listitem [ref=e699]:
+                - generic [ref=e701] [cursor=pointer]:
+                  - generic [ref=e702]:
+                    - generic [ref=e703]:
+                      - generic [ref=e704]:
+                        - img "Booz Allen Hamilton Logo" [ref=e707]
+                        - generic [ref=e709]:
+                          - generic [ref=e710]: Booz Allen Hamilton
+                          - meter [ref=e711]:
+                            - text: "3.9"
+                            - img [ref=e712]
+                      - link "Health Account Intern":
+                        - /url: https://www.glassdoor.com/job-listing/health-account-intern-booz-allen-hamilton-JV_IC1155583_KO0,21_KE22,41.htm?jl=1010124496098
+                      - generic [ref=e714]: Atlanta, GA
+                      - generic [ref=e715]: $48K - $98K (Employer provided)
+                      - img "Best Places to Work" [ref=e718]:
+                        - img [ref=e719]
+                        - generic [ref=e721]: Best Places to Work
+                      - generic [ref=e722]:
+                        - generic [ref=e723]: As part of this commitment, the use of artificial intelligence (AI) or other tools to assist with responses during interviews (whether in-person or virtual) is…&hellip;
+                        - generic [ref=e724]: "Skills: Azure, Cassandra, Software deployment, Spark, Apache Hive"
+                      - link "Health Account Intern $48K - $98K (Employer provided) Atlanta, GA Booz Allen Hamilton Logo Booz Allen Hamilton 3.9":
+                        - /url: /partner/jobListing.htm?pos=120&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_02d0c7dc&cb=1778738493747&jobListingId=1010124496098&jrtk=5-yul1-0-1joih6u0d2k06000-64329d0d0bf86853
+                      - button "Discover more" [ref=e726]:
+                        - generic [ref=e727]: Discover more
+                        - img [ref=e728]
+                    - generic [ref=e730]: 7d
+                  - button "Save" [ref=e732]:
+                    - generic:
+                      - img
+              - listitem [ref=e733]:
+                - generic [ref=e735] [cursor=pointer]:
+                  - generic [ref=e736]:
+                    - generic [ref=e737]:
+                      - generic [ref=e738]:
+                        - img "KBR Logo" [ref=e741]
+                        - generic [ref=e743]:
+                          - generic [ref=e744]: KBR
+                          - meter [ref=e745]:
+                            - text: "4.0"
+                            - img [ref=e746]
+                      - link "National Security Solutions (NSS) Internship – Software Engineering Intern":
+                        - /url: https://www.glassdoor.com/job-listing/national-security-solutions-nss-internship-software-engineering-intern-kbr-JV_IC1130353_KO0,70_KE71,74.htm?jl=1010084700882
+                      - generic [ref=e748]: Chantilly, VA
+                      - generic [ref=e749]: $98K - $168K (Glassdoor est.)
+                      - img "Best Places to Work" [ref=e752]:
+                        - img [ref=e753]
+                        - generic [ref=e755]: Best Places to Work
+                      - generic [ref=e756]:
+                        - generic [ref=e757]: Full‑time rising junior, senior, or graduate student pursuing a degree in a science or engineering field (e.g., Aerospace Engineering, Mechanical Engineering,…&hellip;
+                        - generic [ref=e758]: "Skills: MATLAB, Image processing, Signal processing, Software troubleshooting, Computer vision"
+                      - link "National Security Solutions (NSS) Internship – Software Engineering Intern $98K - $168K (Glassdoor est.) Chantilly, VA KBR Logo KBR 4":
+                        - /url: /partner/jobListing.htm?pos=121&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_45abedbc&cb=1778738493747&jobListingId=1010084700882&jrtk=5-yul1-0-1joih6u0d2k06000-c20388a0424290ef
+                      - button "Discover more" [ref=e760]:
+                        - generic [ref=e761]: Discover more
+                        - img [ref=e762]
+                    - generic [ref=e764]: 30d+
+                  - button "Save" [ref=e766]:
+                    - generic:
+                      - img
+              - listitem [ref=e767]:
+                - generic [ref=e769] [cursor=pointer]:
+                  - generic [ref=e770]:
+                    - generic [ref=e771]:
+                      - generic [ref=e772]:
+                        - img "KBR Logo" [ref=e775]
+                        - generic [ref=e777]:
+                          - generic [ref=e778]: KBR
+                          - meter [ref=e779]:
+                            - text: "4.0"
+                            - img [ref=e780]
+                      - link "National Security Solutions (NSS) Internship – AI/ML Intern":
+                        - /url: https://www.glassdoor.com/job-listing/national-security-solutions-nss-internship-ai-ml-intern-kbr-JV_IC1130353_KO0,55_KE56,59.htm?jl=1010031762079
+                      - generic [ref=e782]: Chantilly, VA
+                      - generic [ref=e783]: $98K - $180K (Glassdoor est.)
+                      - img "Best Places to Work" [ref=e786]:
+                        - img [ref=e787]
+                        - generic [ref=e789]: Best Places to Work
+                      - generic [ref=e790]:
+                        - generic [ref=e791]: Create visualizations, metrics, and technical summaries to communicate findings and progress to the engineering team. Competitive pay and great company culture.&hellip;
+                        - generic [ref=e792]: "Skills: TensorFlow, Image processing, Computer vision, Data analysis skills, Research"
+                      - link "National Security Solutions (NSS) Internship – AI/ML Intern $98K - $180K (Glassdoor est.) Chantilly, VA KBR Logo KBR 4":
+                        - /url: /partner/jobListing.htm?pos=122&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_40cfc249&cb=1778738493747&jobListingId=1010031762079&jrtk=5-yul1-0-1joih6u0d2k06000-578474b8c47d3b5f
+                      - button "Discover more" [ref=e794]:
+                        - generic [ref=e795]: Discover more
+                        - img [ref=e796]
+                    - generic [ref=e798]: 30d+
+                  - button "Save" [ref=e800]:
+                    - generic:
+                      - img
+              - listitem [ref=e801]:
+                - generic [ref=e803] [cursor=pointer]:
+                  - generic [ref=e804]:
+                    - generic [ref=e805]:
+                      - generic [ref=e806]:
+                        - img "BMC Software Logo" [ref=e809]
+                        - generic [ref=e811]:
+                          - generic [ref=e812]: BMC Software
+                          - meter [ref=e813]:
+                            - text: "4.0"
+                            - img [ref=e814]
+                      - link "Applied Research Intern":
+                        - /url: https://www.glassdoor.com/job-listing/applied-research-intern-bmc-software-JV_IC1147439_KO0,23_KE24,36.htm?jl=1010127722619
+                      - generic [ref=e816]: Santa Clara, CA
+                      - generic [ref=e817]: $74K - $123K (Employer provided)
+                      - generic [ref=e818]:
+                        - generic [ref=e819]: Design evaluations that catch the failure modes of enterprise agents, including hallucinated tool calls, policy violations, context collapse, and regression…&hellip;
+                        - generic [ref=e820]: "Skills: Research, Machine learning, AI"
+                      - link "Applied Research Intern $74K - $123K (Employer provided) Santa Clara, CA BMC Software Logo BMC Software 4":
+                        - /url: /partner/jobListing.htm?pos=123&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_e7221745&cb=1778738493747&jobListingId=1010127722619&jrtk=5-yul1-0-1joih6u0d2k06000-ea3fb9516ffbd340
+                      - button "Discover more" [ref=e822]:
+                        - generic [ref=e823]: Discover more
+                        - img [ref=e824]
+                    - generic [ref=e826]: 5d
+                  - button "Save" [ref=e828]:
+                    - generic:
+                      - img
+              - listitem [ref=e829]:
+                - generic [ref=e831] [cursor=pointer]:
+                  - generic [ref=e832]:
+                    - generic [ref=e833]:
+                      - generic [ref=e834]:
+                        - img "Microsoft Logo" [ref=e837]
+                        - generic [ref=e839]:
+                          - generic [ref=e840]: Microsoft
+                          - meter [ref=e841]:
+                            - text: "4.0"
+                            - img [ref=e842]
+                      - link "Research Intern - Microsoft Research Special Projects":
+                        - /url: https://www.glassdoor.com/job-listing/research-intern-microsoft-research-special-projects-microsoft-JV_IC1150499_KO0,51_KE52,61.htm?jl=1009947086965
+                      - generic [ref=e844]: Redmond, WA
+                      - generic [ref=e845]: $6,710 - $14,360 (Employer provided)
+                      - generic [ref=e846]:
+                        - generic [ref=e847]: Currently enrolled in a PhD program in Statistics, Computer Science, Linguistics, Physics, Operations Research, or a related technical field.&hellip;
+                        - generic [ref=e848]: "Skills: Statistics, Machine learning, Research & development, Graph databases, Python"
+                      - link "Research Intern - Microsoft Research Special Projects $6,710 - $14,360 (Employer provided) Redmond, WA Microsoft Logo Microsoft 4":
+                        - /url: /partner/jobListing.htm?pos=124&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_d1dcee11&cb=1778738493747&jobListingId=1009947086965&jrtk=5-yul1-0-1joih6u0d2k06000-1cb9c2ec554af92f
+                      - button "Discover more" [ref=e850]:
+                        - generic [ref=e851]: Discover more
+                        - img [ref=e852]
+                    - generic [ref=e854]: 30d+
+                  - button "Save" [ref=e856]:
+                    - generic:
+                      - img
+              - listitem [ref=e857]:
+                - generic [ref=e859] [cursor=pointer]:
+                  - generic [ref=e860]:
+                    - generic [ref=e861]:
+                      - generic [ref=e862]:
+                        - img "Microsoft Logo" [ref=e865]
+                        - generic [ref=e867]:
+                          - generic [ref=e868]: Microsoft
+                          - meter [ref=e869]:
+                            - text: "4.0"
+                            - img [ref=e870]
+                      - link "Research Intern - AIP AI Knowledge Multimodal AI":
+                        - /url: https://www.glassdoor.com/job-listing/research-intern-aip-ai-knowledge-multimodal-ai-microsoft-JV_IC1150499_KO0,46_KE47,56.htm?jl=1009966681739
+                      - generic [ref=e872]: Redmond, WA
+                      - generic [ref=e873]: $6,710 - $14,360 (Employer provided)
+                      - generic [ref=e874]:
+                        - generic [ref=e875]: You’ll explore Large Language Models (LLMs), Small Language Models (SLMs), and Vision-Language Models (VLMs) to tackle problems like video understanding,…&hellip;
+                        - generic [ref=e876]: "Skills: Computer vision, Analysis skills, C, Deep learning, Natural language processing"
+                      - link "Research Intern - AIP AI Knowledge Multimodal AI $6,710 - $14,360 (Employer provided) Redmond, WA Microsoft Logo Microsoft 4":
+                        - /url: /partner/jobListing.htm?pos=125&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_4c9d4c14&cb=1778738493747&jobListingId=1009966681739&jrtk=5-yul1-0-1joih6u0d2k06000-21e545f78ea8fbc0
+                      - button "Discover more" [ref=e878]:
+                        - generic [ref=e879]: Discover more
+                        - img [ref=e880]
+                    - generic [ref=e882]: 30d+
+                  - button "Save" [ref=e884]:
+                    - generic:
+                      - img
+              - listitem [ref=e885]:
+                - generic [ref=e887] [cursor=pointer]:
+                  - generic [ref=e888]:
+                    - generic [ref=e889]:
+                      - generic [ref=e890]:
+                        - img "Microsoft Logo" [ref=e893]
+                        - generic [ref=e895]:
+                          - generic [ref=e896]: Microsoft
+                          - meter [ref=e897]:
+                            - text: "4.0"
+                            - img [ref=e898]
+                      - link "Research Intern - AI Hardware":
+                        - /url: https://www.glassdoor.com/job-listing/research-intern-ai-hardware-microsoft-JV_IC1150499_KO0,27_KE28,37.htm?jl=1009943854549
+                      - generic [ref=e900]: Redmond, WA
+                      - generic [ref=e901]: $5,610 - $13,270 (Employer provided)
+                      - generic [ref=e902]:
+                        - generic [ref=e903]: Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized…&hellip;
+                        - generic [ref=e904]: "Skills: Electrical engineering, C, Machine learning, Computer hardware, AI"
+                      - link "Research Intern - AI Hardware $5,610 - $13,270 (Employer provided) Redmond, WA Microsoft Logo Microsoft 4":
+                        - /url: /partner/jobListing.htm?pos=126&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_7ef6f27e&cb=1778738493748&jobListingId=1009943854549&jrtk=5-yul1-0-1joih6u0d2k06000-12733c08d5d7b062
+                      - button "Discover more" [ref=e906]:
+                        - generic [ref=e907]: Discover more
+                        - img [ref=e908]
+                    - generic [ref=e910]: 30d+
+                  - button "Save" [ref=e912]:
+                    - generic:
+                      - img
+              - listitem [ref=e913]:
+                - generic [ref=e915] [cursor=pointer]:
+                  - generic [ref=e916]:
+                    - generic [ref=e917]:
+                      - generic [ref=e918]:
+                        - img "Microsoft Logo" [ref=e921]
+                        - generic [ref=e923]:
+                          - generic [ref=e924]: Microsoft
+                          - meter [ref=e925]:
+                            - text: "4.0"
+                            - img [ref=e926]
+                      - link "Research Intern - AI/ML Numerics & Efficiency":
+                        - /url: https://www.glassdoor.com/job-listing/research-intern-ai-ml-numerics-efficiency-microsoft-JV_IC1150499_KO0,41_KE42,51.htm?jl=1009966681894
+                      - generic [ref=e928]: Redmond, WA
+                      - generic [ref=e929]: $5,610 - $13,270 (Employer provided)
+                      - generic [ref=e930]:
+                        - generic [ref=e931]: Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized…&hellip;
+                        - generic [ref=e932]: "Skills: Azure, Analysis skills, C++, AI, Research & development"
+                      - link "Research Intern - AI/ML Numerics & Efficiency $5,610 - $13,270 (Employer provided) Redmond, WA Microsoft Logo Microsoft 4":
+                        - /url: /partner/jobListing.htm?pos=127&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_bb649258&cb=1778738493748&jobListingId=1009966681894&jrtk=5-yul1-0-1joih6u0d2k06000-2f1ddb9c26f9807e
+                      - button "Discover more" [ref=e934]:
+                        - generic [ref=e935]: Discover more
+                        - img [ref=e936]
+                    - generic [ref=e938]: 30d+
+                  - button "Save" [ref=e940]:
+                    - generic:
+                      - img
+              - listitem [ref=e941]:
+                - generic [ref=e943] [cursor=pointer]:
+                  - generic [ref=e944]:
+                    - generic [ref=e945]:
+                      - generic [ref=e946]:
+                        - img "Microsoft Logo" [ref=e949]
+                        - generic [ref=e951]:
+                          - generic [ref=e952]: Microsoft
+                          - meter [ref=e953]:
+                            - text: "4.0"
+                            - img [ref=e954]
+                      - link "Research Intern - Intelligent Quantum Systems Architecture":
+                        - /url: https://www.glassdoor.com/job-listing/research-intern-intelligent-quantum-systems-architecture-microsoft-JV_IC1150499_KO0,56_KE57,66.htm?jl=1010126208470
+                      - generic [ref=e956]: Redmond, WA
+                      - generic [ref=e957]: $5,610 - $12,030 (Employer provided)
+                      - generic [ref=e958]:
+                        - generic [ref=e959]: Demonstrated ability to connect application-level requirements with hardware-level constraints, demonstrating system-level thinking and co-design intuition…&hellip;
+                        - generic [ref=e960]: "Skills: Rust (programming language), Scalability, AI, Research & development, Python"
+                      - link "Research Intern - Intelligent Quantum Systems Architecture $5,610 - $12,030 (Employer provided) Redmond, WA Microsoft Logo Microsoft 4":
+                        - /url: /partner/jobListing.htm?pos=128&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_2987f685&cb=1778738493748&jobListingId=1010126208470&jrtk=5-yul1-0-1joih6u0d2k06000-0a867c70fc54c4e6
+                      - button "Discover more" [ref=e962]:
+                        - generic [ref=e963]: Discover more
+                        - img [ref=e964]
+                    - generic [ref=e966]: 6d
+                  - button "Save" [ref=e968]:
+                    - generic:
+                      - img
+              - listitem [ref=e969]:
+                - generic [ref=e971] [cursor=pointer]:
+                  - generic [ref=e972]:
+                    - generic [ref=e973]:
+                      - generic [ref=e974]:
+                        - img "Microsoft Logo" [ref=e977]
+                        - generic [ref=e979]:
+                          - generic [ref=e980]: Microsoft
+                          - meter [ref=e981]:
+                            - text: "4.0"
+                            - img [ref=e982]
+                      - link "Research Intern - Office of Applied Research":
+                        - /url: https://www.glassdoor.com/job-listing/research-intern-office-of-applied-research-microsoft-JV_IC1150499_KO0,42_KE43,52.htm?jl=1009966681895
+                      - generic [ref=e984]: Redmond, WA
+                      - generic [ref=e985]: $6,710 - $14,360 (Employer provided)
+                      - generic [ref=e986]:
+                        - generic [ref=e987]: Research Internships at Microsoft provide a dynamic environment for research careers with a network of world-class research labs led by globally-recognized…&hellip;
+                        - generic [ref=e988]: "Skills: Natural language processing, AI, Research & development, Communication skills"
+                      - link "Research Intern - Office of Applied Research $6,710 - $14,360 (Employer provided) Redmond, WA Microsoft Logo Microsoft 4":
+                        - /url: /partner/jobListing.htm?pos=129&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_0bee7b03&cb=1778738493748&jobListingId=1009966681895&jrtk=5-yul1-0-1joih6u0d2k06000-a5fed6b2587c6735
+                      - button "Discover more" [ref=e990]:
+                        - generic [ref=e991]: Discover more
+                        - img [ref=e992]
+                    - generic [ref=e994]: 30d+
+                  - button "Save" [ref=e996]:
+                    - generic:
+                      - img
+              - listitem [ref=e997]:
+                - generic [ref=e999] [cursor=pointer]:
+                  - generic [ref=e1000]:
+                    - generic [ref=e1001]:
+                      - generic [ref=e1002]:
+                        - img "Microsoft Logo" [ref=e1005]
+                        - generic [ref=e1007]:
+                          - generic [ref=e1008]: Microsoft
+                          - meter [ref=e1009]:
+                            - text: "4.0"
+                            - img [ref=e1010]
+                      - link "Research Intern - Computational Social Science":
+                        - /url: https://www.glassdoor.com/job-listing/research-intern-computational-social-science-microsoft-JV_IC1132348_KO0,44_KE45,54.htm?jl=1009966681066
+                      - generic [ref=e1012]: New York, NY
+                      - generic [ref=e1013]: $6,710 - $14,360 (Employer provided)
+                      - generic [ref=e1014]:
+                        - generic [ref=e1015]: Currently enrolled in a PhD program in a field related to computational social science. Research Internships at Microsoft provide a dynamic environment for…&hellip;
+                        - generic [ref=e1016]: "Skills: React, D3.js, Web development, R, Experimental design"
+                      - link "Research Intern - Computational Social Science $6,710 - $14,360 (Employer provided) New York, NY Microsoft Logo Microsoft 4":
+                        - /url: /partner/jobListing.htm?pos=130&ao=1136043&s=58&guid=0000019e251377ea973df4e5359f0d78&src=GD_JOB_AD&t=SR&vt=w&cs=1_1da260a0&cb=1778738493748&jobListingId=1009966681066&jrtk=5-yul1-0-1joih6u0d2k06000-ce853037c236b97d
+                      - button "Discover more" [ref=e1018]:
+                        - generic [ref=e1019]: Discover more
+                        - img [ref=e1020]
+                    - generic [ref=e1022]: 30d+
+                  - button "Save" [ref=e1024]:
+                    - generic:
+                      - img
+            - button "Show more jobs" [ref=e1027]:
+              - generic: Show more jobs
+        - generic [ref=e1031]:
+          - generic [ref=e1032]:
+            - banner [ref=e1033]:
+              - generic [ref=e1034]:
+                - generic [ref=e1035]:
+                  - link "Oakland University Logo Oakland University 3.8" [ref=e1036] [cursor=pointer]:
+                    - /url: /Overview/Working-at-Oakland-University-EI_IE28896.11,29.htm
+                    - img "Oakland University Logo" [ref=e1039]
+                    - generic [ref=e1041]:
+                      - heading "Oakland University" [level=4] [ref=e1043]
+                      - meter [ref=e1044]:
+                        - text: "3.8"
+                        - img [ref=e1045]
+                  - heading "Research Intern" [level=1] [ref=e1048]
+                - button "More options" [ref=e1052] [cursor=pointer]:
+                  - img [ref=e1053]
+              - generic [ref=e1055]:
+                - generic [ref=e1057]: Rochester, MI
+                - generic [ref=e1059]: $20.00 Per Hour (Employer provided)
+              - generic [ref=e1060]:
+                - button "Apply on employer site" [ref=e1063]:
+                  - generic:
+                    - generic: Apply on employer site
+                - button "Save" [ref=e1064]:
+                  - generic:
+                    - img
+            - generic [ref=e1066]:
+              - button "Save" [ref=e1067]:
+                - generic:
+                  - img
+              - button "Apply on employer site" [ref=e1069]:
+                - generic:
+                  - generic: Apply on employer site
+          - generic [ref=e1071]:
+            - generic [ref=e1072]: Is your resume a good match?
+            - generic [ref=e1073]: Use AI to find out how well the skills on your resume fit this job description.
+            - button "Upload your resume" [ref=e1077]:
+              - generic:
+                - generic:
+                  - img
+                  - text: Upload your resume
+          - generic [ref=e1078]:
+            - generic [ref=e1079]:
+              - generic [ref=e1082]:
+                - generic [ref=e1083]:
+                  - paragraph
+                  - generic [ref=e1084]:
+                    - generic [ref=e1088]:
+                      - generic [ref=e1090]: Research Intern
+                      - generic [ref=e1091]:
+                        - generic [ref=e1092]: Department
+                        - generic [ref=e1093]: 2064 - Computer Science & Engineering
+                      - generic [ref=e1094]:
+                        - generic [ref=e1095]: Position Number
+                        - generic [ref=e1096]: X12010
+                      - generic [ref=e1097]:
+                        - generic [ref=e1098]: Requisition No.
+                        - generic [ref=e1099]: TC06203
+                      - generic [ref=e1100]:
+                        - generic [ref=e1101]: Salary Range/Pay Rate
+                        - generic [ref=e1102]: $20.00 hr
+                      - generic [ref=e1103]:
+                        - generic [ref=e1104]: Benefits of Working at Oakland University
+                        - generic [ref=e1105]: No benefits are associated with this position.
+                      - generic [ref=e1106]:
+                        - generic [ref=e1107]: Employee Group/Grade
+                        - generic [ref=e1108]: Temporary
+                      - generic [ref=e1109]:
+                        - generic [ref=e1110]: Job Category
+                        - generic [ref=e1111]: Temporary Posted
+                      - generic [ref=e1113]: Casual/Temp Classification
+                      - generic [ref=e1114]:
+                        - generic [ref=e1115]: Work Schedule
+                        - generic [ref=e1116]: PT/Temp (20-39 hours, No Benefits )
+                      - generic [ref=e1118]: Shift/Days
+                      - generic [ref=e1119]:
+                        - generic [ref=e1120]: Pay Schedule
+                        - generic [ref=e1121]: Hour
+                      - generic [ref=e1122]:
+                        - generic [ref=e1123]: Number of Hrs./Wk.
+                        - generic [ref=e1124]: 20 hrs/wk
+                    - generic [ref=e1125]:
+                      - heading "Position Information" [level=2] [ref=e1126]
+                      - generic [ref=e1128]:
+                        - generic [ref=e1129]: Position Information
+                        - paragraph
+                        - generic [ref=e1131]:
+                          - generic [ref=e1132]:
+                            - generic [ref=e1133]: Employee's Effective Start Date
+                            - generic [ref=e1134]: 04/15/2026
+                          - generic [ref=e1135]:
+                            - generic [ref=e1136]: If this is a Temporary position, provide end date or enter N/A for any other position type.
+                            - generic [ref=e1137]: 08/15/2026
+                          - generic [ref=e1138]:
+                            - generic [ref=e1139]: Minimum Qualifications
+                            - list [ref=e1141]:
+                              - listitem [ref=e1142]: Currently enrolled in an undergraduate or graduate program in Computer Science, Computer Engineering, Software Engineering, or a closely related field
+                              - listitem [ref=e1143]: Background in programming and software development
+                              - listitem [ref=e1144]: Familiarity with Linux-based systems and basic software engineering concepts
+                              - listitem [ref=e1145]: Ability to work independently under faculty supervision and document technical work
+                            - paragraph
+                          - generic [ref=e1146]:
+                            - generic [ref=e1147]: Desired Qualifications
+                            - list [ref=e1149]:
+                              - listitem [ref=e1150]: Coursework or hands-on experience in distributed systems, cloud computing, or data processing
+                              - listitem [ref=e1151]: Experience with Python and modern development frameworks
+                              - listitem [ref=e1152]: Exposure to machine learning, MLOps, or research-oriented software projects
+                              - listitem [ref=e1153]: Prior internship, academic research project, or relevant technical experience is a plus
+                            - paragraph
+                          - generic [ref=e1154]:
+                            - generic [ref=e1155]: Position Purpose
+                            - generic [ref=e1156]: To support faculty-led research activities through a supervised, temporary research internship.
+                          - generic [ref=e1157]:
+                            - generic [ref=e1158]: Job Duties
+                            - list [ref=e1160]:
+                              - listitem [ref=e1161]: Assist with research experiments and data collection
+                              - listitem [ref=e1162]: Implement and test software prototypes
+                              - listitem [ref=e1163]: Analyze experimental results and document findings
+                              - listitem [ref=e1164]: Support preparation of technical reports and research artifacts
+                              - listitem [ref=e1165]: Collaborate closely with the faculty supervisor on assigned research tasks
+                  - paragraph
+                - generic [ref=e1166]:
+                  - button "Show more" [ref=e1167] [cursor=pointer]:
+                    - generic [ref=e1168]: Show more
+                    - img [ref=e1169]
+                  - generic [ref=e1171] [cursor=pointer]:
+                    - generic [ref=e1172]: See company reviews
+                    - img [ref=e1173]
+              - button "Is my resume a good match?" [ref=e1179]:
+                - generic:
+                  - generic:
+                    - img
+                    - text: Is my resume a good match?
+            - generic [ref=e1180]:
+              - generic [ref=e1183]:
+                - generic [ref=e1185]:
+                  - heading "Pay details" [level=2] [ref=e1186]
+                  - contentinfo "Rochester, MI" [ref=e1187]:
+                    - generic [ref=e1188]:
+                      - generic:
+                        - img
+                      - generic: Rochester, MI
+                  - generic [ref=e1189]: The minimum salary is $20.00 and the max salary is $20.00.
+                - generic [ref=e1191]:
+                  - generic [ref=e1192]: $20.00/hr
+                  - generic [ref=e1194]: Base pay
+                  - generic [ref=e1196]:
+                    - generic [ref=e1197]: Employer provided
+                    - img [ref=e1200]
+              - button "Is this pay right for me?" [ref=e1207]:
+                - generic:
+                  - generic:
+                    - img
+                    - text: Is this pay right for me?
+            - generic [ref=e1211]:
+              - generic [ref=e1212]:
+                - heading "Conversations @Oakland University" [level=2] [ref=e1213]
+                - generic [ref=e1214]: Kick off the conversation by asking about salaries, interviews or anything else @Oakland University.
+              - generic [ref=e1215]:
+                - generic [ref=e1216]: See what other Research Intern are saying
+                - generic [ref=e1217]:
+                  - link "Interview Tips 805K members" [ref=e1218] [cursor=pointer]:
+                    - /url: /Community/interview-tips
+                    - generic [ref=e1220]:
+                      - heading "Interview Tips" [level=3] [ref=e1221]
+                      - generic [ref=e1222]: 805K members
+                  - link "Salary Negotiations 775K members" [ref=e1223] [cursor=pointer]:
+                    - /url: /Community/salary-negotiations-dvf8-5
+                    - generic [ref=e1225]:
+                      - heading "Salary Negotiations" [level=3] [ref=e1226]
+                      - generic [ref=e1227]: 775K members
+              - link "Explore more Bowls" [ref=e1229] [cursor=pointer]:
+                - /url: /Community/search/bowls
+                - generic [ref=e1230]: Explore more Bowls
+                - img [ref=e1231]
+            - generic [ref=e1235]:
+              - generic [ref=e1236]:
+                - heading "Working here doesn’t have to be a secret" [level=3] [ref=e1237]
+                - paragraph [ref=e1238]: Sign in to browse authentic reviews, anonymous ratings and salary data before you apply.
+                - button "Sign in" [ref=e1240]:
+                  - generic:
+                    - generic:
+                      - img
+                      - generic: Sign in
+              - generic [ref=e1243]:
+                - generic [ref=e1244]:
+                  - generic [ref=e1245]: "3.8"
+                  - img "3.8 stars out of 5" [ref=e1246]:
+                    - status [ref=e1247]:
+                      - img [ref=e1249]
+                      - img [ref=e1252]
+                      - img [ref=e1255]
+                      - generic [ref=e1257]:
+                        - img [ref=e1258]
+                        - img [ref=e1260]
+                      - generic [ref=e1262]:
+                        - img [ref=e1263]
+                        - img [ref=e1265]
+                - list "Company Ratings" [ref=e1267]:
+                  - listitem [ref=e1268]:
+                    - img [ref=e1270]:
+                      - generic [ref=e1274]: 74 %
+                    - generic [ref=e1275]: Recommend to a friend
+                  - listitem [ref=e1276]:
+                    - img [ref=e1278]:
+                      - generic [ref=e1282]: 72 %
+                    - generic [ref=e1283]: Approve of CEO
+                  - listitem [ref=e1284]:
+                    - img "CEO Ora Hirsch Pescovitz" [ref=e1287]
+                    - generic [ref=e1288]:
+                      - generic [ref=e1289]: "CEO: Ora Hirsch Pescovitz"
+                      - generic [ref=e1290]: 121 Ratings
+  - generic: ", , , ,"
+  - alert [ref=e1292]

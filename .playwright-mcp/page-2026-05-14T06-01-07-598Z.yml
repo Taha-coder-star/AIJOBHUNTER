@@ -1,0 +1,28 @@
+- generic [ref=e2]:
+  - navigation [ref=e3]:
+    - link "Indeed Home" [ref=e5] [cursor=pointer]:
+      - /url: https://www.indeed.com/
+      - img "Indeed logo" [ref=e6]
+    - link "Sign in" [ref=e7] [cursor=pointer]:
+      - /url: https://secure.indeed.com/account/login?hl=en&continue=https%3A%2F%2Fwww.indeed.com
+      - generic [ref=e9]: Sign in
+    - button "Primary navigation" [ref=e11] [cursor=pointer]
+  - main [ref=e12]:
+    - heading "Additional Verification Required" [level=1] [ref=e13]
+    - paragraph [ref=e14]: Your Ray ID for this request is 9fb7afb85802ac32
+    - generic:
+      - main:
+        - generic:
+          - heading [level=2]
+          - paragraph
+    - link "Return home →" [ref=e15] [cursor=pointer]:
+      - /url: https://www.indeed.com/
+      - text: Return home
+      - generic [ref=e16]: →
+    - paragraph [ref=e17]:
+      - link "Troubleshooting Cloudflare Errors" [ref=e18] [cursor=pointer]:
+        - /url: https://support.indeed.com/hc/en/articles/33465379855501
+    - paragraph [ref=e19]:
+      - text: Need more help?
+      - link "Contact us" [ref=e20] [cursor=pointer]:
+        - /url: https://www.indeed.com/support/contact

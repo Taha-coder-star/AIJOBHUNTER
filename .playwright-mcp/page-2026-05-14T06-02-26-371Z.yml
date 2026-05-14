@@ -1,0 +1,640 @@
+- generic [active] [ref=e1]:
+  - button "Skip to main content" [ref=e2]
+  - generic [ref=e3]:
+    - link "Skip to content" [ref=e4] [cursor=pointer]:
+      - /url: "#__next"
+    - link "Skip to footer" [ref=e5] [cursor=pointer]:
+      - /url: "#GlobalFooter"
+  - generic [ref=e9]:
+    - link "Glassdoor Home" [ref=e11] [cursor=pointer]:
+      - /url: /index.htm
+      - img [ref=e13]
+    - button "Navigation Menu" [ref=e16] [cursor=pointer]:
+      - img [ref=e17]
+    - button "lottie-animation-container Search" [ref=e22] [cursor=pointer]:
+      - generic [ref=e24]:
+        - generic:
+          - img "lottie-animation-container":
+            - generic:
+              - img
+        - img [ref=e36]
+      - generic [ref=e38]: Search
+    - button "sign in" [ref=e41]:
+      - generic: Sign In
+  - generic [ref=e42]:
+    - form [ref=e45]:
+      - generic [ref=e47]:
+        - img "Search" [ref=e49]
+        - combobox "Find your perfect job" [ref=e50]
+      - generic [ref=e52]:
+        - img "Location" [ref=e54]
+        - combobox "City, state, zipcode, or \"remote\"" [ref=e55]
+      - button "Search" [ref=e57]
+    - generic [ref=e59]:
+      - generic [ref=e60]:
+        - generic [ref=e61]:
+          - img [ref=e62]
+          - generic [ref=e65]:
+            - heading "Are you open to new opportunities?" [level=2] [ref=e66]
+            - generic [ref=e67]: Upload your resume to increase your chances of getting noticed.
+            - button "Upload resume" [ref=e69] [cursor=pointer]
+          - button [ref=e72] [cursor=pointer]:
+            - img
+        - generic [ref=e73]:
+          - generic [ref=e76]:
+            - generic [ref=e77]:
+              - banner [ref=e78]:
+                - generic [ref=e79]:
+                  - generic [ref=e80]:
+                    - link "Tesla Logo Tesla 3.5" [ref=e81] [cursor=pointer]:
+                      - /url: /Overview/Working-at-Tesla-EI_IE43129.11,16.htm
+                      - img "Tesla Logo" [ref=e84]
+                      - generic [ref=e86]:
+                        - heading "Tesla" [level=4] [ref=e88]
+                        - meter [ref=e89]:
+                          - text: "3.5"
+                          - img [ref=e90]
+                    - heading "AI Engineering Intern, Summer 2026" [level=1] [ref=e93]
+                  - button "More options" [ref=e97] [cursor=pointer]:
+                    - img [ref=e98]
+                - generic [ref=e100]:
+                  - generic [ref=e102]: Palo Alto, CA
+                  - generic [ref=e104]: $100K - $150K (Employer provided)
+                - generic [ref=e105]:
+                  - button "Apply on employer site" [ref=e108]:
+                    - generic:
+                      - generic: Apply on employer site
+                  - button "Save" [ref=e109]:
+                    - generic:
+                      - img
+              - generic [ref=e111]:
+                - button "Save" [ref=e112]:
+                  - generic:
+                    - img
+                - button "Apply on employer site" [ref=e114]:
+                  - generic:
+                    - generic: Apply on employer site
+            - generic [ref=e116]:
+              - generic [ref=e117]: Is your resume a good match?
+              - generic [ref=e118]: Use AI to find out how well the skills on your resume fit this job description.
+              - button "Upload your resume" [ref=e122]:
+                - generic:
+                  - generic:
+                    - img
+                    - text: Upload your resume
+            - generic [ref=e123]:
+              - generic [ref=e124]:
+                - generic [ref=e127]:
+                  - generic [ref=e129]:
+                    - text: What to Expect
+                    - generic [ref=e130]:
+                      - paragraph [ref=e131]: Tesla is seeking exceptional Machine Learning Interns to help build large scale models to drive the future of autonomy across all current and future generations of Tesla AI products. You will work on a lean team without boundaries and have access to one of the world’s largest training clusters with a data engine that constantly generates new information for improving our models. Most importantly, you will see your work repeatedly shipped to and utilized by millions of Tesla’s customers.
+                      - paragraph [ref=e132]: "We are seeking Interns in the following AI disciplines:"
+                      - list [ref=e133]:
+                        - listitem [ref=e134]: Train large-scale foundation and generative models that are optimized for performance and latency
+                        - listitem [ref=e135]: Improve data engine for large scale and high-quality dataset curation
+                        - listitem [ref=e136]: Reinforcement Learning for instilling objectives and improving overall robustness, including RL for training
+                        - listitem [ref=e137]: Design compound AI systems for better planning and reasoning, with emphasis on world modeling and generative videos
+                    - text: What You'll Do
+                    - list [ref=e139]:
+                      - listitem [ref=e140]: Applied research in the areas of Foundation Models, including but not limited to computer vision, large language models and generative modeling
+                      - listitem [ref=e141]: Work on cutting-edge techniques in AI - multi-task learning, video networks, multi-modal generative models, imitation learning, reinforcement learning, semi-supervised learning, self-supervised learning
+                      - listitem [ref=e142]: Explore and implement novel AI tooling and techniques for efficient training and fine-tuning of large-scale models, incorporating RL for training
+                      - listitem [ref=e143]: Leverage millions of miles of driving data and interventions to build a robust and scalable end-to-end learning based self-driving system
+                      - listitem [ref=e144]: Collaborate with a team to apply research findings to real-world challenges, ensuring high-quality system integration within existing platforms
+                      - listitem [ref=e145]: Experiment with data generation and network driven data collection approaches to enhance the diversity and quality of training data, including generative videos
+                      - listitem [ref=e146]: Ship production quality, safety-critical software to the entirety of Tesla’s vehicle fleet, with applications in world modeling
+                    - text: What You'll Bring
+                    - list [ref=e148]:
+                      - listitem [ref=e149]: Demonstrated experience in machine learning frameworks and models such as PyTorch, TensorFlow, GPT, CNNs, and generative models
+                      - listitem [ref=e150]: Strong experience with Python and software engineering best practices
+                      - listitem [ref=e151]: Experience with one or more of imitation Learning, reinforcement learning (offline/off-policy), modern neural network architectures (e.g., GPT, diffusion, generative models), or related techniques, including RL for training
+                      - listitem [ref=e152]: "An “under the hood” knowledge of deep learning: layer details, loss functions, optimization, etc."
+                      - listitem [ref=e153]: Prior experience with sparse training techniques, neural network pruning, and generative modeling, with exposure to generative videos
+                      - listitem [ref=e154]: Experience with training large models on distributed computing
+                      - listitem [ref=e155]: Ability to work on complex problems and produce significant research and/or experience deploying production ML models at scale, particularly in world modeling
+                      - listitem [ref=e156]: Proven track record of innovations and executions in deep learning, demonstrated with shipping products or first-author publications at leading AI conferences
+                    - text: Compensation and Benefits
+                    - generic [ref=e157]: Benefits
+                    - generic [ref=e158]:
+                      - paragraph [ref=e159]: "As a full-time Tesla Intern, you will be eligible for:"
+                      - list [ref=e160]:
+                        - listitem [ref=e161]: Medical plans > plan options with $0 payroll deduction
+                        - listitem [ref=e162]: Family-building, fertility, adoption and surrogacy benefits
+                        - listitem [ref=e163]: Dental (including orthodontic coverage) and vision plans. Both have an option with a $0 payroll contribution
+                        - listitem [ref=e164]: Company Paid (Health Savings Account) HSA Contribution when enrolled in the High Deductible Medical Plan with HSA
+                        - listitem [ref=e165]: Healthcare and Dependent Care Flexible Spending Accounts (FSA)
+                        - listitem [ref=e166]: 401(k), Employee Stock Purchase Plans, and other financial benefits
+                        - listitem [ref=e167]: Company Paid Basic Life, AD&D, and short-term disability insurance (90 day waiting period)
+                        - listitem [ref=e168]: Employee Assistance Program
+                        - listitem [ref=e169]: Sick and Vacation time (Flex time for salary positions), and Paid Holidays
+                        - listitem [ref=e170]: Back-up childcare and parenting support resources
+                        - listitem [ref=e171]: "Voluntary benefits to include: critical illness, hospital indemnity, accident insurance, theft & legal services, and pet insurance"
+                        - listitem [ref=e172]: Commuter benefits
+                        - listitem [ref=e173]: Employee discounts and perks program
+                    - generic [ref=e174]: Expected Compensation
+                    - generic [ref=e175]:
+                      - text: $100,000 - $150,000/annual salary + benefits
+                      - paragraph [ref=e176]: Pay offered may vary depending on multiple individualized factors, including market location, job-related knowledge, skills, and experience. The total compensation package for this position may also include other elements dependent on the position offered. Details of participation in these benefit plans will be provided if an employee receives an offer of employment.
+                    - text: Tesla is an Equal Opportunity / Affirmative Action employer committed to diversity in the workplace. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, age, national origin, disability, protected veteran status, gender identity or any other factor protected by applicable federal, state or local laws.
+                    - text: Tesla is also committed to working with and providing reasonable accommodations to individuals with disabilities. Please let your recruiter know if you need an accommodation at any point during the interview process.
+                  - generic [ref=e177]:
+                    - button "Show more" [ref=e178] [cursor=pointer]:
+                      - generic [ref=e179]: Show more
+                      - img [ref=e180]
+                    - generic [ref=e182] [cursor=pointer]:
+                      - generic [ref=e183]: See company reviews
+                      - img [ref=e184]
+                - button "Is my resume a good match?" [ref=e190]:
+                  - generic:
+                    - generic:
+                      - img
+                      - text: Is my resume a good match?
+              - generic [ref=e191]:
+                - generic [ref=e194]:
+                  - generic [ref=e196]:
+                    - heading "Pay details" [level=2] [ref=e197]
+                    - contentinfo "Palo Alto, CA" [ref=e198]:
+                      - generic [ref=e199]:
+                        - generic:
+                          - img
+                        - generic: Palo Alto, CA
+                    - generic [ref=e200]: The minimum salary is $100K and the max salary is $150K.
+                  - generic [ref=e201]:
+                    - generic [ref=e202]:
+                      - generic [ref=e203]: $100K – $150K/yr
+                      - generic [ref=e205]: Total pay
+                      - generic [ref=e207]:
+                        - generic [ref=e208]: Employer provided
+                        - img [ref=e211]
+                    - generic [ref=e214]:
+                      - generic [ref=e215]: $125K
+                      - generic [ref=e216]: Median pay
+                - button "Is this pay right for me?" [ref=e221]:
+                  - generic:
+                    - generic:
+                      - img
+                      - text: Is this pay right for me?
+              - generic [ref=e224]:
+                - region "Conversations @Tesla" [ref=e225]:
+                  - generic [ref=e226]:
+                    - generic [ref=e227]: Conversations @Tesla
+                    - generic [ref=e228]: See what insiders and job seekers are saying about interviews, pay and more.
+                  - generic [ref=e229]:
+                    - generic [ref=e231]:
+                      - link "Toggle identity Associate 3mo How is working at Spacex or Tesla as in-house counsel? 5 16 Comments" [ref=e233] [cursor=pointer]:
+                        - /url: /Community/inhouse-counsel/how-is-working-at-spacex-or-tesla-as-in-house-counsel
+                        - generic [ref=e236]:
+                          - generic [ref=e237]:
+                            - generic [ref=e238]:
+                              - button "Toggle identity" [ref=e240]:
+                                - generic "Toggle identity" [ref=e241]:
+                                  - img [ref=e242]
+                              - generic [ref=e250]: Associate
+                            - time [ref=e251]: 3mo
+                          - paragraph [ref=e254]: How is working at Spacex or Tesla as in-house counsel?
+                          - generic [ref=e255]:
+                            - generic [ref=e256]:
+                              - generic [ref=e257]:
+                                - img [ref=e258]
+                                - img [ref=e262]
+                              - generic [ref=e265]: "5"
+                            - generic [ref=e266]:
+                              - img [ref=e267]
+                              - generic [ref=e269]: 16 Comments
+                      - link [ref=e271] [cursor=pointer]:
+                        - /url: /Community/technology/im-currently-optum-doing-pmostrategy-work-what-are-the-companies-that-are-within-reach-if-i-look-to-go-from-here-id-like-another
+                        - generic [ref=e274]:
+                          - generic [ref=e275]:
+                            - generic [ref=e276]:
+                              - button [ref=e278]:
+                                - img [ref=e280]
+                              - generic [ref=e288]: Consultant
+                            - time [ref=e289]: 2mo
+                          - generic [ref=e291]:
+                            - paragraph [ref=e292]: I’m currently Optum doing PMO/strategy work. What are the companies that are within reach if I look to go from here? I’d like another household name Google Meta Microsoft Nvidia Apple Netflix Tesla Amazon
+                            - text: read more
+                          - generic [ref=e293]:
+                            - generic [ref=e294]:
+                              - img [ref=e296]
+                              - generic [ref=e299]: "15"
+                            - generic [ref=e300]:
+                              - img [ref=e301]
+                              - generic [ref=e303]: 3 Comments
+                      - link [ref=e305] [cursor=pointer]:
+                        - /url: /Community/salary-compensation/i-have-an-active-interview-ongoing-with-tesla-for-a-program-manager-role-at-palo-alto-what-should-be-the-salary-i-should-be
+                        - generic [ref=e308]:
+                          - generic [ref=e309]:
+                            - generic [ref=e310]:
+                              - button [ref=e312]:
+                                - img [ref=e314]
+                              - generic [ref=e322]: Product Marketing Manager
+                            - time [ref=e323]: 2d
+                          - generic [ref=e325]:
+                            - paragraph [ref=e326]: I have an active interview ongoing with Tesla for a Program Manager role at Palo Alto, what should be the salary I should be asking for if and when negotiations happen? I was told by HR the base could be even as low as "$110k" which I don't understand (from a company being Tesla) (my resume pretty much exactly matched to their JD, didn't even need to optimize my resume before applying( I'm currently a Product Marketing Manager in SC making $89k base + $750/monthly car allowance+ 20% bonus
+                            - text: read more
+                          - generic [ref=e327]:
+                            - generic [ref=e328]:
+                              - img [ref=e330]
+                              - generic [ref=e333]: "3"
+                            - generic [ref=e334]:
+                              - img [ref=e335]
+                              - generic [ref=e337]: 1 Comment
+                      - generic [ref=e339]:
+                        - generic [ref=e340]: See what other AI Engineering... are saying
+                        - generic [ref=e341]:
+                          - link [ref=e342] [cursor=pointer]:
+                            - /url: /Community/interview-tips
+                            - generic [ref=e344]:
+                              - heading [level=3] [ref=e345]: Interview Tips
+                              - generic [ref=e346]: 805K members
+                          - link [ref=e347] [cursor=pointer]:
+                            - /url: /Community/salary-negotiations-dvf8-5
+                            - generic [ref=e349]:
+                              - heading [level=3] [ref=e350]: Salary Negotiations
+                              - generic [ref=e351]: 775K members
+                    - button "Next" [ref=e352] [cursor=pointer]:
+                      - img [ref=e353]
+                - link "See more posts" [ref=e356] [cursor=pointer]:
+                  - /url: /Community/search/conversations?query=Tesla&sort=RELEVANT
+                  - generic [ref=e357]: See more posts
+                  - img [ref=e358]
+              - generic [ref=e362]:
+                - generic [ref=e363]:
+                  - heading "Working here doesn’t have to be a secret" [level=3] [ref=e364]
+                  - paragraph [ref=e365]: Sign in to browse authentic reviews, anonymous ratings and salary data before you apply.
+                  - button "Sign in" [ref=e367]:
+                    - generic:
+                      - generic:
+                        - img
+                        - generic: Sign in
+                - generic [ref=e370]:
+                  - generic [ref=e371]:
+                    - generic [ref=e372]: "3.5"
+                    - img "3.5 stars out of 5" [ref=e373]:
+                      - status [ref=e374]:
+                        - img [ref=e376]
+                        - img [ref=e379]
+                        - img [ref=e382]
+                        - generic [ref=e384]:
+                          - img [ref=e385]
+                          - img [ref=e387]
+                        - generic [ref=e389]:
+                          - img [ref=e390]
+                          - img [ref=e392]
+                  - list "Company Ratings" [ref=e394]:
+                    - listitem [ref=e395]:
+                      - img [ref=e397]:
+                        - generic [ref=e401]: 57 %
+                      - generic [ref=e402]: Recommend to a friend
+                    - listitem [ref=e403]:
+                      - img [ref=e405]:
+                        - generic [ref=e409]: 58 %
+                      - generic [ref=e410]: Approve of CEO
+                    - listitem [ref=e411]:
+                      - img "CEO Elon Musk" [ref=e414]
+                      - generic [ref=e415]:
+                        - generic [ref=e416]: "CEO: Elon Musk"
+                        - generic [ref=e417]: 4,930 Ratings
+          - generic [ref=e419]:
+            - heading "Related pages" [level=3] [ref=e420]
+            - generic [ref=e421]:
+              - link "AI Engineering Intern, Summer 2026 jobs in Palo Alto, CA" [ref=e423] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Job/jobs.htm?sc.occupationParam=AI+Engineering+Intern%2C+Summer+2026&sc.locationSeoString=Palo+Alto&locId=1147434&locT=C
+                - generic [ref=e424]: AI Engineering Intern, Summer 2026 jobs in Palo Alto, CA
+                - img [ref=e425]
+              - link "Jobs at Tesla in Palo Alto, CA" [ref=e428] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Jobs/Tesla-Jobs-E43129.htm
+                - generic [ref=e429]: Jobs at Tesla in Palo Alto, CA
+                - img [ref=e430]
+              - link "AI Engineering Intern, Summer 2026 salaries in Palo Alto, CA" [ref=e433] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Salaries/company-salaries.htm?sc.occupationParam=AI+Engineering+Intern%2C+Summer+2026&sc.locationSeoString=Palo+Alto&locId=1147434&locT=C
+                - generic [ref=e434]: AI Engineering Intern, Summer 2026 salaries in Palo Alto, CA
+                - img [ref=e435]
+              - link "Reviews at Tesla" [ref=e438] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Reviews/Tesla-Reviews-E43129.htm
+                - generic [ref=e439]: Reviews at Tesla
+                - img [ref=e440]
+              - link "Interviews at Tesla" [ref=e443] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Interview/Tesla-Interview-Questions-E43129.htm
+                - generic [ref=e444]: Interviews at Tesla
+                - img [ref=e445]
+              - link "Benefits at Tesla" [ref=e448] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/Benefits/Tesla-US-Benefits-EI_IE43129.0,5_IL.6,8_IN1.htm
+                - generic [ref=e449]: Benefits at Tesla
+                - img [ref=e450]
+      - generic [ref=e453]:
+        - generic [ref=e454]:
+          - generic [ref=e455]: More jobs like this one
+          - generic [ref=e456]: Looking for something similar? We've got options.
+        - list "Jobs List" [ref=e458]:
+          - listitem [ref=e459]:
+            - generic [ref=e461] [cursor=pointer]:
+              - generic [ref=e462]:
+                - generic [ref=e463]:
+                  - generic [ref=e464]:
+                    - img "NVIDIA Logo" [ref=e467]
+                    - generic [ref=e469]:
+                      - generic [ref=e470]: NVIDIA
+                      - meter [ref=e471]:
+                        - text: "4.6"
+                        - img [ref=e472]
+                  - link "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026":
+                    - /url: https://www.glassdoor.com/job-listing/applied-deep-learning-phd-research-intern-reinforcement-learning-for-llms-fall-2026-nvidia-JV_IC1147439_KO0,83_KE84,90.htm?jl=1010125910634
+                  - generic [ref=e474]: Santa Clara, CA
+                  - generic [ref=e475]: $30.00 - $94.00 Per Hour (Employer provided)
+                  - img "Best Places to Work" [ref=e478]:
+                    - img [ref=e479]
+                    - generic [ref=e481]: Best Places to Work
+                  - link "Applied Deep Learning PhD Research Intern, Reinforcement Learning for LLMs - Fall 2026 $30.00 - $94.00 Per Hour (Employer provided) Santa Clara, CA NVIDIA Logo NVIDIA 4.6":
+                    - /url: /partner/jobListing.htm?pos=101&ao=1136043&s=351&guid=0000019e25143e529a3d6c6b97a92650&src=GD_JOB_AD&t=FJ&vt=w&cs=1_1b9e6c57&cb=1778738544423&jobListingId=1010125910634&jrtk=5-yul1-0-1joih8fjlia6l801-a8ef367f251bb757
+                - generic [ref=e482]: 6d
+              - button "Save" [ref=e484]:
+                - generic:
+                  - img
+          - listitem [ref=e485]:
+            - generic [ref=e487] [cursor=pointer]:
+              - generic [ref=e488]:
+                - generic [ref=e489]:
+                  - generic [ref=e490]:
+                    - img "TikTok Logo" [ref=e493]
+                    - generic [ref=e495]:
+                      - generic [ref=e496]: TikTok
+                      - meter [ref=e497]:
+                        - text: "3.2"
+                        - img [ref=e498]
+                  - link "Machine Learning Engineer Intern (Search Ads) - 2026 Fall (BS/MS)":
+                    - /url: https://www.glassdoor.com/job-listing/machine-learning-engineer-intern-search-ads-2026-fall-bs-ms-tiktok-JV_IC1147436_KO0,59_KE60,66.htm?jl=1010083315489
+                  - generic [ref=e500]: San Jose, CA
+                  - generic [ref=e501]: $45.00 - $60.00 Per Hour (Employer provided)
+                  - link "Machine Learning Engineer Intern (Search Ads) - 2026 Fall (BS/MS) $45.00 - $60.00 Per Hour (Employer provided) San Jose, CA TikTok Logo TikTok 3.2":
+                    - /url: /partner/jobListing.htm?pos=102&ao=1136043&s=351&guid=0000019e25143e529a3d6c6b97a92650&src=GD_JOB_AD&t=FJ&vt=w&cs=1_d5eb7cd7&cb=1778738544423&jobListingId=1010083315489&jrtk=5-yul1-0-1joih8fjlia6l801-12288b909a214b00
+                - generic [ref=e502]: 30d+
+              - button "Save" [ref=e504]:
+                - generic:
+                  - img
+          - listitem [ref=e505]:
+            - generic [ref=e507] [cursor=pointer]:
+              - generic [ref=e508]:
+                - generic [ref=e509]:
+                  - generic [ref=e510]:
+                    - img "TikTok Logo" [ref=e513]
+                    - generic [ref=e515]:
+                      - generic [ref=e516]: TikTok
+                      - meter [ref=e517]:
+                        - text: "3.2"
+                        - img [ref=e518]
+                  - link "(General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads)- 2026 Summer (BS/MS)":
+                    - /url: https://www.glassdoor.com/job-listing/general-hire-machine-learning-engineer-intern-commerce-content-service-search-ads-2026-summer-bs-ms-tiktok-JV_IC1147436_KO0,99_KE100,106.htm?jl=1009843515420
+                  - generic [ref=e520]: San Jose, CA
+                  - generic [ref=e521]: $45.00 - $60.00 Per Hour (Employer provided)
+                  - link "(General Hire) Machine Learning Engineer Intern (Commerce& Content Service & Search Ads)- 2026 Summer (BS/MS) $45.00 - $60.00 Per Hour (Employer provided) San Jose, CA TikTok Logo TikTok 3.2":
+                    - /url: /partner/jobListing.htm?pos=103&ao=1136043&s=351&guid=0000019e25143e529a3d6c6b97a92650&src=GD_JOB_AD&t=FJ&vt=w&cs=1_d344b25b&cb=1778738544423&jobListingId=1009843515420&jrtk=5-yul1-0-1joih8fjlia6l801-03a2bbc6b06cb4ee
+                - generic [ref=e522]: 30d+
+              - button "Save" [ref=e524]:
+                - generic:
+                  - img
+          - listitem [ref=e525]:
+            - generic [ref=e527] [cursor=pointer]:
+              - generic [ref=e528]:
+                - generic [ref=e529]:
+                  - generic [ref=e530]:
+                    - img "TikTok Logo" [ref=e533]
+                    - generic [ref=e535]:
+                      - generic [ref=e536]: TikTok
+                      - meter [ref=e537]:
+                        - text: "3.2"
+                        - img [ref=e538]
+                  - link "Machine Learning Engineer Intern (USDS) - 2026 Summer (BS/MS)":
+                    - /url: https://www.glassdoor.com/job-listing/machine-learning-engineer-intern-usds-2026-summer-bs-ms-tiktok-JV_IC1147436_KO0,55_KE56,62.htm?jl=1009876268587
+                  - generic [ref=e540]: San Jose, CA
+                  - generic [ref=e541]: $45.00 Per Hour (Employer provided)
+                  - link "Machine Learning Engineer Intern (USDS) - 2026 Summer (BS/MS) $45.00 Per Hour (Employer provided) San Jose, CA TikTok Logo TikTok 3.2":
+                    - /url: /partner/jobListing.htm?pos=104&ao=1136043&s=351&guid=0000019e25143e529a3d6c6b97a92650&src=GD_JOB_AD&t=FJ&vt=w&cs=1_4b504725&cb=1778738544423&jobListingId=1009876268587&jrtk=5-yul1-0-1joih8fjlia6l801-af7a7c4889587ec6
+                - generic [ref=e542]: 30d+
+              - button "Save" [ref=e544]:
+                - generic:
+                  - img
+          - listitem [ref=e545]:
+            - generic [ref=e547] [cursor=pointer]:
+              - generic [ref=e548]:
+                - generic [ref=e549]:
+                  - generic [ref=e550]:
+                    - img "TikTok Logo" [ref=e553]
+                    - generic [ref=e555]:
+                      - generic [ref=e556]: TikTok
+                      - meter [ref=e557]:
+                        - text: "3.2"
+                        - img [ref=e558]
+                  - link "Machine Learning Scientist Intern (TikTok-Recommendation) - 2026 Start (PhD)":
+                    - /url: https://www.glassdoor.com/job-listing/machine-learning-scientist-intern-tiktok-recommendation-2026-start-phd-tiktok-JV_IC1147436_KO0,70_KE71,77.htm?jl=1010097690701
+                  - generic [ref=e560]: San Jose, CA
+                  - generic [ref=e561]: $60.00 Per Hour (Employer provided)
+                  - link "Machine Learning Scientist Intern (TikTok-Recommendation) - 2026 Start (PhD) $60.00 Per Hour (Employer provided) San Jose, CA TikTok Logo TikTok 3.2":
+                    - /url: /partner/jobListing.htm?pos=105&ao=1136043&s=351&guid=0000019e25143e529a3d6c6b97a92650&src=GD_JOB_AD&t=FJ&vt=w&cs=1_b28e28ed&cb=1778738544423&jobListingId=1010097690701&jrtk=5-yul1-0-1joih8fjlia6l801-2f7847d482cad443
+                - generic [ref=e562]: 30d+
+              - button "Save" [ref=e564]:
+                - generic:
+                  - img
+          - listitem [ref=e565]:
+            - generic [ref=e567] [cursor=pointer]:
+              - generic [ref=e568]:
+                - generic [ref=e569]:
+                  - generic [ref=e570]:
+                    - img "Power Integrations Logo" [ref=e573]
+                    - generic [ref=e575]:
+                      - generic [ref=e576]: Power Integrations
+                      - meter [ref=e577]:
+                        - text: "3.6"
+                        - img [ref=e578]
+                  - link "Failure Analysis Intern":
+                    - /url: https://www.glassdoor.com/job-listing/failure-analysis-intern-power-integrations-JV_IC1147436_KO0,23_KE24,42.htm?jl=1010130500938
+                  - generic [ref=e580]: San Jose, CA
+                  - generic [ref=e581]: $32.00 - $34.00 Per Hour (Employer provided)
+                  - link "Failure Analysis Intern $32.00 - $34.00 Per Hour (Employer provided) San Jose, CA Power Integrations Logo Power Integrations 3.6":
+                    - /url: /partner/jobListing.htm?pos=106&ao=1136043&s=351&guid=0000019e25143e529a3d6c6b97a92650&src=GD_JOB_AD&t=FJ&vt=w&cs=1_40d8b48d&cb=1778738544423&jobListingId=1010130500938&jrtk=5-yul1-0-1joih8fjlia6l801-08e76a00c1e4120c
+                - generic [ref=e582]: 2d
+              - button "Save" [ref=e584]:
+                - generic:
+                  - img
+          - listitem [ref=e585]:
+            - generic [ref=e587] [cursor=pointer]:
+              - generic [ref=e588]:
+                - generic [ref=e589]:
+                  - generic [ref=e590]:
+                    - img "Power Integrations Logo" [ref=e593]
+                    - generic [ref=e595]:
+                      - generic [ref=e596]: Power Integrations
+                      - meter [ref=e597]:
+                        - text: "3.6"
+                        - img [ref=e598]
+                  - link "GaN Characterization Intern":
+                    - /url: https://www.glassdoor.com/job-listing/gan-characterization-intern-power-integrations-JV_IC1147436_KO0,27_KE28,46.htm?jl=1010130500936
+                  - generic [ref=e600]: San Jose, CA
+                  - generic [ref=e601]: $40.00 - $45.00 Per Hour (Employer provided)
+                  - link "GaN Characterization Intern $40.00 - $45.00 Per Hour (Employer provided) San Jose, CA Power Integrations Logo Power Integrations 3.6":
+                    - /url: /partner/jobListing.htm?pos=107&ao=1136043&s=351&guid=0000019e25143e529a3d6c6b97a92650&src=GD_JOB_AD&t=FJ&vt=w&cs=1_815387f4&cb=1778738544423&jobListingId=1010130500936&jrtk=5-yul1-0-1joih8fjlia6l801-3c757d152444fe5a
+                - generic [ref=e602]: 2d
+              - button "Save" [ref=e604]:
+                - generic:
+                  - img
+          - listitem [ref=e605]:
+            - generic [ref=e607] [cursor=pointer]:
+              - generic [ref=e608]:
+                - generic [ref=e609]:
+                  - generic [ref=e610]:
+                    - img "Alibaba Logo" [ref=e613]
+                    - generic [ref=e615]:
+                      - generic [ref=e616]: Alibaba
+                      - meter [ref=e617]:
+                        - text: "3.7"
+                        - img [ref=e618]
+                  - link "Alibaba.com-Accio-Research Intern-Sunnyvale":
+                    - /url: https://www.glassdoor.com/job-listing/alibaba-com-accio-research-intern-sunnyvale-alibaba-group-JV_IC1147442_KO0,43_KE44,57.htm?jl=1009963618634
+                  - generic [ref=e620]: Sunnyvale, CA
+                  - generic [ref=e621]: $105K - $197K (Glassdoor est.)
+                  - link "Alibaba.com-Accio-Research Intern-Sunnyvale $105K - $197K (Glassdoor est.) Sunnyvale, CA Alibaba Logo Alibaba 3.7":
+                    - /url: /partner/jobListing.htm?pos=108&ao=1136043&s=351&guid=0000019e25143e529a3d6c6b97a92650&src=GD_JOB_AD&t=FJ&vt=w&cs=1_ff5bc428&cb=1778738544423&jobListingId=1009963618634&jrtk=5-yul1-0-1joih8fjlia6l801-a947dfeaaa1d67fc
+                - generic [ref=e622]: 30d+
+              - button "Save" [ref=e624]:
+                - generic:
+                  - img
+        - link "See more jobs" [ref=e627] [cursor=pointer]:
+          - /url: /Job/palo-alto-intern-jobs-SRCH_IL.0,9_IC1147434_KO10,16.htm
+          - generic [ref=e628]: See more jobs
+          - img [ref=e629]
+  - contentinfo [ref=e632]:
+    - separator [ref=e633]
+    - generic [ref=e634]:
+      - img [ref=e636]
+      - generic [ref=e638]:
+        - generic [ref=e639]:
+          - heading "Glassdoor" [level=3] [ref=e640]
+          - list "Glassdoor" [ref=e641]:
+            - listitem [ref=e642]:
+              - link "About / Press" [ref=e643] [cursor=pointer]:
+                - /url: https://www.glassdoor.com/about/
+            - listitem [ref=e644]:
+              - link "Awards" [ref=e645] [cursor=pointer]:
+                - /url: /Award/index.htm
+            - listitem [ref=e646]:
+              - link "Blog" [ref=e647] [cursor=pointer]:
+                - /url: /blog/
+            - listitem [ref=e648]:
+              - link "Research" [ref=e649] [cursor=pointer]:
+                - /url: /research/
+            - listitem [ref=e650]:
+              - link "Contact Us" [ref=e651] [cursor=pointer]:
+                - /url: https://help.glassdoor.com/ContactUs/en_US/
+            - listitem [ref=e652]:
+              - link "Guides" [ref=e653] [cursor=pointer]:
+                - /url: /blog/guides/
+        - generic [ref=e654]:
+          - heading "Employers" [level=3] [ref=e655]
+          - list "Employers" [ref=e656]:
+            - listitem [ref=e657]:
+              - link "Free Employer Account" [ref=e658] [cursor=pointer]:
+                - /url: /employers/sign-up/?src=gdfoot
+            - listitem [ref=e659]:
+              - link "Employer Center" [ref=e660] [cursor=pointer]:
+                - /url: /employers/ec/index.htm
+            - listitem [ref=e661]:
+              - link "Employers Blog" [ref=e662] [cursor=pointer]:
+                - /url: /employers/blog
+        - generic [ref=e663]:
+          - heading "Information" [level=3] [ref=e664]
+          - list "Information" [ref=e665]:
+            - listitem [ref=e666]:
+              - link "Help" [ref=e667] [cursor=pointer]:
+                - /url: https://help.glassdoor.com
+            - listitem [ref=e668]:
+              - link "Guidelines" [ref=e669] [cursor=pointer]:
+                - /url: https://help.glassdoor.com/article/Community-Guidelines/en_US
+            - listitem [ref=e670]:
+              - link "Terms of Use" [ref=e671] [cursor=pointer]:
+                - /url: /about/terms/
+            - listitem [ref=e672]:
+              - link "Privacy & Ad Choices" [ref=e673] [cursor=pointer]:
+                - /url: https://hrtechprivacy.com/brands/glassdoor#privacypolicy
+            - listitem [ref=e674]:
+              - link "Do Not Sell Or Share My Information" [ref=e675] [cursor=pointer]:
+                - /url: /about/doNotSell.htm
+            - listitem [ref=e676]:
+              - link "Cookie Consent Tool" [ref=e677] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=e678]:
+              - link "Security" [ref=e679] [cursor=pointer]:
+                - /url: /about/security
+        - generic [ref=e680]:
+          - heading "Work With Us" [level=3] [ref=e681]
+          - list "Work With Us" [ref=e682]:
+            - listitem [ref=e683]:
+              - link "Advertisers" [ref=e684] [cursor=pointer]:
+                - /url: /post-job/
+            - listitem [ref=e685]:
+              - link "Careers" [ref=e686] [cursor=pointer]:
+                - /url: /Jobs/Glassdoor-Jobs-E100431.htm
+    - generic [ref=e687]:
+      - generic [ref=e688]:
+        - generic [ref=e689]: Download the App
+        - list [ref=e690]:
+          - listitem [ref=e691]:
+            - link "Download Glassdoor app from android" [ref=e692] [cursor=pointer]:
+              - /url: https://play.google.com/store/apps/details?id=com.glassdoor.app&hl=en&gl=us
+              - img [ref=e693]
+          - listitem [ref=e695]:
+            - link "Download Glassdoor app from apple" [ref=e696] [cursor=pointer]:
+              - /url: https://apps.apple.com/us/app/glassdoor-jobs-careers/id589698942
+              - img [ref=e697]
+      - list [ref=e699]:
+        - listitem [ref=e700]:
+          - link "opens glassdoor link" [ref=e701] [cursor=pointer]:
+            - /url: /glassdoor
+            - img [ref=e702]
+        - listitem [ref=e705]:
+          - link "opens linkedin link in new window" [ref=e706] [cursor=pointer]:
+            - /url: https://www.linkedin.com/company/glassdoor
+            - img [ref=e707]
+        - listitem [ref=e710]:
+          - link "opens youtube link in new window" [ref=e711] [cursor=pointer]:
+            - /url: https://youtube.com/Glassdoor
+            - img [ref=e712]
+        - listitem [ref=e715]:
+          - link "opens instagram link in new window" [ref=e716] [cursor=pointer]:
+            - /url: https://instagram.com/glassdoor
+            - img [ref=e717]
+        - listitem [ref=e721]:
+          - link "opens tiktok link in new window" [ref=e722] [cursor=pointer]:
+            - /url: https://tiktok.com/@glassdoor
+            - img [ref=e723]
+      - generic [ref=e727]:
+        - combobox "Select your country" [ref=e728]:
+          - generic:
+            - generic: United States
+          - img [ref=e730]
+        - combobox [ref=e732]
+    - separator [ref=e733]
+    - generic [ref=e734]:
+      - list [ref=e735]:
+        - listitem [ref=e736]: "Browse by:"
+        - listitem [ref=e737]:
+          - link "Companies" [ref=e738] [cursor=pointer]:
+            - /url: /sitedirectory/company-jobs.htm
+          - text: ","
+        - listitem [ref=e739]:
+          - link "Jobs" [ref=e740] [cursor=pointer]:
+            - /url: /sitedirectory/title-jobs.htm
+          - text: ","
+        - listitem [ref=e741]:
+          - link "Locations" [ref=e742] [cursor=pointer]:
+            - /url: /sitedirectory/city-jobs.htm
+          - text: ","
+        - listitem [ref=e743]:
+          - link "Communities" [ref=e744] [cursor=pointer]:
+            - /url: /sitedirectory/communities.htm
+          - text: ","
+        - listitem [ref=e745]:
+          - link "Recent Posts" [ref=e746] [cursor=pointer]:
+            - /url: /sitedirectory/recent-posts.htm
+      - paragraph [ref=e748]: Copyright © 2008-2026. Glassdoor LLC. "Glassdoor," "Worklife Pro," "Bowls," and logo are proprietary trademarks of Glassdoor LLC.
+  - alert [ref=e749]

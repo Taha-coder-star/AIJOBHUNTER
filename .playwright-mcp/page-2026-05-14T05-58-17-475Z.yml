@@ -1,0 +1,975 @@
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - link [ref=e3] [cursor=pointer]:
+      - /url: "#main-content"
+      - text: Skip to main content
+    - banner [ref=e4]:
+      - navigation [ref=e5]:
+        - link [ref=e6] [cursor=pointer]:
+          - /url: /?trk=public_jobs_nav-header-logo
+          - generic [ref=e7]: LinkedIn
+        - generic [ref=e9]:
+          - button [ref=e11] [cursor=pointer]:
+            - generic [ref=e12]: Jobs
+          - tabpanel [ref=e13]:
+            - search [ref=e14]:
+              - generic [ref=e15]:
+                - combobox [ref=e16]: AI ML Internship
+                - button [ref=e17] [cursor=pointer]:
+                  - generic [ref=e18]: Clear text
+              - generic [ref=e19]:
+                - combobox [ref=e20]: United States
+                - button [ref=e21] [cursor=pointer]:
+                  - generic [ref=e22]: Clear text
+              - button [ref=e23] [cursor=pointer]
+          - status [ref=e24]
+        - generic [ref=e25]:
+          - link [ref=e26] [cursor=pointer]:
+            - /url: https://www.linkedin.com/login?emailAddress=&fromSignIn=&fromSignIn=true&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch%2F%3Fkeywords%3DAI%2BML%2Binternship%26location%3D%26f_JT%3DI&trk=public_jobs_nav-header-signin
+            - text: Sign in
+          - link [ref=e27] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&session_redirect=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch%2F%3Fkeywords%3DAI%2BML%2Binternship%26location%3D%26f_JT%3DI&trk=public_jobs_nav-header-join
+            - text: Join now
+    - generic [ref=e31]:
+      - list [ref=e33]:
+        - listitem [ref=e34]:
+          - button [ref=e37] [cursor=pointer]: Any time
+        - listitem [ref=e39]:
+          - button [ref=e42] [cursor=pointer]: Company
+        - listitem [ref=e44]:
+          - button [ref=e47] [cursor=pointer]: Internship
+        - listitem [ref=e49]:
+          - button [ref=e52] [cursor=pointer]: Experience level
+        - listitem [ref=e54]:
+          - button [ref=e57] [cursor=pointer]: Location
+        - listitem [ref=e59]:
+          - button [ref=e62] [cursor=pointer]: Salary
+        - listitem [ref=e64]:
+          - button [ref=e67] [cursor=pointer]: Remote
+      - button [ref=e70] [cursor=pointer]: Reset
+    - main [ref=e72]:
+      - generic [ref=e75]:
+        - generic [ref=e78]: Get notified when a new job is posted.
+        - generic [ref=e79]:
+          - button [ref=e80]
+          - generic [ref=e81]: Set alert
+      - heading [level=1] [ref=e83]: 89 AI ML Internship Jobs in United States
+      - list [ref=e85]:
+        - listitem [ref=e86]:
+          - generic [ref=e87]:
+            - link [ref=e88] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/data-analytics-ai-intern-at-infocepts-4408910998?position=1&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=DsLDumjhfpQKb%2FqJOj2XQw%3D%3D
+              - generic [ref=e89]: Data, Analytics & AI Intern
+            - img [ref=e91]
+            - generic [ref=e92]:
+              - heading [level=3] [ref=e93]: Data, Analytics & AI Intern
+              - heading [level=4] [ref=e94]:
+                - link [ref=e95] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/infocepts?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: InfoCepts
+              - generic [ref=e96]:
+                - generic [ref=e97]: New Jersey, United States
+                - time [ref=e98]: 1 week ago
+        - listitem [ref=e99]:
+          - generic [ref=e100]:
+            - link [ref=e101] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ml-engineer-intern-at-typeface-4332255089?position=2&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=hhEbbSrFZnK1RxfRomkRTw%3D%3D
+              - generic [ref=e102]: ML Engineer Intern
+            - img [ref=e104]
+            - generic [ref=e105]:
+              - heading [level=3] [ref=e106]: ML Engineer Intern
+              - heading [level=4] [ref=e107]:
+                - link [ref=e108] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/typefaceai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Typeface
+              - generic [ref=e109]:
+                - generic [ref=e110]: Palo Alto, CA
+                - time [ref=e111]: 2 weeks ago
+        - listitem [ref=e112]:
+          - generic [ref=e113]:
+            - link [ref=e114] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/fall-2026-intern-artificial-intelligence-machine-learning-at-kodiak-4382310794?position=3&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=uWUVfsV%2B%2Fd5jSR1KdA%2FC5A%3D%3D
+              - generic [ref=e115]: Fall 2026 Intern, Artificial Intelligence/Machine Learning
+            - img [ref=e117]
+            - generic [ref=e118]:
+              - heading [level=3] [ref=e119]: Fall 2026 Intern, Artificial Intelligence/Machine Learning
+              - heading [level=4] [ref=e120]:
+                - link [ref=e121] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/kodiakai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Kodiak
+              - generic [ref=e122]:
+                - generic [ref=e123]: Mountain View, CA
+                - time [ref=e124]: 2 months ago
+        - listitem [ref=e125]:
+          - generic [ref=e126]:
+            - link [ref=e127] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ml-engineer-intern-summer-2026-at-crustdata-yc-f24-4385935314?position=4&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=akJbMufIaF18Bhzi0MnQcQ%3D%3D
+              - generic [ref=e128]: ML Engineer Intern (Summer 2026)
+            - generic [ref=e130]:
+              - heading [level=3] [ref=e131]: ML Engineer Intern (Summer 2026)
+              - heading [level=4] [ref=e132]:
+                - link [ref=e133] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/crustdata?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Crustdata (YC F24)
+              - generic [ref=e134]:
+                - generic [ref=e135]: San Francisco, CA
+                - time [ref=e136]: 1 month ago
+        - listitem [ref=e137]:
+          - generic [ref=e138]:
+            - link [ref=e139] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-ml-intern-%E2%80%93-small-language-models-medtech-at-regulify-ai-4405765134?position=5&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=9FCKjJTh7Twg%2BY%2B3oXyN9g%3D%3D
+              - generic [ref=e140]: AI/ML Intern – Small Language Models (MedTech)
+            - generic [ref=e142]:
+              - heading [level=3] [ref=e143]: AI/ML Intern – Small Language Models (MedTech)
+              - heading [level=4] [ref=e144]:
+                - link [ref=e145] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/regulify-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Regulify.AI
+              - generic [ref=e146]:
+                - generic [ref=e147]: Dallas, TX
+                - time [ref=e148]: 2 weeks ago
+        - listitem [ref=e149]:
+          - generic [ref=e150]:
+            - link [ref=e151] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-ltm-4390288110?position=6&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=X91mlZF5WkWdlcOEd9ofmA%3D%3D
+              - generic [ref=e152]: Artificial Intelligence Intern
+            - generic [ref=e154]:
+              - heading [level=3] [ref=e155]: Artificial Intelligence Intern
+              - heading [level=4] [ref=e156]:
+                - link [ref=e157] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/ltm-larsenandtoubrocompany?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: LTM
+              - generic [ref=e158]:
+                - generic [ref=e159]: New Jersey, United States
+                - time [ref=e160]: 2 weeks ago
+        - listitem [ref=e161]:
+          - generic [ref=e162]:
+            - link [ref=e163] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-scientist-internship-at-wyze-4379244468?position=7&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=o7%2FLKhSUvvD2lHX1y6Fhuw%3D%3D
+              - generic [ref=e164]: AI Scientist Internship
+            - generic [ref=e166]:
+              - heading [level=3] [ref=e167]: AI Scientist Internship
+              - heading [level=4] [ref=e168]:
+                - link [ref=e169] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/wyzelabs?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Wyze
+              - generic [ref=e170]:
+                - generic [ref=e171]: Kirkland, WA
+                - time [ref=e172]: 3 months ago
+        - listitem [ref=e173]:
+          - generic [ref=e174]:
+            - link [ref=e175] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-summer-2026-at-novaflow-yc-s25-4391623601?position=8&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=z2bPCPj5t128L6%2BK9vaPTQ%3D%3D
+              - generic [ref=e176]: Machine Learning Engineer Intern - Summer 2026
+            - generic [ref=e178]:
+              - heading [level=3] [ref=e179]: Machine Learning Engineer Intern - Summer 2026
+              - heading [level=4] [ref=e180]:
+                - link [ref=e181] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/novaflow-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Novaflow (YC S25)
+              - generic [ref=e182]:
+                - generic [ref=e183]: San Francisco, CA
+                - time [ref=e184]: 1 month ago
+        - listitem [ref=e185]:
+          - generic [ref=e186]:
+            - link [ref=e187] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/artificial-intelligence-intern-at-pathward-4343049318?position=9&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=%2FfrqKJug5D169iOPERonFg%3D%3D
+              - generic [ref=e188]: Artificial Intelligence Intern
+            - generic [ref=e190]:
+              - heading [level=3] [ref=e191]: Artificial Intelligence Intern
+              - heading [level=4] [ref=e192]:
+                - link [ref=e193] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/pathward?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Pathward
+              - generic [ref=e194]:
+                - generic [ref=e195]: United States
+                - time [ref=e196]: 2 weeks ago
+        - listitem [ref=e197]:
+          - generic [ref=e198]:
+            - link [ref=e199] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-automation-intern-at-k1-investment-management-4383173120?position=10&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=1GOWkSfsU9wi8T1BZSBaIg%3D%3D
+              - generic [ref=e200]: AI Automation Intern
+            - generic [ref=e202]:
+              - heading [level=3] [ref=e203]: AI Automation Intern
+              - heading [level=4] [ref=e204]:
+                - link [ref=e205] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/k1?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: K1 Investment Management
+              - generic [ref=e206]:
+                - generic [ref=e207]: Manhattan Beach, CA
+                - time [ref=e208]: 2 months ago
+        - listitem [ref=e209]:
+          - generic [ref=e210]:
+            - link [ref=e211] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-intern-fall-2026-at-notion-4398329491?position=11&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=sJUM%2FLD%2BXX%2FX2TZY62Diww%3D%3D
+              - generic [ref=e212]: Software Engineer Intern (Fall 2026)
+            - generic [ref=e214]:
+              - heading [level=3] [ref=e215]: Software Engineer Intern (Fall 2026)
+              - heading [level=4] [ref=e216]:
+                - link [ref=e217] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/notionhq?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Notion
+              - generic [ref=e218]:
+                - generic [ref=e219]: San Francisco, CA
+                - time [ref=e220]: 2 weeks ago
+        - listitem [ref=e221]:
+          - generic [ref=e222]:
+            - link [ref=e223] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/intern-ml-engineering-at-scowtt-4388868306?position=12&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=7vcZz9qzVhrwnRWaZX9mVg%3D%3D
+              - generic [ref=e224]: Intern - ML Engineering
+            - generic [ref=e226]:
+              - heading [level=3] [ref=e227]: Intern - ML Engineering
+              - heading [level=4] [ref=e228]:
+                - link [ref=e229] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/scowtt?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Scowtt
+              - generic [ref=e230]:
+                - generic [ref=e231]: Seattle, WA
+                - time [ref=e232]: 1 week ago
+        - listitem [ref=e233]:
+          - generic [ref=e234]:
+            - link [ref=e235] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-data-science-intern-at-mulu-corp-4413189069?position=13&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=LjGsxbm3vKCRZfVr4LvEPQ%3D%3D
+              - generic [ref=e236]: AI & Data Science Intern
+            - generic [ref=e238]:
+              - heading [level=3] [ref=e239]: AI & Data Science Intern
+              - heading [level=4] [ref=e240]:
+                - link [ref=e241] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/mulu-corp?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: MULU Corp.
+              - generic [ref=e242]:
+                - generic [ref=e243]: Alexandria, VA
+                - time [ref=e244]: 2 days ago
+        - listitem [ref=e245]:
+          - generic [ref=e246]:
+            - link [ref=e247] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/sap-ixp-intern-ai-machine-learning-at-sap-4400782204?position=14&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=xOgPC3jddVAjQHjA%2FyPTNA%3D%3D
+              - generic [ref=e248]: SAP iXp Intern - AI Machine Learning
+            - generic [ref=e250]:
+              - heading [level=3] [ref=e251]: SAP iXp Intern - AI Machine Learning
+              - heading [level=4] [ref=e252]:
+                - link [ref=e253] [cursor=pointer]:
+                  - /url: https://de.linkedin.com/company/sap?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: SAP
+              - generic [ref=e254]:
+                - generic [ref=e255]: Palo Alto, CA
+                - time [ref=e256]: 4 days ago
+        - listitem [ref=e257]:
+          - generic [ref=e258]:
+            - link [ref=e259] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-intern-summer-2026-at-veeam-software-4414419222?position=15&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=QqH92CTdpLPNJybv8jRMOQ%3D%3D
+              - generic [ref=e260]: AI Intern- Summer 2026
+            - generic [ref=e262]:
+              - heading [level=3] [ref=e263]: AI Intern- Summer 2026
+              - heading [level=4] [ref=e264]:
+                - link [ref=e265] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/veeam-software?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Veeam Software
+              - generic [ref=e266]:
+                - generic [ref=e267]: San Jose, CA
+                - time [ref=e268]: 3 hours ago
+        - listitem [ref=e269]:
+          - generic [ref=e270]:
+            - link [ref=e271] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/machine-learning-for-quantitative-pharmacology-%E2%80%93-large-molecules-summer-fall-2026-co-op-at-sanofi-4411358365?position=16&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=h7Elxyhk5Qem0roGkJDovg%3D%3D
+              - generic [ref=e272]: Machine Learning for Quantitative Pharmacology – Large Molecules Summer-Fall 2026 Co-op
+            - generic [ref=e274]:
+              - heading [level=3] [ref=e275]: Machine Learning for Quantitative Pharmacology – Large Molecules Summer-Fall 2026 Co-op
+              - heading [level=4] [ref=e276]:
+                - link [ref=e277] [cursor=pointer]:
+                  - /url: https://fr.linkedin.com/company/sanofi?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Sanofi
+              - generic [ref=e278]:
+                - generic [ref=e279]: Cambridge, MA
+                - time [ref=e280]: 5 days ago
+        - listitem [ref=e281]:
+          - generic [ref=e282]:
+            - link [ref=e283] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-ml-engineering-intern-at-zello-4388206688?position=17&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=hwsjJT3BBmoLejVEr50ZLg%3D%3D
+              - generic [ref=e284]: AI & ML Engineering Intern
+            - generic [ref=e286]:
+              - heading [level=3] [ref=e287]: AI & ML Engineering Intern
+              - heading [level=4] [ref=e288]:
+                - link [ref=e289] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/zello-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Zello
+              - generic [ref=e290]:
+                - generic [ref=e291]: Austin, TX
+                - time [ref=e292]: 1 week ago
+        - listitem [ref=e293]:
+          - generic [ref=e294]:
+            - link [ref=e295] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-ml-intern-at-rocket-lawyer-4400663114?position=18&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=vusePODhUM3jfs4m%2Bpsaag%3D%3D
+              - generic [ref=e296]: AI/ML Intern
+            - generic [ref=e298]:
+              - heading [level=3] [ref=e299]: AI/ML Intern
+              - heading [level=4] [ref=e300]:
+                - link [ref=e301] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rocket-lawyer-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Rocket Lawyer
+              - generic [ref=e302]:
+                - generic [ref=e303]: San Francisco Bay Area
+                - time [ref=e304]: 1 week ago
+        - listitem [ref=e305]:
+          - generic [ref=e306]:
+            - link [ref=e307] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/machine-learning-engineer-intern-monetization-technology-ads-creative-ai-2026-summer-bs-ms-at-tiktok-4281378727?position=19&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=%2BO4DLtZXr0odMiZflsaYQQ%3D%3D
+              - generic [ref=e308]: Machine Learning Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS)
+            - generic [ref=e310]:
+              - heading [level=3] [ref=e311]: Machine Learning Engineer Intern (Monetization Technology - Ads Creative AI) - 2026 Summer (BS/MS)
+              - heading [level=4] [ref=e312]:
+                - link [ref=e313] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tiktok?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TikTok
+              - generic [ref=e314]:
+                - generic [ref=e315]: San Jose, CA
+                - time [ref=e316]: 5 days ago
+        - listitem [ref=e317]:
+          - generic [ref=e318]:
+            - link [ref=e319] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-ml-intern-at-rocket-lawyer-4400659264?position=20&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=cvvE0uUG9S3WgLgtV6jMRA%3D%3D
+              - generic [ref=e320]: AI/ML Intern
+            - generic [ref=e322]:
+              - heading [level=3] [ref=e323]: AI/ML Intern
+              - heading [level=4] [ref=e324]:
+                - link [ref=e325] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rocket-lawyer-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Rocket Lawyer
+              - generic [ref=e326]:
+                - generic [ref=e327]: California, United States
+                - time [ref=e328]: 1 week ago
+        - listitem [ref=e329]:
+          - generic [ref=e330]:
+            - link [ref=e331] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineer-ml-platform-internship-at-woven-by-toyota-4364199843?position=21&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=FlPCn5Xjz%2BX%2Fge6nrsTpdg%3D%3D
+              - generic [ref=e332]: Software Engineer, ML Platform (Internship)
+            - generic [ref=e334]:
+              - heading [level=3] [ref=e335]: Software Engineer, ML Platform (Internship)
+              - heading [level=4] [ref=e336]:
+                - link [ref=e337] [cursor=pointer]:
+                  - /url: https://jp.linkedin.com/company/wovenbytoyota?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Woven by Toyota
+              - generic [ref=e338]:
+                - generic [ref=e339]: Ann Arbor, MI
+                - time [ref=e340]: 15 hours ago
+        - listitem [ref=e341]:
+          - generic [ref=e342]:
+            - link [ref=e343] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-agent-software-engineer-intern-at-cantaloupe-inc-4401066426?position=22&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=oO5iJImXWdk0JwcQ805MIw%3D%3D
+              - generic [ref=e344]: AI Agent Software Engineer Intern
+            - generic [ref=e346]:
+              - heading [level=3] [ref=e347]: AI Agent Software Engineer Intern
+              - heading [level=4] [ref=e348]:
+                - link [ref=e349] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/cantaloupeinc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Cantaloupe Inc
+              - generic [ref=e350]:
+                - generic [ref=e351]: Atlanta, GA
+                - time [ref=e352]: 1 month ago
+        - listitem [ref=e353]:
+          - generic [ref=e354]:
+            - link [ref=e355] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-agent-software-engineer-intern-at-cantaloupe-inc-4401063677?position=23&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=8waCLMLzN89BVnK%2Bz8hCMA%3D%3D
+              - generic [ref=e356]: AI Agent Software Engineer Intern
+            - generic [ref=e358]:
+              - heading [level=3] [ref=e359]: AI Agent Software Engineer Intern
+              - heading [level=4] [ref=e360]:
+                - link [ref=e361] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/cantaloupeinc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Cantaloupe Inc
+              - generic [ref=e362]:
+                - generic [ref=e363]: Malvern, PA
+                - time [ref=e364]: 1 month ago
+        - listitem [ref=e365]:
+          - generic [ref=e366]:
+            - link [ref=e367] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/summer-intern-bioinformatics-and-data-science-at-assembly-biosciences-inc-4407303179?position=24&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=gfE5YW%2BNrY%2B%2Fk3veEV4ARA%3D%3D
+              - generic [ref=e368]: Summer Intern, Bioinformatics and Data Science
+            - generic [ref=e370]:
+              - heading [level=3] [ref=e371]: Summer Intern, Bioinformatics and Data Science
+              - heading [level=4] [ref=e372]:
+                - link [ref=e373] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/assembly-bio?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Assembly Biosciences, Inc.
+              - generic [ref=e374]:
+                - generic [ref=e375]: South San Francisco, CA
+                - time [ref=e376]: 2 weeks ago
+        - listitem [ref=e377]:
+          - generic [ref=e378]:
+            - link [ref=e379] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-data-analyst-intern-at-booz-allen-hamilton-4413289063?position=25&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=7%2F4cc9n9gZtY9BZe2024ug%3D%3D
+              - generic [ref=e380]: AI Data Analyst Intern
+            - generic [ref=e382]:
+              - heading [level=3] [ref=e383]: AI Data Analyst Intern
+              - heading [level=4] [ref=e384]:
+                - link [ref=e385] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/booz-allen-hamilton?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Booz Allen Hamilton
+              - generic [ref=e386]:
+                - generic [ref=e387]: Lexington, MA
+                - time [ref=e388]: 1 day ago
+        - listitem [ref=e389]:
+          - generic [ref=e390]:
+            - link [ref=e391] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/generative-ai-researcher-intern-at-meshyai-4365144562?position=26&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=SWjZKhPQuV1PbytuHVZvrg%3D%3D
+              - generic [ref=e392]: Generative AI Researcher Intern
+            - generic [ref=e394]:
+              - heading [level=3] [ref=e395]: Generative AI Researcher Intern
+              - heading [level=4] [ref=e396]:
+                - link [ref=e397] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/meshyai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: MeshyAI
+              - generic [ref=e398]:
+                - generic [ref=e399]: San Francisco Bay Area
+                - time [ref=e400]: 5 days ago
+        - listitem [ref=e401]:
+          - generic [ref=e402]:
+            - link [ref=e403] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-ml-intern-at-rocket-lawyer-4400658299?position=27&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=NVZw6EUVEkr%2F5kUVkdbDag%3D%3D
+              - generic [ref=e404]: AI/ML Intern
+            - generic [ref=e406]:
+              - heading [level=3] [ref=e407]: AI/ML Intern
+              - heading [level=4] [ref=e408]:
+                - link [ref=e409] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rocket-lawyer-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Rocket Lawyer
+              - generic [ref=e410]:
+                - generic [ref=e411]: Arizona, United States
+                - time [ref=e412]: 1 week ago
+        - listitem [ref=e413]:
+          - generic [ref=e414]:
+            - link [ref=e415] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/intern-agentic-ai-systems-at-lattice-semiconductor-4403940577?position=28&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=cFB1VAWFhNEgVFcuQcnBcg%3D%3D
+              - generic [ref=e416]: Intern - Agentic AI systems
+            - generic [ref=e418]:
+              - heading [level=3] [ref=e419]: Intern - Agentic AI systems
+              - heading [level=4] [ref=e420]:
+                - link [ref=e421] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/lattice-semiconductor?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Lattice Semiconductor
+              - generic [ref=e422]:
+                - generic [ref=e423]: San Jose, CA
+                - time [ref=e424]: 1 day ago
+        - listitem [ref=e425]:
+          - generic [ref=e426]:
+            - link [ref=e427] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-engineer-intern-ai-ml-genai-design-development-at-product-manager-accelerator-4370990852?position=29&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=nclmPEOUxTDOMmRNRFHFpw%3D%3D
+              - generic [ref=e428]: AI Engineer Intern - AI/ML/GenAI Design & Development
+            - generic [ref=e430]:
+              - heading [level=3] [ref=e431]: AI Engineer Intern - AI/ML/GenAI Design & Development
+              - heading [level=4] [ref=e432]:
+                - link [ref=e433] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/school/pmaccelerator/?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Product Manager Accelerator
+              - generic [ref=e434]:
+                - generic [ref=e435]: United States
+                - time [ref=e436]: 3 months ago
+        - listitem [ref=e437]:
+          - generic [ref=e438]:
+            - link [ref=e439] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-ml-intern-at-rocket-lawyer-4400643824?position=30&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=A6vodqfgAVa5P%2FXq3Qxfug%3D%3D
+              - generic [ref=e440]: AI/ML Intern
+            - generic [ref=e442]:
+              - heading [level=3] [ref=e443]: AI/ML Intern
+              - heading [level=4] [ref=e444]:
+                - link [ref=e445] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rocket-lawyer-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Rocket Lawyer
+              - generic [ref=e446]:
+                - generic [ref=e447]: Colorado, United States
+                - time [ref=e448]: 1 week ago
+        - listitem [ref=e449]:
+          - generic [ref=e450]:
+            - link [ref=e451] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-engineering-intern-at-actian-4397344944?position=31&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=TJ3CtaQg1X2n10MFfO31Pg%3D%3D
+              - generic [ref=e452]: AI Engineering Intern
+            - generic [ref=e454]:
+              - heading [level=3] [ref=e455]: AI Engineering Intern
+              - heading [level=4] [ref=e456]:
+                - link [ref=e457] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/actian?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Actian
+              - generic [ref=e458]:
+                - generic [ref=e459]: United States
+                - time [ref=e460]: 1 month ago
+        - listitem [ref=e461]:
+          - generic [ref=e462]:
+            - link [ref=e463] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-ml-intern-at-rocket-lawyer-4400651552?position=32&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=q1ApVQZvIp1%2BuIvt2%2FkIhQ%3D%3D
+              - generic [ref=e464]: AI/ML Intern
+            - generic [ref=e466]:
+              - heading [level=3] [ref=e467]: AI/ML Intern
+              - heading [level=4] [ref=e468]:
+                - link [ref=e469] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rocket-lawyer-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Rocket Lawyer
+              - generic [ref=e470]:
+                - generic [ref=e471]: North Carolina, United States
+                - time [ref=e472]: 1 week ago
+        - listitem [ref=e473]:
+          - generic [ref=e474]:
+            - link [ref=e475] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-ml-intern-at-rocket-lawyer-4400660225?position=33&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=SDgprAJECDhdl1ffEnLuww%3D%3D
+              - generic [ref=e476]: AI/ML Intern
+            - generic [ref=e478]:
+              - heading [level=3] [ref=e479]: AI/ML Intern
+              - heading [level=4] [ref=e480]:
+                - link [ref=e481] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/rocket-lawyer-inc?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Rocket Lawyer
+              - generic [ref=e482]:
+                - generic [ref=e483]: Utah, United States
+                - time [ref=e484]: 1 week ago
+        - listitem [ref=e485]:
+          - generic [ref=e486]:
+            - link [ref=e487] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/computational-biology-intern-summer-2026-at-novaflow-yc-s25-4391620699?position=34&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=r7BsdcXFosGUHdQI94Fd%2Bg%3D%3D
+              - generic [ref=e488]: Computational Biology Intern - Summer 2026
+            - generic [ref=e490]:
+              - heading [level=3] [ref=e491]: Computational Biology Intern - Summer 2026
+              - heading [level=4] [ref=e492]:
+                - link [ref=e493] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/novaflow-ai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Novaflow (YC S25)
+              - generic [ref=e494]:
+                - generic [ref=e495]: San Francisco, CA
+                - time [ref=e496]: 1 month ago
+        - listitem [ref=e497]:
+          - generic [ref=e498]:
+            - link [ref=e499] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-developer-internship-at-atc-4409359753?position=35&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=YODDVnj4JWrKOerdKPHNdQ%3D%3D
+              - generic [ref=e500]: AI Developer (Internship)
+            - generic [ref=e502]:
+              - heading [level=3] [ref=e503]: AI Developer (Internship)
+              - heading [level=4] [ref=e504]:
+                - link [ref=e505] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/american-technology-consulting?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: ATC
+              - generic [ref=e506]:
+                - generic [ref=e507]: Des Moines, IA
+                - time [ref=e508]: 1 week ago
+        - listitem [ref=e509]:
+          - generic [ref=e510]:
+            - link [ref=e511] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/machine-learning-scientist-intern-tiktok-content-ecology%E2%80%94llm-application-2026-start-phd-at-tiktok-4274026052?position=36&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=LIEd1yJ0qzPOy1qo9E%2B8Jw%3D%3D
+              - generic [ref=e512]: Machine Learning Scientist Intern (TikTok-Content Ecology—LLM application) - 2026 Start (PhD)
+            - generic [ref=e514]:
+              - heading [level=3] [ref=e515]: Machine Learning Scientist Intern (TikTok-Content Ecology—LLM application) - 2026 Start (PhD)
+              - heading [level=4] [ref=e516]:
+                - link [ref=e517] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tiktok?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TikTok
+              - generic [ref=e518]:
+                - generic [ref=e519]: San Jose, CA
+                - time [ref=e520]: 1 week ago
+        - listitem [ref=e521]:
+          - generic [ref=e522]:
+            - link [ref=e523] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-internship-at-suffolk-construction-4405370641?position=37&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=BNlZOYOQCQnk%2F1UXPkjWUQ%3D%3D
+              - generic [ref=e524]: AI Internship
+            - generic [ref=e526]:
+              - heading [level=3] [ref=e527]: AI Internship
+              - heading [level=4] [ref=e528]:
+                - link [ref=e529] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/suffolk-construction?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Suffolk Construction
+              - generic [ref=e530]:
+                - generic [ref=e531]: Boston, MA
+                - time [ref=e532]: 2 weeks ago
+        - listitem [ref=e533]:
+          - generic [ref=e534]:
+            - link [ref=e535] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/intern-ai-engineering-at-sk-life-science-inc-4392893666?position=38&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=MffwJBg05lcsW9I5Hy303A%3D%3D
+              - generic [ref=e536]: Intern - AI Engineering
+            - generic [ref=e538]:
+              - heading [level=3] [ref=e539]: Intern - AI Engineering
+              - heading [level=4] [ref=e540]:
+                - link [ref=e541] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/sk-life-science-inc.?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: SK Life Science, Inc.
+              - generic [ref=e542]:
+                - generic [ref=e543]: Paramus, NJ
+                - time [ref=e544]: 1 month ago
+        - listitem [ref=e545]:
+          - generic [ref=e546]:
+            - link [ref=e547] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineering-intern-frontend-at-tessera-labs-4395959122?position=39&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=194Y74xGrNEk3Ph4foxbaw%3D%3D
+              - generic [ref=e548]: Software Engineering Intern, Frontend
+            - generic [ref=e550]:
+              - heading [level=3] [ref=e551]: Software Engineering Intern, Frontend
+              - heading [level=4] [ref=e552]:
+                - link [ref=e553] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tesseralabsai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Tessera Labs
+              - generic [ref=e554]:
+                - generic [ref=e555]: San Jose, CA
+                - time [ref=e556]: 2 weeks ago
+        - listitem [ref=e557]:
+          - generic [ref=e558]:
+            - link [ref=e559] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-internship-ai-battery-informatics-at-sila-nanotechnologies-inc-4373614433?position=40&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=d2L6vtO85ekGyxkeN24jvQ%3D%3D
+              - generic [ref=e560]: Software Internship - AI & Battery Informatics
+            - generic [ref=e562]:
+              - heading [level=3] [ref=e563]: Software Internship - AI & Battery Informatics
+              - heading [level=4] [ref=e564]:
+                - link [ref=e565] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/sila-nanotechnologies-inc-?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Sila Nanotechnologies, Inc.
+              - generic [ref=e566]:
+                - generic [ref=e567]: Alameda, CA
+                - time [ref=e568]: 2 weeks ago
+        - listitem [ref=e569]:
+          - generic [ref=e570]:
+            - link [ref=e571] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/internship-core-modeling-ai-ml-software-engineer-at-dassault-syst%C3%A8mes-4402240048?position=41&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=Wlj540NmHSgY5K4QNMdx%2BQ%3D%3D
+              - generic [ref=e572]: INTERNSHIP Core Modeling AI/ML Software Engineer
+            - generic [ref=e574]:
+              - heading [level=3] [ref=e575]: INTERNSHIP Core Modeling AI/ML Software Engineer
+              - heading [level=4] [ref=e576]:
+                - link [ref=e577] [cursor=pointer]:
+                  - /url: https://fr.linkedin.com/company/dassaultsystemes?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Dassault Systèmes
+              - generic [ref=e578]:
+                - generic [ref=e579]: Waltham, MA
+                - time [ref=e580]: 1 week ago
+        - listitem [ref=e581]:
+          - generic [ref=e582]:
+            - link [ref=e583] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineering-intern-frontend-at-tessera-labs-4399234912?position=42&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=z0ZPl9wiG4sSUqEkCc2zbA%3D%3D
+              - generic [ref=e584]: Software Engineering Intern, Frontend
+            - generic [ref=e586]:
+              - heading [level=3] [ref=e587]: Software Engineering Intern, Frontend
+              - heading [level=4] [ref=e588]:
+                - link [ref=e589] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tesseralabsai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Tessera Labs
+              - generic [ref=e590]:
+                - generic [ref=e591]: United States
+                - time [ref=e592]: 2 weeks ago
+        - listitem [ref=e593]:
+          - generic [ref=e594]:
+            - link [ref=e595] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-ml-software-engineer-intern-data-platform-2026-summer-bs-ms-at-tiktok-4405987988?position=43&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=ki0x1v8U1rtNSzh89SyxWw%3D%3D
+              - generic [ref=e596]: AI/ML Software Engineer Intern (Data Platform) - 2026 Summer (BS/MS)
+            - generic [ref=e598]:
+              - heading [level=3] [ref=e599]: AI/ML Software Engineer Intern (Data Platform) - 2026 Summer (BS/MS)
+              - heading [level=4] [ref=e600]:
+                - link [ref=e601] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tiktok?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TikTok
+              - generic [ref=e602]:
+                - generic [ref=e603]: San Jose, CA
+                - time [ref=e604]: 2 weeks ago
+        - listitem [ref=e605]:
+          - generic [ref=e606]:
+            - link [ref=e607] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/internship-software-engineer-ai-inference-summer-2026-at-tesla-4375066049?position=44&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=31ncrYt3svughTZTkPsAxA%3D%3D
+              - generic [ref=e608]: Internship, Software Engineer, AI Inference (Summer 2026)
+            - generic [ref=e610]:
+              - heading [level=3] [ref=e611]: Internship, Software Engineer, AI Inference (Summer 2026)
+              - heading [level=4] [ref=e612]:
+                - link [ref=e613] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tesla-motors?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Tesla
+              - generic [ref=e614]:
+                - generic [ref=e615]: Palo Alto, CA
+                - time [ref=e616]: 2 months ago
+        - listitem [ref=e617]:
+          - generic [ref=e618]:
+            - link [ref=e619] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/machine-learning-project-intern-business-integrity-data-cycling-center-2026-start-bs-ms-at-tiktok-4372812376?position=45&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=OaaosUL%2BNDGF0BU30oTFLQ%3D%3D
+              - generic [ref=e620]: Machine Learning Project Intern (Business Integrity Data Cycling Center) - 2026 Start (BS/MS)
+            - generic [ref=e622]:
+              - heading [level=3] [ref=e623]: Machine Learning Project Intern (Business Integrity Data Cycling Center) - 2026 Start (BS/MS)
+              - heading [level=4] [ref=e624]:
+                - link [ref=e625] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tiktok?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TikTok
+              - generic [ref=e626]:
+                - generic [ref=e627]: San Jose, CA
+                - time [ref=e628]: 2 weeks ago
+        - listitem [ref=e629]:
+          - generic [ref=e630]:
+            - link [ref=e631] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/software-engineering-intern-%E2%80%93-eventual-san-francisco-ca-at-eventual-4296394238?position=46&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=A6SRTGZ%2BXTHIZJxplBUMhA%3D%3D
+              - generic [ref=e632]: Software Engineering Intern – Eventual (San Francisco, CA)
+            - generic [ref=e634]:
+              - heading [level=3] [ref=e635]: Software Engineering Intern – Eventual (San Francisco, CA)
+              - heading [level=4] [ref=e636]:
+                - link [ref=e637] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/eventualai?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Eventual
+              - generic [ref=e638]:
+                - generic [ref=e639]: San Francisco, CA
+                - time [ref=e640]: 8 months ago
+        - listitem [ref=e641]:
+          - generic [ref=e642]:
+            - link [ref=e643] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/scientific-software-developer-paid-co-op-internship-at-stellar-science-ltd-co-4410647617?position=47&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=AwiqywMOZHd8XXwJRc07Qg%3D%3D
+              - generic [ref=e644]: Scientific Software Developer Paid Co-op/Internship
+            - generic [ref=e646]:
+              - heading [level=3] [ref=e647]: Scientific Software Developer Paid Co-op/Internship
+              - heading [level=4] [ref=e648]:
+                - link [ref=e649] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/stellar-science-ltd-co?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Stellar Science Ltd Co
+              - generic [ref=e650]:
+                - generic [ref=e651]: Albuquerque, NM
+                - generic [ref=e654]: Be an early applicant
+                - time [ref=e655]: 3 weeks ago
+        - listitem [ref=e656]:
+          - generic [ref=e657]:
+            - link [ref=e658] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-product-manager-intern-tiktok-product-content-ecosystem-2026-summer-bs-ms-at-tiktok-4274677595?position=48&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=x7OHdi%2FzNeo0vw2fzXx5Lw%3D%3D
+              - generic [ref=e659]: AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)
+            - generic [ref=e661]:
+              - heading [level=3] [ref=e662]: AI Product Manager Intern (TikTok Product-Content Ecosystem) - 2026 Summer (BS/MS)
+              - heading [level=4] [ref=e663]:
+                - link [ref=e664] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tiktok?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TikTok
+              - generic [ref=e665]:
+                - generic [ref=e666]: San Jose, CA
+                - time [ref=e667]: 6 days ago
+        - listitem [ref=e668]:
+          - generic [ref=e669]:
+            - link [ref=e670] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-and-sw-development-engineering-intern-at-bosch-usa-4379894302?position=49&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=FyWjqU1J9os4uyhhB72KnQ%3D%3D
+              - generic [ref=e671]: AI and SW Development Engineering Intern
+            - generic [ref=e673]:
+              - heading [level=3] [ref=e674]: AI and SW Development Engineering Intern
+              - heading [level=4] [ref=e675]:
+                - link [ref=e676] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/boschusa?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Bosch USA
+              - generic [ref=e677]:
+                - generic [ref=e678]: Plymouth, MI
+                - time [ref=e679]: 2 months ago
+        - listitem [ref=e680]:
+          - generic [ref=e681]:
+            - link [ref=e682] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/internship-fullstack-software-engineer-machine-learning-platform-ai-infrastructure-fall-2026-at-tesla-4410506471?position=50&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=38mMBtfC%2BFEkntN7cjC9Vg%3D%3D
+              - generic [ref=e683]: Internship, Fullstack Software Engineer, Machine Learning Platform, AI Infrastructure (Fall 2026)
+            - generic [ref=e685]:
+              - heading [level=3] [ref=e686]: Internship, Fullstack Software Engineer, Machine Learning Platform, AI Infrastructure (Fall 2026)
+              - heading [level=4] [ref=e687]:
+                - link [ref=e688] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tesla-motors?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Tesla
+              - generic [ref=e689]:
+                - generic [ref=e690]: Palo Alto, CA
+                - time [ref=e691]: 1 week ago
+        - listitem [ref=e692]:
+          - generic [ref=e693]:
+            - link [ref=e694] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/data-analyst-%E2%80%93-automatic-camera-enforcement-ace-emerging-talent-intern-fall-at-metropolitan-transportation-authority-4410405018?position=51&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=hRAZsqLkptaWpjwTlkHxTw%3D%3D
+              - generic [ref=e695]: Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)
+            - generic [ref=e697]:
+              - heading [level=3] [ref=e698]: Data Analyst – Automatic Camera Enforcement (ACE), Emerging Talent Intern (Fall)
+              - heading [level=4] [ref=e699]:
+                - link [ref=e700] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/nymta?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Metropolitan Transportation Authority
+              - generic [ref=e701]:
+                - generic [ref=e702]: New York, NY
+                - time [ref=e703]: 1 week ago
+        - listitem [ref=e704]:
+          - generic [ref=e705]:
+            - link [ref=e706] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/internship-solidworks-devops-ai-at-dassault-syst%C3%A8mes-4408586265?position=52&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=OAWQwTa0cMVFst5bKePiUw%3D%3D
+              - generic [ref=e707]: INTERNSHIP - SOLIDWORKS DEVOPS AI
+            - generic [ref=e709]:
+              - heading [level=3] [ref=e710]: INTERNSHIP - SOLIDWORKS DEVOPS AI
+              - heading [level=4] [ref=e711]:
+                - link [ref=e712] [cursor=pointer]:
+                  - /url: https://fr.linkedin.com/company/dassaultsystemes?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Dassault Systèmes
+              - generic [ref=e713]:
+                - generic [ref=e714]: Waltham, MA
+                - time [ref=e715]: 2 weeks ago
+        - listitem [ref=e716]:
+          - generic [ref=e717]:
+            - link [ref=e718] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/fall-2026-co-op-software-engineer-ai-ml-at-cirrus-logic-4390024534?position=53&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=tGVhm2Xd1%2Bw%2Fhvw3eSeKkA%3D%3D
+              - generic [ref=e719]: Fall 2026 Co-Op - Software Engineer (AI/ML)
+            - generic [ref=e721]:
+              - heading [level=3] [ref=e722]: Fall 2026 Co-Op - Software Engineer (AI/ML)
+              - heading [level=4] [ref=e723]:
+                - link [ref=e724] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/cirrus-logic?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Cirrus Logic
+              - generic [ref=e725]:
+                - generic [ref=e726]: Austin, TX
+                - time [ref=e727]: 5 days ago
+        - listitem [ref=e728]:
+          - generic [ref=e729]:
+            - link [ref=e730] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-developer-internship-only-opt-at-atc-4407967498?position=54&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=j0s0y7u6HnykBpW5WU4Brw%3D%3D
+              - generic [ref=e731]: AI Developer (Internship only OPT )
+            - generic [ref=e733]:
+              - heading [level=3] [ref=e734]: AI Developer (Internship only OPT )
+              - heading [level=4] [ref=e735]:
+                - link [ref=e736] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/american-technology-consulting?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: ATC
+              - generic [ref=e737]:
+                - generic [ref=e738]: United States
+                - time [ref=e739]: 5 days ago
+        - listitem [ref=e740]:
+          - generic [ref=e741]:
+            - link [ref=e742] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/developer-experience-content-intern-ai-edge-at-brainchip-4408118374?position=55&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=bfAG6lhKvhgOlY%2Fu3Naspg%3D%3D
+              - generic [ref=e743]: Developer Experience & Content Intern (AI / Edge)
+            - generic [ref=e745]:
+              - heading [level=3] [ref=e746]: Developer Experience & Content Intern (AI / Edge)
+              - heading [level=4] [ref=e747]:
+                - link [ref=e748] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/brainchip-holdings-limited?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: BrainChip
+              - generic [ref=e749]:
+                - generic [ref=e750]: United States
+                - time [ref=e751]: 1 week ago
+        - listitem [ref=e752]:
+          - generic [ref=e753]:
+            - link [ref=e754] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/phd-fall-machine-learning-intern-atg-%E2%80%94-visual-multimodal-and-recommender-systems-at-pinterest-4404351865?position=56&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=b%2BpOKxahoQt6g7F6iQpkBg%3D%3D
+              - generic [ref=e755]: PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
+            - generic [ref=e757]:
+              - heading [level=3] [ref=e758]: PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
+              - heading [level=4] [ref=e759]:
+                - link [ref=e760] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/pinterest?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Pinterest
+              - generic [ref=e761]:
+                - generic [ref=e762]: New York, NY
+                - time [ref=e763]: 1 day ago
+        - listitem [ref=e764]:
+          - generic [ref=e765]:
+            - link [ref=e766] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/ai-agent-development-project-intern-tiktok-shop-governance-and-experience-2026-start-bs-ms-at-tiktok-4392804726?position=57&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=ixgAb5WawTdntbovgCIF8Q%3D%3D
+              - generic [ref=e767]: AI Agent Development Project Intern (TikTok Shop Governance and Experience) - 2026 Start (BS/MS)
+            - generic [ref=e769]:
+              - heading [level=3] [ref=e770]: AI Agent Development Project Intern (TikTok Shop Governance and Experience) - 2026 Start (BS/MS)
+              - heading [level=4] [ref=e771]:
+                - link [ref=e772] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tiktok?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: TikTok
+              - generic [ref=e773]:
+                - generic [ref=e774]: Seattle, WA
+                - time [ref=e775]: 20 hours ago
+        - listitem [ref=e776]:
+          - generic [ref=e777]:
+            - link [ref=e778] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/internship-software-engineer-ai-compiler-summer-2026-at-tesla-4411775142?position=58&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=5OOjW%2FC5uVP8MiRmoaYnKA%3D%3D
+              - generic [ref=e779]: Internship, Software Engineer, AI Compiler (Summer 2026)
+            - generic [ref=e781]:
+              - heading [level=3] [ref=e782]: Internship, Software Engineer, AI Compiler (Summer 2026)
+              - heading [level=4] [ref=e783]:
+                - link [ref=e784] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/tesla-motors?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Tesla
+              - generic [ref=e785]:
+                - generic [ref=e786]: Palo Alto, CA
+                - time [ref=e787]: 5 days ago
+        - listitem [ref=e788]:
+          - generic [ref=e789]:
+            - link [ref=e790] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/cloud-engineer-intern-at-pindrop-4409556423?position=59&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=SO4JNaU1FY5A8usS%2FQN7Jg%3D%3D
+              - generic [ref=e791]: Cloud Engineer Intern
+            - generic [ref=e793]:
+              - heading [level=3] [ref=e794]: Cloud Engineer Intern
+              - heading [level=4] [ref=e795]:
+                - link [ref=e796] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/pindrop?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Pindrop
+              - generic [ref=e797]:
+                - generic [ref=e798]: Atlanta, GA
+                - time [ref=e799]: 1 week ago
+        - listitem [ref=e800]:
+          - generic [ref=e801]:
+            - link [ref=e802] [cursor=pointer]:
+              - /url: https://www.linkedin.com/jobs/view/phd-fall-machine-learning-intern-atg-%E2%80%94-visual-multimodal-and-recommender-systems-at-pinterest-4404348853?position=60&pageNum=0&refId=K%2FGYgEiBcKsxi3bJS2h8MQ%3D%3D&trackingId=53ydbEa%2B9OXAd7NCkY%2FOyA%3D%3D
+              - generic [ref=e803]: PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
+            - generic [ref=e805]:
+              - heading [level=3] [ref=e806]: PhD Fall Machine Learning Intern (ATG — Visual, Multimodal, and Recommender Systems)
+              - heading [level=4] [ref=e807]:
+                - link [ref=e808] [cursor=pointer]:
+                  - /url: https://www.linkedin.com/company/pinterest?trk=public_jobs_jserp-result_job-search-card-subtitle
+                  - text: Pinterest
+              - generic [ref=e809]:
+                - generic [ref=e810]: San Francisco, CA
+                - time [ref=e811]: 1 day ago
+    - contentinfo [ref=e812]:
+      - list [ref=e813]:
+        - listitem [ref=e814]:
+          - generic [ref=e815]: LinkedIn
+          - generic [ref=e817]: © 2026
+        - listitem [ref=e818]:
+          - link [ref=e819] [cursor=pointer]:
+            - /url: https://about.linkedin.com?trk=public_jobs_footer-about
+            - text: About
+        - listitem [ref=e820]:
+          - link [ref=e821] [cursor=pointer]:
+            - /url: https://www.linkedin.com/accessibility?trk=public_jobs_footer-accessibility
+            - text: Accessibility
+        - listitem [ref=e822]:
+          - link [ref=e823] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/user-agreement?trk=public_jobs_footer-user-agreement
+            - text: User Agreement
+        - listitem [ref=e824]:
+          - link [ref=e825] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/privacy-policy?trk=public_jobs_footer-privacy-policy
+            - text: Privacy Policy
+        - listitem [ref=e826]:
+          - link [ref=e827] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/cookie-policy?trk=public_jobs_footer-cookie-policy
+            - text: Cookie Policy
+        - listitem [ref=e828]:
+          - link [ref=e829] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/copyright-policy?trk=public_jobs_footer-copyright-policy
+            - text: Copyright Policy
+        - listitem [ref=e830]:
+          - link [ref=e831] [cursor=pointer]:
+            - /url: https://brand.linkedin.com/policies?trk=public_jobs_footer-brand-policy
+            - text: Brand Policy
+        - listitem [ref=e832]:
+          - link [ref=e833] [cursor=pointer]:
+            - /url: https://www.linkedin.com/psettings/guest-controls?trk=public_jobs_footer-guest-controls
+            - text: Guest Controls
+        - listitem [ref=e834]:
+          - link [ref=e835] [cursor=pointer]:
+            - /url: https://www.linkedin.com/legal/professional-community-policies?trk=public_jobs_footer-community-guide
+            - text: Community Guidelines
+        - listitem [ref=e836]:
+          - button [ref=e838]: Language
+  - dialog "Sign in to view more jobs" [active] [ref=e841]:
+    - button "Dismiss" [ref=e842] [cursor=pointer]
+    - generic [ref=e844]:
+      - generic [ref=e845]:
+        - img [ref=e846]
+        - heading "Sign in to view more jobs" [level=2] [ref=e847]
+      - generic [ref=e848]:
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - button "Sign in with Email" [ref=e849] [cursor=pointer]:
+          - generic [ref=e851]: Sign in with Email
+        - paragraph [ref=e853]: or
+        - generic:
+          - generic:
+            - button "Continue with google"
+        - paragraph [ref=e854]:
+          - text: New to LinkedIn?
+          - link "Join now" [ref=e855] [cursor=pointer]:
+            - /url: https://www.linkedin.com/signup/cold-join?source=jobs_registration&trk=public_jobs_contextual-sign-in-modal_join-link
+        - paragraph [ref=e856]:
+          - text: By clicking Continue to join or sign in, you agree to LinkedIn’s
+          - link "User Agreement" [ref=e857] [cursor=pointer]:
+            - /url: /legal/user-agreement?trk=linkedin-tc_auth-button_user-agreement
+          - text: ","
+          - link "Privacy Policy" [ref=e858] [cursor=pointer]:
+            - /url: /legal/privacy-policy?trk=linkedin-tc_auth-button_privacy-policy
+          - text: ", and"
+          - link "Cookie Policy" [ref=e859] [cursor=pointer]:
+            - /url: /legal/cookie-policy?trk=linkedin-tc_auth-button_cookie-policy
+          - text: .
