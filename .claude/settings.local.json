@@ -11,7 +11,13 @@
       "mcp__playwright__browser_navigate",
       "mcp__playwright__browser_snapshot",
       "mcp__playwright__browser_wait_for",
-      "mcp__playwright__browser_click"
+      "mcp__playwright__browser_click",
+      "Bash(pandoc --version)",
+      "Bash(python -c \"import markdown; print\\('markdown_OK'\\)\")",
+      "Bash(python *)",
+      "mcp__playwright__browser_run_code_unsafe",
+      "Bash(Get-Item \"C:\\\\Users\\\\tahaj\\\\aijobhunter\\\\resumes\\\\Taha_Ahmed_Resume.pdf\")",
+      "Bash(Select-Object Name, Length, LastWriteTime)"
     ]
   }
 }

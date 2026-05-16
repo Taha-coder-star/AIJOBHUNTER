@@ -1,0 +1,514 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - generic:
+      - link "Skip to main content" [ref=e2] [cursor=pointer]
+      - link "Accessibility help" [ref=e3] [cursor=pointer]:
+        - /url: https://support.google.com/websearch/answer/181196?hl=en-PK
+      - link "Accessibility feedback" [ref=e4] [cursor=pointer]
+  - generic [ref=e9]:
+    - search [ref=e10]:
+      - generic [ref=e13]:
+        - link "Go to Google Home" [ref=e14] [cursor=pointer]:
+          - /url: https://www.google.com/webhp?hl=en&ictx=0&sa=X&ved=0ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQpYkNCAw
+          - img "Go to Google Home" [ref=e15]
+        - generic [ref=e20]:
+          - combobox "Search" [ref=e23]: AI ML internship in Karachi AI ML internship in Karachi
+          - generic [ref=e24]:
+            - button "Clear" [ref=e26] [cursor=pointer]:
+              - img [ref=e28]
+            - generic [ref=e31]:
+              - button "Search by voice" [ref=e32] [cursor=pointer]:
+                - img [ref=e33]
+              - button "Search by image" [ref=e35] [cursor=pointer]:
+                - img [ref=e36]
+        - button "Search" [ref=e38] [cursor=pointer]:
+          - img [ref=e41]
+    - generic [ref=e44]:
+      - link "Search Labs" [ref=e46] [cursor=pointer]:
+        - /url: https://labs.google.com/search?source=srp
+        - img [ref=e47]
+      - button "Google apps" [ref=e50] [cursor=pointer]:
+        - img [ref=e51]
+      - 'button "Google Account: Taha Jameel (tahajameel381@gmail.com)" [ref=e55] [cursor=pointer]':
+        - img [ref=e56]
+  - generic [ref=e58]:
+    - navigation [ref=e64]:
+      - generic [ref=e70]:
+        - list [ref=e71]:
+          - listitem [ref=e72]:
+            - link "AI Mode" [ref=e75] [cursor=pointer]:
+              - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpyjlKjHcf0Gfll8GFgal4hehfZi4UFGoO13qzQIwcqjzu2rIstdd54-Dcz0oF6WpXQwHjljfDbiADldTHjJ-kZjgE4Buo-PDWeVFP4FZyWe9EgNwqCiPBXG5a4OZUjUQpDtGA_CVkMPQ3T-L4QxV_yfHWqWNP2vI3VCXI9mKABexmzAMKlPxoJoWmd6e_ptjXIecH-A&aep=1&ntc=1&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ2J8OegQIEBAD
+              - generic [ref=e78]: AI Mode
+          - listitem [ref=e79]:
+            - link "All" [disabled] [ref=e80]:
+              - generic [ref=e82]: All
+          - listitem [ref=e83]:
+            - link "Jobs" [ref=e84] [cursor=pointer]:
+              - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&udm=8&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpyjlKjHcf0Gfll8GFgal4hehfZi4UFGoO13qzQIwcqjzu2rIstdd54-Dcz0oF6WpXQwHjljfDbiADldTHjJ-kZjgE4Buo-PDWeVFP4FZyWe9EgNwqCiPBXG5a4OZUjUQpDtGA_CVkMPQ3T-L4QxV_yfHWqWNP2vI3VCXI9mKABexmzAMKlPxoJoWmd6e_ptjXIecH-A&q=AI+ML+internship+in+Karachi&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQs6gLegQIEhAB
+              - generic [ref=e86]: Jobs
+          - listitem [ref=e87]:
+            - link "Images" [ref=e88] [cursor=pointer]:
+              - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpyjlKjHcf0Gfll8GFgal4hehfZi4UFGoO13qzQIwcqjzu2rIstdd54-Dcz0oF6WpXQwHjljfDbiADldTHjJ-kZjgE4Buo-PDWeVFP4FZyWe9EgNwqCiPBXG5a4OZUjUQpDtGA_CVkMPQ3T-L4QxV_yfHWqWNP2vI3VCXI9mKABexmzAMKlPxoJoWmd6e_ptjXIecH-A&q=AI+ML+internship+in+Karachi&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQtKgLegQIExAB
+              - generic [ref=e90]: Images
+          - listitem [ref=e91]:
+            - link "News" [ref=e92] [cursor=pointer]:
+              - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&q=AI+ML+internship+in+Karachi&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpyjlKjHcf0Gfll8GFgal4hehfZi4UFGoO13qzQIwcqjzu2rIstdd54-Dcz0oF6WpXQwHjljfDbiADldTHjJ-kZjgE4Buo-PDWeVFP4FZyWe9EgNwqCiPBXG5a4OZUjUQpDtGA_CVkMPQ3T-L4QxV_yfHWqWNP2vI3VCXI9mKABexmzAMKlPxoJoWmd6e_ptjXIecH-A&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ0pQJegQIFBAB
+              - generic [ref=e94]: News
+          - listitem [ref=e95]:
+            - link "Forums" [ref=e96] [cursor=pointer]:
+              - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&udm=18&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpyjlKjHcf0Gfll8GFgal4hehfZi4UFGoO13qzQIwcqjzu2rIstdd54-Dcz0oF6WpXQwHjljfDbiADldTHjJ-kZjgE4Buo-PDWeVFP4FZyWe9EgNwqCiPBXG5a4OZUjUQpDtGA_CVkMPQ3T-L4QxV_yfHWqWNP2vI3VCXI9mKABexmzAMKlPxoJoWmd6e_ptjXIecH-A&q=AI+ML+internship+in+Karachi&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQs6gLegQIFRAB
+              - generic [ref=e98]: Forums
+          - listitem [ref=e99]:
+            - link "Videos" [ref=e100] [cursor=pointer]:
+              - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpyjlKjHcf0Gfll8GFgal4hehfZi4UFGoO13qzQIwcqjzu2rIstdd54-Dcz0oF6WpXQwHjljfDbiADldTHjJ-kZjgE4Buo-PDWeVFP4FZyWe9EgNwqCiPBXG5a4OZUjUQpDtGA_CVkMPQ3T-L4QxV_yfHWqWNP2vI3VCXI9mKABexmzAMKlPxoJoWmd6e_ptjXIecH-A&q=AI+ML+internship+in+Karachi&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQtKgLegQIFhAB
+              - generic [ref=e102]: Videos
+          - listitem [ref=e103]:
+            - button "More filters" [ref=e104] [cursor=pointer]:
+              - generic "More filters" [ref=e105]:
+                - generic [ref=e106]:
+                  - generic [ref=e107]: More
+                  - img [ref=e109]
+        - button "Tools" [ref=e112] [cursor=pointer]:
+          - generic [ref=e114]:
+            - generic [ref=e115]: Tools
+            - img [ref=e117]
+    - navigation [ref=e120]:
+      - navigation [ref=e123]:
+        - list [ref=e130]:
+          - listitem [ref=e131]:
+            - listitem [ref=e133]:
+              - button "Job type" [ref=e135] [cursor=pointer]:
+                - generic [ref=e136]:
+                  - generic [ref=e137]: Job type
+                  - img [ref=e140]
+          - listitem [ref=e142]:
+            - listitem [ref=e144]:
+              - button "Date posted" [ref=e146] [cursor=pointer]:
+                - generic [ref=e147]:
+                  - generic [ref=e148]: Date posted
+                  - img [ref=e151]
+    - heading "Search Results" [level=1] [ref=e153]
+    - main [ref=e159]:
+      - generic [ref=e165]:
+        - heading "Karachi" [level=2] [ref=e166]:
+          - img [ref=e169]:
+            - img [ref=e170]
+          - generic [ref=e173]: Karachi
+        - generic [ref=e175]:
+          - text: ∙
+          - button "Choose area" [ref=e176] [cursor=pointer]
+        - button "How location is used" [ref=e179] [cursor=pointer]:
+          - img [ref=e181]
+      - generic [ref=e186]:
+        - generic [ref=e189]:
+          - heading "Web results" [level=2] [ref=e190]
+          - generic [ref=e191]:
+            - generic [ref=e194]:
+              - link "Internship In Ai,ml jobs in Karachi Indeed https://pk.indeed.com › q-internship-in-ai,ml-l-karachi-jo..." [ref=e196] [cursor=pointer]:
+                - /url: https://pk.indeed.com/q-internship-in-ai,ml-l-karachi-jobs.html
+                - heading "Internship In Ai,ml jobs in Karachi" [level=3] [ref=e197]
+                - generic [ref=e202]:
+                  - generic [ref=e204]: Indeed
+                  - generic [ref=e206]: https://pk.indeed.com › q-internship-in-ai,ml-l-karachi-jo...
+              - button "About this result" [ref=e207] [cursor=pointer]:
+                - img [ref=e210]
+            - generic [ref=e214]:
+              - emphasis [ref=e215]: Internship in Ai,ml jobs now available in Karachi
+              - text: . Intern, Ai Developer, Social Media Intern and more on Indeed.com.
+        - generic [ref=e219]:
+          - generic [ref=e222]:
+            - link "196 Artificial Intelligence jobs in Karāchi LinkedIn Pakistan https://pk.linkedin.com › jobs › artificial-intelligence-job..." [ref=e224] [cursor=pointer]:
+              - /url: https://pk.linkedin.com/jobs/artificial-intelligence-jobs-kar%C4%81chi
+              - heading "196 Artificial Intelligence jobs in Karāchi" [level=3] [ref=e225]
+              - generic [ref=e230]:
+                - generic [ref=e232]: LinkedIn Pakistan
+                - generic [ref=e234]: https://pk.linkedin.com › jobs › artificial-intelligence-job...
+            - button "About this result" [ref=e235] [cursor=pointer]:
+              - img [ref=e238]
+          - generic [ref=e241]:
+            - generic [ref=e242]:
+              - text: Internship (2). Entry level (29). Associate (6). Mid-Senior level (144) ...
+              - emphasis [ref=e243]: AI/ML Engineer – Intelligent Systems & AI Infrastructure
+              - text: . Digital Auxilius.
+            - link "Read more" [ref=e244] [cursor=pointer]:
+              - /url: https://pk.linkedin.com/jobs/artificial-intelligence-jobs-kar%C4%81chi#:~:text=Location&text=AI%2FML%20Engineer%20%E2%80%93%20Intelligent%20Systems,Digital%20Auxilius
+        - generic [ref=e248]:
+          - generic [ref=e251]:
+            - link "Machine Learning Intern Cyfersoft https://careers.cyfersoft.com › Jobs" [ref=e253] [cursor=pointer]:
+              - /url: https://careers.cyfersoft.com/jobs/machine-learning-intern
+              - heading "Machine Learning Intern" [level=3] [ref=e254]
+              - generic [ref=e259]:
+                - generic [ref=e261]: Cyfersoft
+                - generic [ref=e263]: https://careers.cyfersoft.com › Jobs
+            - button "About this result" [ref=e264] [cursor=pointer]:
+              - img [ref=e267]
+          - generic [ref=e270]:
+            - generic [ref=e271]:
+              - text: Cyfersoft is seeking a passionate and motivated
+              - emphasis [ref=e272]: Machine Learning Intern
+              - text: to join our AI & Machine Learning team in Karachi. This is a full-time opportunity ...
+            - link "Read more" [ref=e273] [cursor=pointer]:
+              - /url: https://careers.cyfersoft.com/jobs/machine-learning-intern#:~:text=Cyfersoft%20is%20seeking%20a%20passionate,This%20is%20a%20full%2Dtime%20opportunity
+        - generic [ref=e277]:
+          - generic [ref=e280]:
+            - link "23 Machine learning engineer jobs in Karachi, Pakistan Glassdoor https://www.glassdoor.com › Job › karachi-machine-lea..." [ref=e282] [cursor=pointer]:
+              - /url: https://www.glassdoor.com/Job/karachi-machine-learning-engineer-jobs-SRCH_IL.0,7_IM1122_KO8,33.htm
+              - heading "23 Machine learning engineer jobs in Karachi, Pakistan" [level=3] [ref=e283]
+              - generic [ref=e288]:
+                - generic [ref=e290]: Glassdoor
+                - generic [ref=e292]: https://www.glassdoor.com › Job › karachi-machine-lea...
+            - button "About this result" [ref=e293] [cursor=pointer]:
+              - img [ref=e296]
+          - generic [ref=e299]:
+            - generic [ref=e300]:
+              - emphasis [ref=e301]: AI Engineer Intern
+              - text: . Pakistan. PKR 15,000 - PKR 20,000 (Employer provided). Easy ... Software Architect - ML/AI/Gen AI. Karāchi. Guide and mentor junior team ...
+            - link "Read more" [ref=e302] [cursor=pointer]:
+              - /url: https://www.glassdoor.com/Job/karachi-machine-learning-engineer-jobs-SRCH_IL.0,7_IM1122_KO8,33.htm#:~:text=AI%20Engineer%20Intern,Easy%20Apply&text=Software%20Architect%20%2D%20ML%2FAI%2FGen%20AI,the%20field%20of%20machine%20learning.%26hellip%3B
+        - generic [ref=e307]:
+          - generic [ref=e308]:
+            - heading "Jobs" [level=2] [ref=e310]
+            - button "Follow" [ref=e312]:
+              - generic [ref=e314]: Follow
+          - tablist [ref=e316]:
+            - generic [ref=e318]:
+              - tab "Job postings" [selected] [ref=e319] [cursor=pointer]:
+                - generic [ref=e321]: Job postings
+              - tab "Saved jobs" [ref=e322] [cursor=pointer]:
+                - generic [ref=e325]: Saved jobs
+              - tab "Following" [ref=e326] [cursor=pointer]:
+                - generic [ref=e328]: Following
+          - generic [ref=e330]:
+            - generic [ref=e333]:
+              - button "Ai Engineer Intern autocore.io Karachi • via GetPakJob Add Ai Engineer Intern to saves list Share Employment type Internship" [ref=e337] [cursor=pointer]:
+                - generic [ref=e338]:
+                  - generic [ref=e341]: A
+                  - generic [ref=e342]:
+                    - generic [ref=e343]:
+                      - generic [ref=e344]:
+                        - generic [ref=e345]: Ai Engineer Intern
+                        - generic [ref=e346]: autocore.io
+                        - generic [ref=e347]: Karachi • via GetPakJob
+                      - generic [ref=e348]:
+                        - button "Add Ai Engineer Intern to saves list" [ref=e350]:
+                          - img [ref=e354]
+                        - button "Share" [ref=e356]:
+                          - img [ref=e360]
+                    - generic [ref=e363]:
+                      - img [ref=e365]
+                      - generic "Employment type Internship" [ref=e367]: Internship
+              - button "AI Intern Genetech Solutions Karachi • via AI Search Add AI Intern to saves list Share Posted 2 days ago Employment type Internship" [ref=e372] [cursor=pointer]:
+                - generic [ref=e373]:
+                  - generic [ref=e376]: G
+                  - generic [ref=e377]:
+                    - generic [ref=e378]:
+                      - generic [ref=e379]:
+                        - generic [ref=e380]: AI Intern
+                        - generic [ref=e381]: Genetech Solutions
+                        - generic [ref=e382]: Karachi • via AI Search
+                      - generic [ref=e383]:
+                        - button "Add AI Intern to saves list" [ref=e385]:
+                          - img [ref=e389]
+                        - button "Share" [ref=e391]:
+                          - img [ref=e395]
+                    - generic [ref=e397]:
+                      - generic [ref=e398]:
+                        - img [ref=e400]
+                        - generic "Posted 2 days ago" [ref=e403]: 2 days ago
+                      - generic [ref=e404]:
+                        - img [ref=e406]
+                        - generic "Employment type Internship" [ref=e408]: Internship
+              - button "Machine Learning Intern Unikrew Solutions (Private) Limited Karachi • via GetPakJob Add Machine Learning Intern to saves list Share Employment type Internship" [ref=e413] [cursor=pointer]:
+                - generic [ref=e414]:
+                  - generic [ref=e417]: U
+                  - generic [ref=e418]:
+                    - generic [ref=e419]:
+                      - generic [ref=e420]:
+                        - generic [ref=e421]: Machine Learning Intern
+                        - generic [ref=e422]: Unikrew Solutions (Private) Limited
+                        - generic [ref=e423]: Karachi • via GetPakJob
+                      - generic [ref=e424]:
+                        - button "Add Machine Learning Intern to saves list" [ref=e426]:
+                          - img [ref=e430]
+                        - button "Share" [ref=e432]:
+                          - img [ref=e436]
+                    - generic [ref=e439]:
+                      - img [ref=e441]
+                      - generic "Employment type Internship" [ref=e443]: Internship
+            - link "2 more jobs" [ref=e448] [cursor=pointer]:
+              - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&udm=8&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ3L8LegQIKxAM
+              - separator [ref=e449]
+              - generic [ref=e450]:
+                - generic [ref=e451]: 2 more jobs
+                - img [ref=e453]
+          - generic [ref=e456]:
+            - group [ref=e457]:
+              - button "Feedback" [ref=e458] [cursor=pointer]
+            - link "Learn more" [ref=e459] [cursor=pointer]:
+              - /url: https://support.google.com/websearch/?p=job_search_box&hl=en-PK
+        - generic [ref=e462]:
+          - heading "Web results" [level=2] [ref=e463]
+          - generic [ref=e464]:
+            - generic [ref=e467]:
+              - link "200+ Data Science, Machine Learning Internship Jobs ... Indeed https://pk.indeed.com › q-data-science,-machine-learning..." [ref=e469] [cursor=pointer]:
+                - /url: https://pk.indeed.com/q-data-science,-machine-learning-internship-l-karachi-jobs.html
+                - heading "200+ Data Science, Machine Learning Internship Jobs ..." [level=3] [ref=e470]
+                - generic [ref=e475]:
+                  - generic [ref=e477]: Indeed
+                  - generic [ref=e479]: https://pk.indeed.com › q-data-science,-machine-learning...
+              - button "About this result" [ref=e480] [cursor=pointer]:
+                - img [ref=e483]
+            - generic [ref=e486]:
+              - generic [ref=e487]:
+                - emphasis [ref=e488]: Data Science, Machine Learning Internship jobs now available in Karachi
+                - text: ... AI Engineer Intern. Cloud Z Technologies. Karachi Gulistan-E-Jouhar (Kp-2023) ...
+              - link "Read more" [ref=e489] [cursor=pointer]:
+                - /url: https://pk.indeed.com/q-data-science,-machine-learning-internship-l-karachi-jobs.html#:~:text=AI%20Engineer%20Intern,Karachi%20Gulistan%2DE%2DJouhar%20(Kp%2D2023)
+        - generic [ref=e493]:
+          - generic [ref=e496]:
+            - link "Ai And Ml Engineer Intern Jobs in Pakistan (May 2026) Bayt.com https://www.bayt.com › pakistan › ai-and-ml-engineer-i..." [ref=e498] [cursor=pointer]:
+              - /url: https://www.bayt.com/en/pakistan/jobs/ai-and-ml-engineer-intern-jobs/
+              - heading "Ai And Ml Engineer Intern Jobs in Pakistan (May 2026)" [level=3] [ref=e499]
+              - generic [ref=e504]:
+                - generic [ref=e506]: Bayt.com
+                - generic [ref=e508]: https://www.bayt.com › pakistan › ai-and-ml-engineer-i...
+            - button "About this result" [ref=e509] [cursor=pointer]:
+              - img [ref=e512]
+          - generic [ref=e516]:
+            - text: Apply now to over 630
+            - emphasis [ref=e517]: Ai And Ml Engineer Intern jobs in Pakistan
+            - text: and make your job hunting simpler. Find the latest Ai And Ml Engineer Intern job ...
+        - generic [ref=e521]:
+          - generic [ref=e524]:
+            - link "8 Artificial Intelligence Intern jobs in Pakistan LinkedIn Pakistan https://pk.linkedin.com › jobs › artificial-intelligence-inte..." [ref=e526] [cursor=pointer]:
+              - /url: https://pk.linkedin.com/jobs/artificial-intelligence-intern-jobs
+              - heading "8 Artificial Intelligence Intern jobs in Pakistan" [level=3] [ref=e527]
+              - generic [ref=e532]:
+                - generic [ref=e534]: LinkedIn Pakistan
+                - generic [ref=e536]: https://pk.linkedin.com › jobs › artificial-intelligence-inte...
+            - button "About this result" [ref=e537] [cursor=pointer]:
+              - img [ref=e540]
+          - generic [ref=e543]:
+            - generic [ref=e544]:
+              - emphasis [ref=e545]: 8 Artificial Intelligence Intern Jobs in Pakistan
+              - text: ; VentureDive · 1 week ago ; Thingtrax · 3 weeks ago ; Devsinc · 1 week ago ; S&P Global · 5 days ago ; Informatics Lab.
+            - link "Read more" [ref=e546] [cursor=pointer]:
+              - /url: https://pk.linkedin.com/jobs/artificial-intelligence-intern-jobs#:~:text=8%20Artificial%20Intelligence%20Intern%20Jobs,in%20Pakistan&text=VentureDive&text=1%20week%20ago&text=Thingtrax&text=3%20weeks%20ago&text=Devsinc&text=1%20week%20ago&text=S%26P%20Global&text=5%20days%20ago&text=Informatics%20Lab
+        - generic [ref=e550]:
+          - generic [ref=e553]:
+            - link "23 Ai Intern Jobs in Karachi - 13 May, 2026 Indeed https://pk.indeed.com › q-ai-intern-l-karachi-jobs" [ref=e555] [cursor=pointer]:
+              - /url: https://pk.indeed.com/q-ai-intern-l-karachi-jobs.html
+              - heading "23 Ai Intern Jobs in Karachi - 13 May, 2026" [level=3] [ref=e556]
+              - generic [ref=e561]:
+                - generic [ref=e563]: Indeed
+                - generic [ref=e565]: https://pk.indeed.com › q-ai-intern-l-karachi-jobs
+            - button "About this result" [ref=e566] [cursor=pointer]:
+              - img [ref=e569]
+          - generic [ref=e572]:
+            - generic [ref=e573]:
+              - emphasis [ref=e574]: ai intern jobs in karachi
+              - text: ; AI Automation Intern. Nexiatech ; AI Engineer Intern. Cloud Z Technologies ; Job leading Paid Internship – Robotics, AI, & STEM ...
+            - link "Read more" [ref=e575] [cursor=pointer]:
+              - /url: https://pk.indeed.com/q-ai-intern-l-karachi-jobs.html#:~:text=ai%20intern%20jobs%20in%20karachi&text=AI%20Automation%20Intern,Nexiatech&text=AI%20Engineer%20Intern,Cloud%20Z%20Technologies&text=Job%20leading%20Paid%20Internship%20%E2%80%93,Robotics%2C%20AI%2C%20%26%20STEM%20Education
+        - generic [ref=e580]:
+          - heading "Discussions and forums" [level=2] [ref=e582]
+          - generic [ref=e583]:
+            - generic [ref=e586]:
+              - generic [ref=e588] [cursor=pointer]:
+                - generic [ref=e591]:
+                  - link "AI internships in Karachi Reddit · r/developersPak · 1 comment · 11 months ago" [ref=e592]:
+                    - /url: https://www.reddit.com/r/developersPak/comments/1ktnx4c/ai_internships_in_karachi/
+                    - generic [ref=e593]:
+                      - heading "AI internships in Karachi" [level=3] [ref=e594]:
+                        - link "AI internships in Karachi" [ref=e595]
+                      - generic [ref=e602]:
+                        - generic [ref=e603]: Reddit ·
+                        - generic [ref=e605]:
+                          - generic [ref=e606]:
+                            - generic [ref=e607]: r/developersPak
+                            - generic [ref=e608]:
+                              - generic [ref=e609]: ·
+                              - generic [ref=e610]: 1 comment
+                          - generic [ref=e611]:
+                            - generic [ref=e612]: ·
+                            - generic [ref=e613]: 11 months ago
+                  - generic [ref=e619]:
+                    - generic [ref=e623]: ·
+                    - button "About this result" [ref=e628]:
+                      - img [ref=e631]
+                - button "AI internships in Karachi Reddit · r/developersPak · 1 comment · 11 months ago" [expanded] [ref=e633]:
+                  - img [ref=e636]
+              - list [ref=e645]:
+                - listitem [ref=e646]:
+                  - generic [ref=e650]:
+                    - link "I've been scrolling and trying find internships for AI/ML but I haven't gotten any response. There aren't even much options for these roles or opt... More discussions on AI internships in Karachi":
+                      - /url: https://www.reddit.com/r/developersPak/comments/1ktnx4c/ai_internships_in_karachi/
+                    - generic [ref=e652]:
+                      - text: I've been scrolling and trying find internships for AI/ML but I haven't gotten any response. There aren't even much options for these roles or opt...
+                      - link [ref=e653] [cursor=pointer]:
+                        - /url: https://www.reddit.com/r/developersPak/comments/1ktnx4c/ai_internships_in_karachi/
+                        - generic [ref=e654]: More
+                        - img [ref=e656]
+            - generic [ref=e662] [cursor=pointer]:
+              - generic [ref=e665]:
+                - link "Where can I find pure ML jobs or internships(paid) in Karachi? Reddit · r/karachi · 10+ comments · 1 year ago" [ref=e666]:
+                  - /url: https://www.reddit.com/r/karachi/comments/1d68i8a/where_can_i_find_pure_ml_jobs_or_internshipspaid/
+                  - generic [ref=e667]:
+                    - heading "Where can I find pure ML jobs or internships(paid) in Karachi?" [level=3] [ref=e668]:
+                      - link "Where can I find pure ML jobs or internships(paid) in Karachi?" [ref=e669]
+                    - generic [ref=e676]:
+                      - generic [ref=e677]: Reddit ·
+                      - generic [ref=e679]:
+                        - generic [ref=e680]:
+                          - generic [ref=e681]: r/karachi
+                          - generic [ref=e682]:
+                            - generic [ref=e683]: ·
+                            - generic [ref=e684]: 10+ comments
+                        - generic [ref=e685]:
+                          - generic [ref=e686]: ·
+                          - generic [ref=e687]: 1 year ago
+                - generic [ref=e693]:
+                  - generic [ref=e697]: ·
+                  - button "About this result" [ref=e702]:
+                    - img [ref=e705]
+              - button "Where can I find pure ML jobs or internships(paid) in Karachi? Reddit · r/karachi · 10+ comments · 1 year ago" [ref=e707]:
+                - img [ref=e710]
+            - generic [ref=e716] [cursor=pointer]:
+              - generic [ref=e719]:
+                - link "What summer internship opportunities are available in development and ... Facebook · Karachi city Jobs, Sales and U… · 3 comments · 10 months ago" [ref=e720]:
+                  - /url: https://www.facebook.com/groups/604948722967801/posts/9716331711829411/
+                  - generic [ref=e721]:
+                    - heading "What summer internship opportunities are available in development and ..." [level=3] [ref=e722]:
+                      - link "What summer internship opportunities are available in development and ..." [ref=e723]
+                    - generic [ref=e730]:
+                      - generic [ref=e731]: Facebook ·
+                      - generic [ref=e733]:
+                        - generic [ref=e734]:
+                          - generic [ref=e735]: Karachi city Jobs, Sales and U…
+                          - generic [ref=e736]:
+                            - generic [ref=e737]: ·
+                            - generic [ref=e738]: 3 comments
+                        - generic [ref=e739]:
+                          - generic [ref=e740]: ·
+                          - generic [ref=e741]: 10 months ago
+                - generic [ref=e747]:
+                  - generic [ref=e751]: ·
+                  - button "About this result" [ref=e756]:
+                    - img [ref=e759]
+              - button "What summer internship opportunities are available in development and ... Facebook · Karachi city Jobs, Sales and U… · 3 comments · 10 months ago" [ref=e761]:
+                - img [ref=e764]
+            - link "See more discussions" [ref=e767] [cursor=pointer]:
+              - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&udm=18&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ8poLegQIRhAE
+              - separator [ref=e768]
+              - generic [ref=e769]:
+                - generic [ref=e770]: See more
+                - img [ref=e772]
+      - generic [ref=e775]:
+        - generic [ref=e780]:
+          - heading "People also search for" [level=2] [ref=e782]
+          - generic [ref=e784]:
+            - generic [ref=e785]:
+              - link "Ai ml internship in karachi salary" [ref=e789] [cursor=pointer]:
+                - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&q=Ai+ml+internship+in+karachi+salary&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ1QJ6BAhBEAE
+                - generic [ref=e790]:
+                  - generic [ref=e795]: Ai ml internship in karachi salary
+                  - img [ref=e799]
+              - link "Ai ml internship in karachi for freshers" [ref=e804] [cursor=pointer]:
+                - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&q=Ai+ml+internship+in+karachi+for+freshers&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ1QJ6BAhAEAE
+                - generic [ref=e805]:
+                  - generic [ref=e810]: Ai ml internship in karachi for freshers
+                  - img [ref=e814]
+              - link "AI Internship in Karachi" [ref=e819] [cursor=pointer]:
+                - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&q=AI+Internship+in+Karachi&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ1QJ6BAhKEAE
+                - generic [ref=e820]:
+                  - generic [ref=e825]: AI Internship in Karachi
+                  - img [ref=e829]
+              - link "AI/ML Internship Remote" [ref=e834] [cursor=pointer]:
+                - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&q=AI/ML+Internship+Remote&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ1QJ6BAhJEAE
+                - generic [ref=e835]:
+                  - generic [ref=e840]: AI/ML Internship Remote
+                  - img [ref=e844]
+            - generic [ref=e846]:
+              - link "Data Science internship Karachi" [ref=e850] [cursor=pointer]:
+                - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&q=Data+Science+internship+Karachi&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ1QJ6BAhIEAE
+                - generic [ref=e851]:
+                  - generic [ref=e856]: Data Science internship Karachi
+                  - img [ref=e860]
+              - link "AI Engineer jobs in Karachi" [ref=e865] [cursor=pointer]:
+                - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&q=AI+Engineer+jobs+in+Karachi&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ1QJ6BAhHEAE
+                - generic [ref=e866]:
+                  - generic [ref=e871]: AI Engineer jobs in Karachi
+                  - img [ref=e875]
+              - link "AI Internship in Pakistan" [ref=e880] [cursor=pointer]:
+                - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&q=AI+Internship+in+Pakistan&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ1QJ6BAhFEAE
+                - generic [ref=e881]:
+                  - generic [ref=e886]: AI Internship in Pakistan
+                  - img [ref=e890]
+              - link "Machine learning Engineer jobs in Karachi" [ref=e895] [cursor=pointer]:
+                - /url: /search?sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&q=Machine+learning+Engineer+jobs+in+Karachi&sa=X&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ1QJ6BAhDEAE
+                - generic [ref=e896]:
+                  - generic [ref=e901]: Machine learning Engineer jobs in Karachi
+                  - img [ref=e905]
+        - navigation [ref=e907]:
+          - heading "Page navigation" [level=1] [ref=e908]
+          - text: "1"
+          - link "Page 2" [ref=e911] [cursor=pointer]:
+            - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&ei=IYIFaqXxMqLomLQPyuu2wAM&start=10&sa=N&sstk=Af77f_fw-Uo9gruABVVff9vmPfO0qrflylZ-g6777KBwCIZZHtBLyx5XZHOMs8_a1ciiW5yGCtJbSj6m8H78xPPt7C6qnknj7kl9eQ&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ8tMDegQIPRAE
+            - text: "2"
+          - link "Page 3" [ref=e913] [cursor=pointer]:
+            - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&ei=IYIFaqXxMqLomLQPyuu2wAM&start=20&sa=N&sstk=Af77f_fw-Uo9gruABVVff9vmPfO0qrflylZ-g6777KBwCIZZHtBLyx5XZHOMs8_a1ciiW5yGCtJbSj6m8H78xPPt7C6qnknj7kl9eQ&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ8tMDegQIPRAG
+            - text: "3"
+          - link "Page 4" [ref=e915] [cursor=pointer]:
+            - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&ei=IYIFaqXxMqLomLQPyuu2wAM&start=30&sa=N&sstk=Af77f_fw-Uo9gruABVVff9vmPfO0qrflylZ-g6777KBwCIZZHtBLyx5XZHOMs8_a1ciiW5yGCtJbSj6m8H78xPPt7C6qnknj7kl9eQ&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ8tMDegQIPRAI
+            - text: "4"
+          - link "Page 5" [ref=e917] [cursor=pointer]:
+            - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&ei=IYIFaqXxMqLomLQPyuu2wAM&start=40&sa=N&sstk=Af77f_fw-Uo9gruABVVff9vmPfO0qrflylZ-g6777KBwCIZZHtBLyx5XZHOMs8_a1ciiW5yGCtJbSj6m8H78xPPt7C6qnknj7kl9eQ&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ8tMDegQIPRAK
+            - text: "5"
+          - link "Page 6" [ref=e919] [cursor=pointer]:
+            - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&ei=IYIFaqXxMqLomLQPyuu2wAM&start=50&sa=N&sstk=Af77f_fw-Uo9gruABVVff9vmPfO0qrflylZ-g6777KBwCIZZHtBLyx5XZHOMs8_a1ciiW5yGCtJbSj6m8H78xPPt7C6qnknj7kl9eQ&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ8tMDegQIPRAM
+            - text: "6"
+          - link "Page 7" [ref=e921] [cursor=pointer]:
+            - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&ei=IYIFaqXxMqLomLQPyuu2wAM&start=60&sa=N&sstk=Af77f_fw-Uo9gruABVVff9vmPfO0qrflylZ-g6777KBwCIZZHtBLyx5XZHOMs8_a1ciiW5yGCtJbSj6m8H78xPPt7C6qnknj7kl9eQ&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ8tMDegQIPRAO
+            - text: "7"
+          - link "Page 8" [ref=e923] [cursor=pointer]:
+            - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&ei=IYIFaqXxMqLomLQPyuu2wAM&start=70&sa=N&sstk=Af77f_fw-Uo9gruABVVff9vmPfO0qrflylZ-g6777KBwCIZZHtBLyx5XZHOMs8_a1ciiW5yGCtJbSj6m8H78xPPt7C6qnknj7kl9eQ&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ8tMDegQIPRAQ
+            - text: "8"
+          - link "Page 9" [ref=e925] [cursor=pointer]:
+            - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&ei=IYIFaqXxMqLomLQPyuu2wAM&start=80&sa=N&sstk=Af77f_fw-Uo9gruABVVff9vmPfO0qrflylZ-g6777KBwCIZZHtBLyx5XZHOMs8_a1ciiW5yGCtJbSj6m8H78xPPt7C6qnknj7kl9eQ&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ8tMDegQIPRAS
+            - text: "9"
+          - link "Page 10" [ref=e927] [cursor=pointer]:
+            - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&ei=IYIFaqXxMqLomLQPyuu2wAM&start=90&sa=N&sstk=Af77f_fw-Uo9gruABVVff9vmPfO0qrflylZ-g6777KBwCIZZHtBLyx5XZHOMs8_a1ciiW5yGCtJbSj6m8H78xPPt7C6qnknj7kl9eQ&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ8tMDegQIPRAU
+            - text: "10"
+          - heading "Next" [level=2] [ref=e929]:
+            - link "Next" [ref=e930] [cursor=pointer]:
+              - /url: /search?q=AI+ML+internship+in+Karachi&sca_esv=23181f9f9c0f0df0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839&ei=IYIFaqXxMqLomLQPyuu2wAM&start=10&sa=N&sstk=Af77f_fw-Uo9gruABVVff9vmPfO0qrflylZ-g6777KBwCIZZHtBLyx5XZHOMs8_a1ciiW5yGCtJbSj6m8H78xPPt7C6qnknj7kl9eQ&ved=2ahUKEwjlhaPnqLiUAxUiNIYAHcq1DTgQ8NMDegQIPRAW
+              - generic [ref=e932]: Next
+      - navigation
+    - contentinfo [ref=e933]:
+      - heading "Footer links" [level=1] [ref=e934]
+      - generic [ref=e938]:
+        - generic [ref=e941]:
+          - generic [ref=e942]: Results are personalised
+          - generic [ref=e943]: "-"
+          - link "Try without personalisation" [ref=e945] [cursor=pointer]:
+            - /url: https://www.google.com/search?q=AI+ML+internship+in+Karachi&peek_pws=0&sxsrf=ANbL-n7Or5ESl4vu-eLY8mOcn_h6r-b03g:1778745889839
+            - generic [ref=e946]: Try without personalisation
+        - generic [ref=e948]:
+          - text: Pakistan
+          - generic [ref=e950]:
+            - button "Karachi Cantonment, Karachi - From your IP address" [ref=e952] [cursor=pointer]:
+              - generic [ref=e953]: Karachi Cantonment, Karachi
+              - generic [ref=e955]:
+                - text: "-"
+                - generic [ref=e956]: From your IP address
+            - text: "-"
+            - button "Update location" [ref=e958] [cursor=pointer]: Update location
+        - generic [ref=e961]:
+          - link "Help" [ref=e962] [cursor=pointer]:
+            - /url: https://support.google.com/websearch/?p=ws_results_help&hl=en-PK&fg=1
+          - link "Send feedback" [ref=e963] [cursor=pointer]:
+            - /url: "#"
+          - link "Privacy" [ref=e964] [cursor=pointer]:
+            - /url: https://policies.google.com/privacy?hl=en-PK&fg=1
+          - link "Terms" [ref=e965] [cursor=pointer]:
+            - /url: https://policies.google.com/terms?hl=en-PK&fg=1

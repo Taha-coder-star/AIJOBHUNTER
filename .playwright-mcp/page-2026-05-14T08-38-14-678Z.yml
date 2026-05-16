@@ -1,0 +1,247 @@
+- generic [active] [ref=e1]:
+  - generic:
+    - region "Toast message":
+      - heading "0 notifications total" [level=2] [ref=e3]
+      - alert
+  - generic [ref=e4]:
+    - generic [ref=e6]:
+      - button "Skip to search" [ref=e7] [cursor=pointer]:
+        - generic [ref=e8]: Skip to search
+      - button "Skip to main content" [ref=e9] [cursor=pointer]:
+        - generic [ref=e10]: Skip to main content
+      - button "Keyboard shortcuts" [ref=e11] [cursor=pointer]:
+        - generic [ref=e12]: Keyboard shortcuts
+      - button "Close jump menu" [ref=e13] [cursor=pointer]:
+        - img [ref=e14]
+        - generic [ref=e16]: Close jump menu
+    - banner "Global Navigation" [ref=e17]:
+      - generic [ref=e18]:
+        - link "LinkedIn" [ref=e19] [cursor=pointer]:
+          - /url: https://www.linkedin.com/feed/?nis=true
+          - img "LinkedIn" [ref=e22]:
+            - img [ref=e23]
+        - generic [ref=e30]:
+          - generic [ref=e31]:
+            - generic [ref=e32]: Search by title, skill, or company
+            - img [ref=e33]
+          - combobox "Search by title, skill, or company" [ref=e35]: AI ML internship
+          - textbox [disabled]
+          - textbox [disabled]:
+            - /placeholder: AI ML internship / Karāchi, Sindh, Pakistan
+        - navigation "Primary Navigation" [ref=e36]:
+          - list [ref=e37]:
+            - listitem [ref=e38]:
+              - link "new feed updates notifications Home" [ref=e39] [cursor=pointer]:
+                - /url: https://www.linkedin.com/feed/?nis=true&
+                - generic [ref=e40]:
+                  - generic [ref=e43]: new feed updates notifications
+                  - img [ref=e47]
+                - generic "Home" [ref=e49]
+            - listitem [ref=e50]:
+              - link "1 new network update notification My Network" [ref=e51] [cursor=pointer]:
+                - /url: https://www.linkedin.com/mynetwork/?
+                - generic [ref=e52]:
+                  - generic [ref=e53]:
+                    - generic [ref=e54]: "1"
+                    - generic [ref=e55]: 1 new network update notification
+                  - img [ref=e59]
+                - generic "My Network" [ref=e61]
+            - listitem [ref=e62]:
+              - link "Jobs" [ref=e63] [cursor=pointer]:
+                - /url: https://www.linkedin.com/jobs/?
+                - img [ref=e67]
+                - generic "Jobs" [ref=e69]
+            - listitem [ref=e70]:
+              - link "Messaging" [ref=e71] [cursor=pointer]:
+                - /url: https://www.linkedin.com/messaging/?
+                - img [ref=e75]
+                - generic "Messaging" [ref=e77]
+            - listitem [ref=e78]:
+              - link "6 new notifications Notifications" [ref=e79] [cursor=pointer]:
+                - /url: https://www.linkedin.com/notifications/?
+                - generic [ref=e80]:
+                  - generic [ref=e81]:
+                    - generic [ref=e82]: "6"
+                    - generic [ref=e83]: 6 new notifications
+                  - img [ref=e87]
+                - generic "Notifications" [ref=e89]
+            - listitem [ref=e90]:
+              - button "Taha Ahmed Me" [ref=e92] [cursor=pointer]:
+                - img "Taha Ahmed" [ref=e93]
+                - generic [ref=e94]:
+                  - text: Me
+                  - img [ref=e95]
+            - listitem [ref=e97]:
+              - button "For Business" [ref=e99] [cursor=pointer]:
+                - img [ref=e103]
+                - generic "For Business" [ref=e105]:
+                  - text: For Business
+                  - img [ref=e106]
+            - listitem [ref=e108]:
+              - link "Retry for Rs 0" [ref=e110] [cursor=pointer]:
+                - /url: http://www.linkedin.com/premium/products/?upsellOrderOrigin=Tracking%3Av1%3Apremium_nav_upsell_text%3ANav%3AIn-Product&utype=hiring&referenceId=%2BpRKo8ErSnmwy9brXLRR%2Bg%3D%3D&isSS=false&upsellSlotId=NAV_SPOTLIGHT&destRedirectURL=https%3A%2F%2Fwww.linkedin.com%2Fjobs%2Fsearch%2F%3Fkeywords%3DAI%2520ML%2520internship%26location%3DKarachi%252C%2520Pakistan
+                - generic [ref=e111]:
+                  - img [ref=e112]
+                  - generic [ref=e114]: Retry for Rs 0
+    - generic [ref=e116]:
+      - region "search filters" [ref=e119]:
+        - heading "Jobs search" [level=2] [ref=e120]
+      - main [ref=e131]:
+        - generic [ref=e133]:
+          - generic [ref=e134]:
+            - generic [ref=e135]:
+              - generic [ref=e136]:
+                - generic "AI ML internship in Karāchi, Sindh, Pakistan" [ref=e137]
+                - generic [ref=e141]: 517 results
+              - generic [ref=e144] [cursor=pointer]:
+                - generic [ref=e145]: Set alert
+                - generic [ref=e146]: Set job alert for AI ML internship in Karachi, Pakistan
+                - switch "Set job alert for AI ML internship in Karachi, Pakistan"
+            - generic [ref=e147]:
+              - button "Jump to active job details":
+                - generic [ref=e148] [cursor=pointer]: Jump to active job details
+              - button "Jump to active search result":
+                - generic [ref=e149] [cursor=pointer]: Jump to active search result
+              - list [ref=e150]:
+                - listitem [ref=e151]:
+                  - generic [ref=e154] [cursor=pointer]:
+                    - generic [ref=e155]:
+                      - img "Prime Operations logo" [ref=e159]
+                      - generic [ref=e160]:
+                        - link "Remote Recruiting Associate" [ref=e162]:
+                          - /url: /jobs/view/4412605096/?trk=flagship3_search_srp_jobs
+                          - strong [ref=e164]: Remote Recruiting Associate
+                        - generic [ref=e166]: Prime Operations
+                        - list [ref=e168]:
+                          - listitem [ref=e169]:
+                            - generic [ref=e170]: Pakistan (Remote)
+                    - list [ref=e172]:
+                      - listitem [ref=e173]
+                - listitem [ref=e175]:
+                  - generic [ref=e178] [cursor=pointer]:
+                    - generic [ref=e179]:
+                      - img "YO IT Consulting logo" [ref=e183]
+                      - generic [ref=e184]:
+                        - link "Ai Trainer - Remote" [ref=e186]:
+                          - /url: /jobs/view/4413191643/?trk=flagship3_search_srp_jobs
+                          - strong [ref=e188]: Ai Trainer - Remote
+                        - generic [ref=e190]: YO IT Consulting
+                        - list [ref=e192]:
+                          - listitem [ref=e193]:
+                            - generic [ref=e194]: APAC (Remote)
+                    - list [ref=e196]:
+                      - listitem [ref=e197]
+                - listitem [ref=e199]:
+                  - generic [ref=e202] [cursor=pointer]:
+                    - generic [ref=e203]:
+                      - img "Tether.io logo" [ref=e207]
+                      - generic [ref=e208]:
+                        - link "AI Research Engineer - Pre training (100% Remote)" [ref=e210]:
+                          - /url: /jobs/view/4364270178/?trk=flagship3_search_srp_jobs
+                          - strong [ref=e212]: AI Research Engineer - Pre training (100% Remote)
+                        - generic [ref=e214]: Tether.io
+                        - list [ref=e216]:
+                          - listitem [ref=e217]:
+                            - generic [ref=e218]: Pakistan (Remote)
+                    - list [ref=e220]:
+                      - listitem [ref=e221]
+                - listitem [ref=e223]:
+                  - generic [ref=e226] [cursor=pointer]:
+                    - generic [ref=e227]:
+                      - img "ibex. Pakistan logo" [ref=e231]
+                      - generic [ref=e232]:
+                        - link "ibex. Learning Academy (ILA) with verification" [ref=e234]:
+                          - /url: /jobs/view/4392426341/?trk=flagship3_search_srp_jobs
+                          - generic [ref=e235]:
+                            - strong [ref=e236]: ibex. Learning Academy (ILA)
+                            - img [ref=e238]
+                        - generic [ref=e241]: ibex. Pakistan
+                        - list [ref=e243]:
+                          - listitem [ref=e244]:
+                            - generic [ref=e245]: Karāchi, Sindh, Pakistan (On-site)
+                    - list [ref=e247]:
+                      - listitem [ref=e248]
+                - listitem [ref=e250]:
+                  - generic [ref=e253] [cursor=pointer]:
+                    - generic [ref=e254]:
+                      - img "IT Consulting And Services (ITCS) logo" [ref=e258]
+                      - generic [ref=e259]:
+                        - link "ITCS Internship Program" [ref=e261]:
+                          - /url: /jobs/view/4233575273/?trk=flagship3_search_srp_jobs
+                          - strong [ref=e263]: ITCS Internship Program
+                        - generic [ref=e265]: IT Consulting And Services (ITCS)
+                        - list [ref=e267]:
+                          - listitem [ref=e268]:
+                            - generic [ref=e269]: Karāchi, Sindh, Pakistan (On-site)
+                    - list [ref=e271]:
+                      - listitem [ref=e272]
+                - listitem [ref=e274]:
+                  - generic [ref=e277] [cursor=pointer]:
+                    - generic [ref=e278]:
+                      - img "Metasense logo" [ref=e282]
+                      - generic [ref=e283]:
+                        - link "AI Content Creator (full-time)" [ref=e285]:
+                          - /url: /jobs/view/4412554415/?trk=flagship3_search_srp_jobs
+                          - strong [ref=e287]: AI Content Creator (full-time)
+                        - generic [ref=e289]: Metasense
+                        - list [ref=e291]:
+                          - listitem [ref=e292]:
+                            - generic [ref=e293]: Pakistan (Remote)
+                    - list [ref=e295]:
+                      - listitem [ref=e296]
+                - listitem [ref=e298]:
+                  - generic [ref=e301] [cursor=pointer]:
+                    - generic [ref=e302]:
+                      - img "Reef logo" [ref=e306]
+                      - generic [ref=e307]:
+                        - link "AI Developer" [ref=e309]:
+                          - /url: /jobs/view/4409174009/?trk=flagship3_search_srp_jobs
+                          - strong [ref=e311]: AI Developer
+                        - generic [ref=e313]: Reef
+                        - list [ref=e315]:
+                          - listitem [ref=e316]:
+                            - generic [ref=e317]: Pakistan (Remote)
+                    - list [ref=e319]:
+                      - listitem [ref=e320]
+              - generic [ref=e322]:
+                - paragraph [ref=e325]: Page 1 of 0
+                - generic "LinkedIn Footer Content" [ref=e327]
+          - generic "Remote Recruiting Associate" [ref=e331]:
+            - generic [ref=e335]:
+              - generic [ref=e339]:
+                - generic [ref=e342]:
+                  - button "Share" [ref=e345] [cursor=pointer]:
+                    - img [ref=e346]
+                    - generic [ref=e348]: Share
+                  - button "Show more options" [ref=e350] [cursor=pointer]:
+                    - img [ref=e351]
+                    - generic [ref=e353]: Show more options
+                - heading "Remote Recruiting Associate" [level=1] [ref=e356]:
+                  - link "Remote Recruiting Associate" [ref=e357] [cursor=pointer]:
+                    - /url: /jobs/view/4412605096/?alternateChannel=search&refId=NotAvailable&trackingId=wLuzbxD6Q0%2BKH%2Fnbveba5w%3D%3D&trk=d_flagship3_search_srp_jobs
+                - generic:
+                  - list
+              - article [ref=e370]:
+                - heading "About the job" [level=2] [ref=e373]
+              - alert [ref=e408]: Loading job details
+    - generic:
+      - generic:
+        - complementary:
+          - generic [ref=e422]:
+            - generic [ref=e424] [cursor=pointer]:
+              - img "Taha Ahmed" [ref=e426]
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=e427]:
+                - generic [ref=e428]:
+                  - generic [ref=e429]: Messaging
+                  - generic [ref=e430]: You are on the messaging overlay. Press enter to open the list of conversations.
+            - generic [ref=e431]:
+              - button "Open messenger dropdown menu" [ref=e433] [cursor=pointer]:
+                - img "Open messenger dropdown menu" [ref=e434]
+              - button "Compose message" [ref=e437] [cursor=pointer]:
+                - img [ref=e438]
+                - generic [ref=e440]: Compose message
+              - button "You are on the messaging overlay. Press enter to open the list of conversations." [ref=e441] [cursor=pointer]:
+                - img [ref=e442]
+                - generic [ref=e444]: You are on the messaging overlay. Press enter to open the list of conversations.
+        - complementary "AI-powered assistant to get help with your career, jobs etc"
+  - region [ref=e445]
