@@ -1,0 +1,10 @@
+[mcp_servers.filesystem]
+args = [
+    'C:\Users\tahaj\AppData\Roaming\npm\node_modules\@modelcontextprotocol\server-filesystem\dist\index.js',
+    'C:\Users\tahaj\aijobhunter',
+]
+command = "node"
+
+[mcp_servers.playwright]
+args = ['C:\Users\tahaj\AppData\Roaming\npm\node_modules\@playwright\mcp\cli.js']
+command = "node"
