@@ -1,0 +1,14 @@
+{
+  "name": "Taha Ahmed",
+  "email": "k230534@nu.edu.pk",
+  "phone": "+92-309-1298048",
+  "university": "FAST National University Karachi",
+  "linkedin": "https://www.linkedin.com/in/taha-ahmed-6607b1290/",
+  "github": "https://github.com/Taha-coder-star",
+  "coverIntro": "I am a Computer Science student at FAST National University Karachi with hands-on experience in Python, machine learning, NLP, TensorFlow/Keras/PyTorch, Pandas, and anomaly detection.",
+  "projects": [
+    "UEBA Anomaly Detection System (behavioral analytics, ML-based)",
+    "Natural Language Data Querying (NLP, LLMs)",
+    "Deep Learning Image Classification"
+  ]
+}

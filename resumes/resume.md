@@ -4,6 +4,10 @@ tahajameel381@gmail.com | +92 309 1298048 | Karachi, Pakistan
 
 github.com/Taha-coder-star | linkedin.com/in/taha-ahmed-6607b1290
 
+## Summary
+
+AI/ML-focused Computer Science student at FAST National University with experience in Python, deep learning, NLP, LSTM sequence modeling, anomaly detection, and full-stack web development. Seeking an AI/ML or Technology & Product internship where I can build practical machine learning systems and intelligent applications.
+
 ## Education
 
 **FAST National University of Computer and Emerging Sciences** | Karachi, Pakistan

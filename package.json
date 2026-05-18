@@ -4,7 +4,15 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "jobs:run": "node scripts/job_hunter.js run",
+    "jobs:search": "node scripts/job_hunter.js search",
+    "jobs:score": "node scripts/job_hunter.js score",
+    "jobs:brief": "node scripts/job_hunter.js brief",
+    "jobs:apply": "node scripts/apply.js",
+    "jobs:apply:email": "node scripts/apply.js --source=email",
+    "jobs:apply:linkedin": "node scripts/apply.js --source=linkedin",
+    "jobs:test": "node scripts/job_hunter.js test",
+    "test": "node scripts/job_hunter.js test"
   },
   "keywords": [],
   "author": "",
